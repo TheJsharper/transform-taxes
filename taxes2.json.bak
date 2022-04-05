@@ -2416,11 +2416,10 @@
             }, {
                 "country": "Netherlands",
                 "taxes": [
-                    "21% (standard rate)9% (essential and selected goods)",
                     "25%"
                 ],
 				"differencialTaxes": [{
-                        porcentage: "15%",
+                        "porcentage": "15%",
                         type: "on profits over"
                     },{
                         porcentage: "37.07%",
