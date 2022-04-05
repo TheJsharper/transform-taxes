@@ -1,0 +1,1517 @@
+{
+  "head": {
+    "title": "",
+    "meta": [],
+    "link": [],
+    "script": []
+  },
+  "headers": [],
+  "jsonLd": [],
+  "iframes": [],
+  "embeds": [],
+  "imgs": [
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/35px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/45px-Flag_of_Austria.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/35px-Flag_of_Belgium_%28civil%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/45px-Flag_of_Belgium_%28civil%29.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/23px-Flag_of_Bulgaria.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/23px-Flag_of_Bulgaria.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "14",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/35px-Flag_of_Bulgaria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/46px-Flag_of_Bulgaria.svg.png 2x",
+        "data-file-width": "1000",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/23px-Flag_of_Croatia.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/23px-Flag_of_Croatia.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "12",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/35px-Flag_of_Croatia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/46px-Flag_of_Croatia.svg.png 2x",
+        "data-file-width": "1200",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/23px-Flag_of_Cyprus.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/23px-Flag_of_Cyprus.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/35px-Flag_of_Cyprus.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/45px-Flag_of_Cyprus.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/23px-Flag_of_the_Czech_Republic.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/23px-Flag_of_the_Czech_Republic.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/35px-Flag_of_the_Czech_Republic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/45px-Flag_of_the_Czech_Republic.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png",
+        "decoding": "async",
+        "width": "20",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/31px-Flag_of_Denmark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/40px-Flag_of_Denmark.svg.png 2x",
+        "data-file-width": "512",
+        "data-file-height": "387"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/23px-Flag_of_Estonia.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/23px-Flag_of_Estonia.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/35px-Flag_of_Estonia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/46px-Flag_of_Estonia.svg.png 2x",
+        "data-file-width": "990",
+        "data-file-height": "630"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "14",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x",
+        "data-file-width": "1800",
+        "data-file-height": "1100"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "14",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x",
+        "data-file-width": "1000",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/23px-Flag_of_Greece.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/23px-Flag_of_Greece.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/35px-Flag_of_Greece.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/45px-Flag_of_Greece.svg.png 2x",
+        "data-file-width": "600",
+        "data-file-height": "400"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/23px-Flag_of_Hungary.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/23px-Flag_of_Hungary.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "12",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/35px-Flag_of_Hungary.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/46px-Flag_of_Hungary.svg.png 2x",
+        "data-file-width": "1200",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/23px-Flag_of_Ireland.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/23px-Flag_of_Ireland.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "12",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/35px-Flag_of_Ireland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/46px-Flag_of_Ireland.svg.png 2x",
+        "data-file-width": "1200",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x",
+        "data-file-width": "1500",
+        "data-file-height": "1000"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/23px-Flag_of_Latvia.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/23px-Flag_of_Latvia.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "12",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/35px-Flag_of_Latvia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/46px-Flag_of_Latvia.svg.png 2x",
+        "data-file-width": "1200",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/23px-Flag_of_Lithuania.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/23px-Flag_of_Lithuania.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "14",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/35px-Flag_of_Lithuania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/46px-Flag_of_Lithuania.svg.png 2x",
+        "data-file-width": "1000",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/23px-Flag_of_Luxembourg.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/23px-Flag_of_Luxembourg.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "14",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/35px-Flag_of_Luxembourg.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/46px-Flag_of_Luxembourg.svg.png 2x",
+        "data-file-width": "1000",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/23px-Flag_of_Malta.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/23px-Flag_of_Malta.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/35px-Flag_of_Malta.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/45px-Flag_of_Malta.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "14",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x",
+        "data-file-width": "1280",
+        "data-file-height": "800"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/23px-Flag_of_Portugal.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/23px-Flag_of_Portugal.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/35px-Flag_of_Portugal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/45px-Flag_of_Portugal.svg.png 2x",
+        "data-file-width": "600",
+        "data-file-height": "400"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/23px-Flag_of_Romania.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/23px-Flag_of_Romania.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/35px-Flag_of_Romania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/45px-Flag_of_Romania.svg.png 2x",
+        "data-file-width": "600",
+        "data-file-height": "400"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/23px-Flag_of_Slovakia.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/23px-Flag_of_Slovakia.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/35px-Flag_of_Slovakia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/45px-Flag_of_Slovakia.svg.png 2x",
+        "data-file-width": "512",
+        "data-file-height": "341"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/23px-Flag_of_Slovenia.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/23px-Flag_of_Slovenia.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "12",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/35px-Flag_of_Slovenia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/46px-Flag_of_Slovenia.svg.png 2x",
+        "data-file-width": "1200",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x",
+        "data-file-width": "750",
+        "data-file-height": "500"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "14",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x",
+        "data-file-width": "1600",
+        "data-file-height": "1000"
+      }
+    }
+  ],
+  "links": [
+    {
+      "text": "[65]",
+      "href": "#cite_note-VATlive-65",
+      "attr": {
+        "href": "#cite_note-VATlive-65"
+      }
+    },
+    {
+      "text": "[66]",
+      "href": "#cite_note-66",
+      "attr": {
+        "href": "#cite_note-66"
+      }
+    },
+    {
+      "text": "[67]",
+      "href": "#cite_note-2016_AGN_VAT_Brochure_-_European_Comparison-67",
+      "attr": {
+        "href": "#cite_note-2016_AGN_VAT_Brochure_-_European_Comparison-67"
+      }
+    },
+    {
+      "text": "[65]",
+      "href": "#cite_note-VATlive-65",
+      "attr": {
+        "href": "#cite_note-VATlive-65"
+      }
+    },
+    {
+      "text": "[65]",
+      "href": "#cite_note-VATlive-65",
+      "attr": {
+        "href": "#cite_note-VATlive-65"
+      }
+    },
+    {
+      "text": "[68]",
+      "href": "#cite_note-AGN_International_agn.org-68",
+      "attr": {
+        "href": "#cite_note-AGN_International_agn.org-68"
+      }
+    },
+    {
+      "text": "[65]",
+      "href": "#cite_note-VATlive-65",
+      "attr": {
+        "href": "#cite_note-VATlive-65"
+      }
+    },
+    {
+      "text": "[69]",
+      "href": "#cite_note-69",
+      "attr": {
+        "href": "#cite_note-69"
+      }
+    },
+    {
+      "text": "[65]",
+      "href": "#cite_note-VATlive-65",
+      "attr": {
+        "href": "#cite_note-VATlive-65"
+      }
+    },
+    {
+      "text": "[70]",
+      "href": "#cite_note-70",
+      "attr": {
+        "href": "#cite_note-70"
+      }
+    },
+    {
+      "text": "[65]",
+      "href": "#cite_note-VATlive-65",
+      "attr": {
+        "href": "#cite_note-VATlive-65"
+      }
+    },
+    {
+      "text": "[65]",
+      "href": "#cite_note-VATlive-65",
+      "attr": {
+        "href": "#cite_note-VATlive-65"
+      }
+    },
+    {
+      "text": "[65]",
+      "href": "#cite_note-VATlive-65",
+      "attr": {
+        "href": "#cite_note-VATlive-65"
+      }
+    },
+    {
+      "text": "Heligoland",
+      "href": "/wiki/Heligoland",
+      "attr": {
+        "href": "/wiki/Heligoland",
+        "title": "Heligoland"
+      }
+    },
+    {
+      "text": "[65]",
+      "href": "#cite_note-VATlive-65",
+      "attr": {
+        "href": "#cite_note-VATlive-65"
+      }
+    },
+    {
+      "text": "[71]",
+      "href": "#cite_note-71",
+      "attr": {
+        "href": "#cite_note-71"
+      }
+    },
+    {
+      "text": "citation needed",
+      "href": "/wiki/Wikipedia:Citation_needed",
+      "attr": {
+        "href": "/wiki/Wikipedia:Citation_needed",
+        "title": "Wikipedia:Citation needed"
+      }
+    },
+    {
+      "text": "[65]",
+      "href": "#cite_note-VATlive-65",
+      "attr": {
+        "href": "#cite_note-VATlive-65"
+      }
+    },
+    {
+      "text": "[72]",
+      "href": "#cite_note-72",
+      "attr": {
+        "href": "#cite_note-72"
+      }
+    },
+    {
+      "text": "[73]",
+      "href": "#cite_note-73",
+      "attr": {
+        "href": "#cite_note-73"
+      }
+    },
+    {
+      "text": "[74]",
+      "href": "#cite_note-74",
+      "attr": {
+        "href": "#cite_note-74"
+      }
+    },
+    {
+      "text": "[65]",
+      "href": "#cite_note-VATlive-65",
+      "attr": {
+        "href": "#cite_note-VATlive-65"
+      }
+    },
+    {
+      "text": "[75]",
+      "href": "#cite_note-75",
+      "attr": {
+        "href": "#cite_note-75"
+      }
+    },
+    {
+      "text": "[65]",
+      "href": "#cite_note-VATlive-65",
+      "attr": {
+        "href": "#cite_note-VATlive-65"
+      }
+    },
+    {
+      "text": "Livigno",
+      "href": "/wiki/Livigno",
+      "attr": {
+        "href": "/wiki/Livigno",
+        "title": "Livigno"
+      }
+    },
+    {
+      "text": "[65]",
+      "href": "#cite_note-VATlive-65",
+      "attr": {
+        "href": "#cite_note-VATlive-65"
+      }
+    },
+    {
+      "text": "[65]",
+      "href": "#cite_note-VATlive-65",
+      "attr": {
+        "href": "#cite_note-VATlive-65"
+      }
+    },
+    {
+      "text": "[65]",
+      "href": "#cite_note-VATlive-65",
+      "attr": {
+        "href": "#cite_note-VATlive-65"
+      }
+    },
+    {
+      "text": "[76]",
+      "href": "#cite_note-aed.public.lu-76",
+      "attr": {
+        "href": "#cite_note-aed.public.lu-76"
+      }
+    },
+    {
+      "text": "[76]",
+      "href": "#cite_note-aed.public.lu-76",
+      "attr": {
+        "href": "#cite_note-aed.public.lu-76"
+      }
+    },
+    {
+      "text": "[65]",
+      "href": "#cite_note-VATlive-65",
+      "attr": {
+        "href": "#cite_note-VATlive-65"
+      }
+    },
+    {
+      "text": "[65]",
+      "href": "#cite_note-VATlive-65",
+      "attr": {
+        "href": "#cite_note-VATlive-65"
+      }
+    },
+    {
+      "text": "[68]",
+      "href": "#cite_note-AGN_International_agn.org-68",
+      "attr": {
+        "href": "#cite_note-AGN_International_agn.org-68"
+      }
+    },
+    {
+      "text": "[77]",
+      "href": "#cite_note-77",
+      "attr": {
+        "href": "#cite_note-77"
+      }
+    },
+    {
+      "text": "[78]",
+      "href": "#cite_note-:1-78",
+      "attr": {
+        "href": "#cite_note-:1-78"
+      }
+    },
+    {
+      "text": "[79]",
+      "href": "#cite_note-:2-79",
+      "attr": {
+        "href": "#cite_note-:2-79"
+      }
+    },
+    {
+      "text": "Madeira",
+      "href": "/wiki/Madeira",
+      "attr": {
+        "href": "/wiki/Madeira",
+        "title": "Madeira"
+      }
+    },
+    {
+      "text": "Azores",
+      "href": "/wiki/Azores",
+      "attr": {
+        "href": "/wiki/Azores",
+        "title": "Azores"
+      }
+    },
+    {
+      "text": "[78]",
+      "href": "#cite_note-:1-78",
+      "attr": {
+        "href": "#cite_note-:1-78"
+      }
+    },
+    {
+      "text": "[79]",
+      "href": "#cite_note-:2-79",
+      "attr": {
+        "href": "#cite_note-:2-79"
+      }
+    },
+    {
+      "text": "[80]",
+      "href": "#cite_note-80",
+      "attr": {
+        "href": "#cite_note-80"
+      }
+    },
+    {
+      "text": "[78]",
+      "href": "#cite_note-:1-78",
+      "attr": {
+        "href": "#cite_note-:1-78"
+      }
+    },
+    {
+      "text": "[79]",
+      "href": "#cite_note-:2-79",
+      "attr": {
+        "href": "#cite_note-:2-79"
+      }
+    },
+    {
+      "text": "[81]",
+      "href": "#cite_note-81",
+      "attr": {
+        "href": "#cite_note-81"
+      }
+    },
+    {
+      "text": "[65]",
+      "href": "#cite_note-VATlive-65",
+      "attr": {
+        "href": "#cite_note-VATlive-65"
+      }
+    },
+    {
+      "text": "[82]",
+      "href": "#cite_note-82",
+      "attr": {
+        "href": "#cite_note-82"
+      }
+    },
+    {
+      "text": "[65]",
+      "href": "#cite_note-VATlive-65",
+      "attr": {
+        "href": "#cite_note-VATlive-65"
+      }
+    },
+    {
+      "text": "Canary Islands",
+      "href": "/wiki/Canary_Islands",
+      "attr": {
+        "href": "/wiki/Canary_Islands",
+        "title": "Canary Islands"
+      }
+    },
+    {
+      "text": "EU VAT area",
+      "href": "/wiki/European_Union_VAT_area",
+      "attr": {
+        "href": "/wiki/European_Union_VAT_area",
+        "class": "mw-redirect",
+        "title": "European Union VAT area"
+      }
+    },
+    {
+      "text": "[83]",
+      "href": "#cite_note-ESP_sep_2012-83",
+      "attr": {
+        "href": "#cite_note-ESP_sep_2012-83"
+      }
+    },
+    {
+      "text": "[65]",
+      "href": "#cite_note-VATlive-65",
+      "attr": {
+        "href": "#cite_note-VATlive-65"
+      }
+    },
+    {
+      "text": "[84]",
+      "href": "#cite_note-84",
+      "attr": {
+        "href": "#cite_note-84"
+      }
+    },
+    {
+      "text": "[65]",
+      "href": "#cite_note-VATlive-65",
+      "attr": {
+        "href": "#cite_note-VATlive-65"
+      }
+    },
+    {
+      "text": "[85]",
+      "href": "#cite_note-85",
+      "attr": {
+        "href": "#cite_note-85"
+      }
+    },
+    {
+      "text": "[86]",
+      "href": "#cite_note-86",
+      "attr": {
+        "href": "#cite_note-86"
+      }
+    }
+  ],
+  "forms": [],
+  "tables": [
+    {
+      "attr": {
+        "class": "wikitable sortable jquery-tablesorter"
+      },
+      "rows": [
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": {
+                "class": "headerSort",
+                "tabindex": "0",
+                "role": "columnheader button",
+                "title": "Sort ascending"
+              },
+              "nodeValue": "Country"
+            },
+            {
+              "attr": {
+                "class": "headerSort",
+                "tabindex": "0",
+                "role": "columnheader button",
+                "title": "Sort ascending"
+              },
+              "nodeValue": "Standard rate (current)"
+            },
+            {
+              "attr": {
+                "class": "headerSort",
+                "tabindex": "0",
+                "role": "columnheader button",
+                "title": "Sort ascending"
+              },
+              "nodeValue": "Reduced rate (current)"
+            },
+            {
+              "attr": {
+                "class": "unsortable"
+              },
+              "nodeValue": "Abbreviation"
+            },
+            {
+              "attr": {
+                "class": "unsortable"
+              },
+              "nodeValue": "Local name"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Austria"
+            },
+            {
+              "attr": [],
+              "nodeValue": "20%[65]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "10% for rental for the purpose of habitation, food, garbage collection, most transportation, etc.13% for plants, live animals and animal food, art, wine (if bought directly from the winemaker), etc.[66]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "MwSt./USt."
+            },
+            {
+              "attr": [],
+              "nodeValue": "MehrwertSteuer/UmsatzSteuer"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Belgium"
+            },
+            {
+              "attr": [],
+              "nodeValue": "21%[67]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "12% or 6% (for food or live necessary consumables) or 0% in some cases"
+            },
+            {
+              "attr": [],
+              "nodeValue": "BTW  TVA  MwSt"
+            },
+            {
+              "attr": [],
+              "nodeValue": "Belasting over de Toegevoegde Waarde  Taxe sur la Valeur AjoutÃ©e  MehrwertSteuer"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Bulgaria"
+            },
+            {
+              "attr": [],
+              "nodeValue": "20%[65]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "9% (hotels) or 0%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "ÐÐÐ¡"
+            },
+            {
+              "attr": [],
+              "nodeValue": "ÐÐ°Ð½ÑÐº ÐÐ¾Ð±Ð°Ð²ÐµÐ½Ð° CÑÐ¾Ð¹Ð½Ð¾ÑÑ"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Croatia"
+            },
+            {
+              "attr": [],
+              "nodeValue": "25%[65]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "13% (since 1 January 2014) or 5% (since 1 January 2013)"
+            },
+            {
+              "attr": [],
+              "nodeValue": "PDV"
+            },
+            {
+              "attr": [],
+              "nodeValue": "Porez na Dodanu Vrijednost"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Cyprus"
+            },
+            {
+              "attr": [],
+              "nodeValue": "19%[68]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "5% (8% for taxi and bus transportation)"
+            },
+            {
+              "attr": [],
+              "nodeValue": "Î¦Î&nbsp;Î"
+            },
+            {
+              "attr": [],
+              "nodeValue": "Î¦ÏÏÎ¿Ï Î&nbsp;ÏÎ¿ÏÏÎ¹Î¸Î­Î¼ÎµÎ½Î·Ï ÎÎ¾Î¯Î±Ï"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Czech Republic"
+            },
+            {
+              "attr": [],
+              "nodeValue": "21%[65][69]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "15% (food, public transport) or 10% (medicines, pharmaceuticals, books and baby foodstuffs)"
+            },
+            {
+              "attr": [],
+              "nodeValue": "DPH"
+            },
+            {
+              "attr": [],
+              "nodeValue": "DaÅ z PÅidanÃ© Hodnoty"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Denmark"
+            },
+            {
+              "attr": [],
+              "nodeValue": "25%[65][70]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "0%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "Moms"
+            },
+            {
+              "attr": [],
+              "nodeValue": "MeromsÃ¦tningsafgift"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Estonia"
+            },
+            {
+              "attr": [],
+              "nodeValue": "20%[65]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "9%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "Km"
+            },
+            {
+              "attr": [],
+              "nodeValue": "KÃ¤ibemaks"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Finland"
+            },
+            {
+              "attr": [],
+              "nodeValue": "24%[65]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "14% (foodstuffs, restaurants) or 10% (medicines, cultural services and events, passenger transport, hotels, books and magazines)"
+            },
+            {
+              "attr": [],
+              "nodeValue": "ALVMoms"
+            },
+            {
+              "attr": [],
+              "nodeValue": "ArvonlisÃ¤vero (Finnish)MervÃ¤rdesskatt (Swedish)"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;France"
+            },
+            {
+              "attr": [],
+              "nodeValue": "20%[65]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "10% or 5.5% or 2.1%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "TVA"
+            },
+            {
+              "attr": [],
+              "nodeValue": "Taxe sur la Valeur AjoutÃ©e"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Germany"
+            },
+            {
+              "attr": [],
+              "nodeValue": "19% (Heligoland 0%)[65][71]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "7%[citation needed] for foodstuffs (except luxury-), books, flowers etc., 0% for postage stamps. (Heligoland always 0%)"
+            },
+            {
+              "attr": [],
+              "nodeValue": "MwSt./USt."
+            },
+            {
+              "attr": [],
+              "nodeValue": "MehrwertSteuer/UmsatzSteuer"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Greece"
+            },
+            {
+              "attr": [],
+              "nodeValue": "24%[65][72](16% on Aegean islands)"
+            },
+            {
+              "attr": [],
+              "nodeValue": "13% (6.5% for hotels, books and pharmaceutical products)(8% and 4% on Aegean islands)"
+            },
+            {
+              "attr": [],
+              "nodeValue": "Î¦Î&nbsp;Î"
+            },
+            {
+              "attr": [],
+              "nodeValue": "Î¦ÏÏÎ¿Ï Î&nbsp;ÏÎ¿ÏÏÎ¹Î¸Î­Î¼ÎµÎ½Î·Ï ÎÎ¾Î¯Î±Ï"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Hungary"
+            },
+            {
+              "attr": [],
+              "nodeValue": "27%[73]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "18% (milk and dairy products, cereal products, hotels, tickets to outdoor music events) or 5% (pharmaceutical products, medical equipment, books and periodicals, some meat products, district heating, heating based on renewable sources, live music performance under certain circumstances) or 0% (postal services, medical services, mother's milk, etc.)[74]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "ÃFA"
+            },
+            {
+              "attr": [],
+              "nodeValue": "ÃltalÃ¡nos Forgalmi AdÃ³"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Ireland"
+            },
+            {
+              "attr": [],
+              "nodeValue": "23%[65][75]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "13.5% or 9.0% or 4.8% or 0%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "CBlVAT"
+            },
+            {
+              "attr": [],
+              "nodeValue": "CÃ¡in Bhreisluacha (Irish)Value Added Tax (English)"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Italy"
+            },
+            {
+              "attr": [],
+              "nodeValue": "22%[65] (Livigno 0%)[65]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "10% (hotels, bars, restaurants and other tourism products, certain foodstuffs, plant protection products and special works of building restoration, home-use utilities: electricity, gas used for cooking and water) or 4% (e.g. grocery staples, daily or periodical press and books, works for the elimination of architectural barriers, some kinds of seeds, fertilizers)"
+            },
+            {
+              "attr": [],
+              "nodeValue": "IVA"
+            },
+            {
+              "attr": [],
+              "nodeValue": "Imposta sul Valore Aggiunto"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Latvia"
+            },
+            {
+              "attr": [],
+              "nodeValue": "21%[65]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "12% or 0%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "PVN"
+            },
+            {
+              "attr": [],
+              "nodeValue": "PievienotÄs VÄrtÄ«bas Nodoklis"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Lithuania"
+            },
+            {
+              "attr": [],
+              "nodeValue": "21%[65]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "9% or 5%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "PVM"
+            },
+            {
+              "attr": [],
+              "nodeValue": "PridÄtinÄs VertÄs Mokestis"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Luxembourg"
+            },
+            {
+              "attr": [],
+              "nodeValue": "17%[76]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "14% on certain wines, 8% on public utilities, or 3% on books and press, food (including restaurant meals), children's clothing, hotel stays, and public transit[76]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "TVAMwSt./UStMS"
+            },
+            {
+              "attr": [],
+              "nodeValue": "Taxe sur la Valeur AjoutÃ©eMehrwertsteuer/UmsatzsteuerMÃ©iwÃ¤ert Steier"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Malta"
+            },
+            {
+              "attr": [],
+              "nodeValue": "18%[65]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "7% or 5% or 0%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "TVMVAT"
+            },
+            {
+              "attr": [],
+              "nodeValue": "Taxxa tal-Valur MiÅ¼judValue Added Tax"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Netherlands"
+            },
+            {
+              "attr": [],
+              "nodeValue": "21%[65]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "9% for special categories of products and services like food, medicine and art.\n0% for products and services that are already taxed in other countries or systems, for excise goods, and for fish."
+            },
+            {
+              "attr": [],
+              "nodeValue": "BTW/Ob"
+            },
+            {
+              "attr": [],
+              "nodeValue": "Belasting over de Toegevoegde Waarde/ Omzetbelasting/ Voorbelasting"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Poland"
+            },
+            {
+              "attr": [],
+              "nodeValue": "23%[68][77]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "8% or 5% or 0%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "PTU"
+            },
+            {
+              "attr": [],
+              "nodeValue": "Podatek od TowarÃ³w i UsÅug"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Portugal"
+            },
+            {
+              "attr": [],
+              "nodeValue": "23%[78][79]22% in Madeira and 18% in Azores[78][79]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "13% for processed food, provision of services, and others such as oil and diesel, climate action focused goods and musical instruments and 6% for food products, agricultural services, and other deemed essential products such as farmaceutical products and public transport[80]12% or 5% in Madeira and 9% or 4% in Azores[78][79]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "IVA"
+            },
+            {
+              "attr": [],
+              "nodeValue": "Imposto sobre o Valor Acrescentado"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Romania"
+            },
+            {
+              "attr": [],
+              "nodeValue": "19%[81]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "9% (food and non-alcoholic drinks) or 5% (buyers of new homes under special conditions)"
+            },
+            {
+              "attr": [],
+              "nodeValue": "TVA"
+            },
+            {
+              "attr": [],
+              "nodeValue": "Taxa pe Valoarea AdÄugatÄ"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Slovakia"
+            },
+            {
+              "attr": [],
+              "nodeValue": "20%[65]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "10%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "DPH"
+            },
+            {
+              "attr": [],
+              "nodeValue": "DaÅ z Pridanej Godnoty"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Slovenia"
+            },
+            {
+              "attr": [],
+              "nodeValue": "22%[82]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "9.5%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "DDV"
+            },
+            {
+              "attr": [],
+              "nodeValue": "Davek na Dodano Vrednost"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Spain"
+            },
+            {
+              "attr": [],
+              "nodeValue": "21%[65]7% in Canary Islands (not part of EU VAT area)"
+            },
+            {
+              "attr": [],
+              "nodeValue": "10% (10% from 1 September 2012[83]) or 4%[65][84]3% or 0% in Canary Islands"
+            },
+            {
+              "attr": [],
+              "nodeValue": "IVAIGIC"
+            },
+            {
+              "attr": [],
+              "nodeValue": "Impuesto sobre el Valor AÃ±adidoImpuesto General Indirecto Canario"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Sweden"
+            },
+            {
+              "attr": [],
+              "nodeValue": "25%[65]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "12% (e.g. food, hotels and restaurants), 6% (e.g. books, passenger transport, cultural events and activities), 0% (e.g. insurance, financial services, health care, dental care, prescription drugs, immovable property)[85][86]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "MOMS"
+            },
+            {
+              "attr": [],
+              "nodeValue": "MervÃ¤rdes- och OMSÃ¤ttningsskatt"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "content": "Country\nStandard rate (current)\nReduced rate (current)\nAbbreviation\nLocal name\n&nbsp;Austria\n20%[65]\n10% for rental for the purpose of habitation, food, garbage collection, most transportation, etc.13% for plants, live animals and animal food, art, wine (if bought directly from the winemaker), etc.[66]\nMwSt./USt.\nMehrwertSteuer/UmsatzSteuer\n&nbsp;Belgium\n21%[67]\n12% or 6% (for food or live necessary consumables) or 0% in some cases\nBTW  TVA  MwSt\nBelasting over de Toegevoegde Waarde  Taxe sur la Valeur AjoutÃ©e  MehrwertSteuer\n&nbsp;Bulgaria\n20%[65]\n9% (hotels) or 0%\nÐÐÐ¡\nÐÐ°Ð½ÑÐº ÐÐ¾Ð±Ð°Ð²ÐµÐ½Ð° CÑÐ¾Ð¹Ð½Ð¾ÑÑ\n&nbsp;Croatia\n25%[65]\n13% (since 1 January 2014) or 5% (since 1 January 2013)\nPDV\nPorez na Dodanu Vrijednost\n&nbsp;Cyprus\n19%[68]\n5% (8% for taxi and bus transportation)\nÎ¦Î&nbsp;Î\nÎ¦ÏÏÎ¿Ï Î&nbsp;ÏÎ¿ÏÏÎ¹Î¸Î­Î¼ÎµÎ½Î·Ï ÎÎ¾Î¯Î±Ï\n&nbsp;Czech Republic\n21%[65][69]\n15% (food, public transport) or 10% (medicines, pharmaceuticals, books and baby foodstuffs)\nDPH\nDaÅ z PÅidanÃ© Hodnoty\n&nbsp;Denmark\n25%[65][70]\n0%\nMoms\nMeromsÃ¦tningsafgift\n&nbsp;Estonia\n20%[65]\n9%\nKm\nKÃ¤ibemaks\n&nbsp;Finland\n24%[65]\n14% (foodstuffs, restaurants) or 10% (medicines, cultural services and events, passenger transport, hotels, books and magazines)\nALVMoms\nArvonlisÃ¤vero (Finnish)MervÃ¤rdesskatt (Swedish)\n&nbsp;France\n20%[65]\n10% or 5.5% or 2.1%\nTVA\nTaxe sur la Valeur AjoutÃ©e\n&nbsp;Germany\n19% (Heligoland 0%)[65][71]\n7%[citation needed] for foodstuffs (except luxury-), books, flowers etc., 0% for postage stamps. (Heligoland always 0%)\nMwSt./USt.\nMehrwertSteuer/UmsatzSteuer\n&nbsp;Greece\n24%[65][72](16% on Aegean islands)\n13% (6.5% for hotels, books and pharmaceutical products)(8% and 4% on Aegean islands)\nÎ¦Î&nbsp;Î\nÎ¦ÏÏÎ¿Ï Î&nbsp;ÏÎ¿ÏÏÎ¹Î¸Î­Î¼ÎµÎ½Î·Ï ÎÎ¾Î¯Î±Ï\n&nbsp;Hungary\n27%[73]\n18% (milk and dairy products, cereal products, hotels, tickets to outdoor music events) or 5% (pharmaceutical products, medical equipment, books and periodicals, some meat products, district heating, heating based on renewable sources, live music performance under certain circumstances) or 0% (postal services, medical services, mother's milk, etc.)[74]\nÃFA\nÃltalÃ¡nos Forgalmi AdÃ³\n&nbsp;Ireland\n23%[65][75]\n13.5% or 9.0% or 4.8% or 0%\nCBlVAT\nCÃ¡in Bhreisluacha (Irish)Value Added Tax (English)\n&nbsp;Italy\n22%[65] (Livigno 0%)[65]\n10% (hotels, bars, restaurants and other tourism products, certain foodstuffs, plant protection products and special works of building restoration, home-use utilities: electricity, gas used for cooking and water) or 4% (e.g. grocery staples, daily or periodical press and books, works for the elimination of architectural barriers, some kinds of seeds, fertilizers)\nIVA\nImposta sul Valore Aggiunto\n&nbsp;Latvia\n21%[65]\n12% or 0%\nPVN\nPievienotÄs VÄrtÄ«bas Nodoklis\n&nbsp;Lithuania\n21%[65]\n9% or 5%\nPVM\nPridÄtinÄs VertÄs Mokestis\n&nbsp;Luxembourg\n17%[76]\n14% on certain wines, 8% on public utilities, or 3% on books and press, food (including restaurant meals), children's clothing, hotel stays, and public transit[76]\nTVAMwSt./UStMS\nTaxe sur la Valeur AjoutÃ©eMehrwertsteuer/UmsatzsteuerMÃ©iwÃ¤ert Steier\n&nbsp;Malta\n18%[65]\n7% or 5% or 0%\nTVMVAT\nTaxxa tal-Valur MiÅ¼judValue Added Tax\n&nbsp;Netherlands\n21%[65]\n9% for special categories of products and services like food, medicine and art.\n0% for products and services that are already taxed in other countries or systems, for excise goods, and for fish.\nBTW/Ob\nBelasting over de Toegevoegde Waarde/ Omzetbelasting/ Voorbelasting\n&nbsp;Poland\n23%[68][77]\n8% or 5% or 0%\nPTU\nPodatek od TowarÃ³w i UsÅug\n&nbsp;Portugal\n23%[78][79]22% in Madeira and 18% in Azores[78][79]\n13% for processed food, provision of services, and others such as oil and diesel, climate action focused goods and musical instruments and 6% for food products, agricultural services, and other deemed essential products such as farmaceutical products and public transport[80]12% or 5% in Madeira and 9% or 4% in Azores[78][79]\nIVA\nImposto sobre o Valor Acrescentado\n&nbsp;Romania\n19%[81]\n9% (food and non-alcoholic drinks) or 5% (buyers of new homes under special conditions)\nTVA\nTaxa pe Valoarea AdÄugatÄ\n&nbsp;Slovakia\n20%[65]\n10%\nDPH\nDaÅ z Pridanej Godnoty\n&nbsp;Slovenia\n22%[82]\n9.5%\nDDV\nDavek na Dodano Vrednost\n&nbsp;Spain\n21%[65]7% in Canary Islands (not part of EU VAT area)\n10% (10% from 1 September 2012[83]) or 4%[65][84]3% or 0% in Canary Islands\nIVAIGIC\nImpuesto sobre el Valor AÃ±adidoImpuesto General Indirecto Canario\n&nbsp;Sweden\n25%[65]\n12% (e.g. food, hotels and restaurants), 6% (e.g. books, passenger transport, cultural events and activities), 0% (e.g. insurance, financial services, health care, dental care, prescription drugs, immovable property)[85][86]\nMOMS\nMervÃ¤rdes- och OMSÃ¤ttningsskatt"
+}

@@ -1,0 +1,5364 @@
+{
+  "head": {
+    "title": "",
+    "meta": [],
+    "link": [],
+    "script": []
+  },
+  "headers": [],
+  "jsonLd": [],
+  "iframes": [],
+  "embeds": [],
+  "imgs": [
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/21px-Flag_of_Albania.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/21px-Flag_of_Albania.svg.png",
+        "decoding": "async",
+        "width": "21",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/32px-Flag_of_Albania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/42px-Flag_of_Albania.svg.png 2x",
+        "data-file-width": "980",
+        "data-file-height": "700"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/23px-Flag_of_Algeria.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/23px-Flag_of_Algeria.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/35px-Flag_of_Algeria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/45px-Flag_of_Algeria.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/22px-Flag_of_Andorra.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/22px-Flag_of_Andorra.svg.png",
+        "decoding": "async",
+        "width": "22",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/33px-Flag_of_Andorra.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/43px-Flag_of_Andorra.svg.png 2x",
+        "data-file-width": "1000",
+        "data-file-height": "700"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/23px-Flag_of_Angola.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/23px-Flag_of_Angola.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/35px-Flag_of_Angola.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/45px-Flag_of_Angola.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/23px-Flag_of_Antigua_and_Barbuda.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/23px-Flag_of_Antigua_and_Barbuda.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/35px-Flag_of_Antigua_and_Barbuda.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/45px-Flag_of_Antigua_and_Barbuda.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "14",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/35px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/46px-Flag_of_Argentina.svg.png 2x",
+        "data-file-width": "800",
+        "data-file-height": "500"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/23px-Flag_of_Armenia.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/23px-Flag_of_Armenia.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "12",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/35px-Flag_of_Armenia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/46px-Flag_of_Armenia.svg.png 2x",
+        "data-file-width": "1200",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "12",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x",
+        "data-file-width": "1280",
+        "data-file-height": "640"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/23px-Flag_of_Azerbaijan.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/23px-Flag_of_Azerbaijan.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "12",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/35px-Flag_of_Azerbaijan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/46px-Flag_of_Azerbaijan.svg.png 2x",
+        "data-file-width": "1200",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/23px-Flag_of_the_Bahamas.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/23px-Flag_of_the_Bahamas.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "12",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/35px-Flag_of_the_Bahamas.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/46px-Flag_of_the_Bahamas.svg.png 2x",
+        "data-file-width": "1200",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/23px-Flag_of_Bahrain.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/23px-Flag_of_Bahrain.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "14",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/35px-Flag_of_Bahrain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/46px-Flag_of_Bahrain.svg.png 2x",
+        "data-file-width": "1500",
+        "data-file-height": "900"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/23px-Flag_of_Bangladesh.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/23px-Flag_of_Bangladesh.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "14",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/35px-Flag_of_Bangladesh.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/46px-Flag_of_Bangladesh.svg.png 2x",
+        "data-file-width": "1000",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/23px-Flag_of_Barbados.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/23px-Flag_of_Barbados.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/35px-Flag_of_Barbados.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/45px-Flag_of_Barbados.svg.png 2x",
+        "data-file-width": "1500",
+        "data-file-height": "1000"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/23px-Flag_of_Belarus.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/23px-Flag_of_Belarus.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "12",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/35px-Flag_of_Belarus.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/46px-Flag_of_Belarus.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "450"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Belize.svg/23px-Flag_of_Belize.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Belize.svg/23px-Flag_of_Belize.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "14",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Belize.svg/35px-Flag_of_Belize.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Belize.svg/46px-Flag_of_Belize.svg.png 2x",
+        "data-file-width": "1000",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/23px-Flag_of_Benin.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/23px-Flag_of_Benin.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/35px-Flag_of_Benin.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/45px-Flag_of_Benin.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bandera_de_Bolivia_%28Estado%29.svg/22px-Bandera_de_Bolivia_%28Estado%29.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bandera_de_Bolivia_%28Estado%29.svg/22px-Bandera_de_Bolivia_%28Estado%29.svg.png",
+        "decoding": "async",
+        "width": "22",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bandera_de_Bolivia_%28Estado%29.svg/34px-Bandera_de_Bolivia_%28Estado%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bandera_de_Bolivia_%28Estado%29.svg/44px-Bandera_de_Bolivia_%28Estado%29.svg.png 2x",
+        "data-file-width": "1100",
+        "data-file-height": "750"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/23px-Flag_of_Bosnia_and_Herzegovina.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/23px-Flag_of_Bosnia_and_Herzegovina.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "12",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/35px-Flag_of_Bosnia_and_Herzegovina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/46px-Flag_of_Bosnia_and_Herzegovina.svg.png 2x",
+        "data-file-width": "800",
+        "data-file-height": "400"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/23px-Flag_of_Botswana.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/23px-Flag_of_Botswana.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/35px-Flag_of_Botswana.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/45px-Flag_of_Botswana.svg.png 2x",
+        "data-file-width": "1200",
+        "data-file-height": "800"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "decoding": "async",
+        "width": "22",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x",
+        "data-file-width": "720",
+        "data-file-height": "504"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/23px-Flag_of_Burkina_Faso.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/23px-Flag_of_Burkina_Faso.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/35px-Flag_of_Burkina_Faso.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/45px-Flag_of_Burkina_Faso.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/23px-Flag_of_Burundi.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/23px-Flag_of_Burundi.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "14",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/35px-Flag_of_Burundi.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/46px-Flag_of_Burundi.svg.png 2x",
+        "data-file-width": "1000",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/23px-Flag_of_Cambodia.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/23px-Flag_of_Cambodia.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/35px-Flag_of_Cambodia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/46px-Flag_of_Cambodia.svg.png 2x",
+        "data-file-width": "1000",
+        "data-file-height": "640"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/23px-Flag_of_Cameroon.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/23px-Flag_of_Cameroon.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/35px-Flag_of_Cameroon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/45px-Flag_of_Cameroon.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/23px-Flag_of_Canada_%28Pantone%29.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/23px-Flag_of_Canada_%28Pantone%29.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "12",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/35px-Flag_of_Canada_%28Pantone%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/46px-Flag_of_Canada_%28Pantone%29.svg.png 2x",
+        "data-file-width": "1200",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/23px-Flag_of_Cape_Verde.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/23px-Flag_of_Cape_Verde.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "14",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/35px-Flag_of_Cape_Verde.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/46px-Flag_of_Cape_Verde.svg.png 2x",
+        "data-file-width": "1020",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/23px-Flag_of_the_Central_African_Republic.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/23px-Flag_of_the_Central_African_Republic.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/35px-Flag_of_the_Central_African_Republic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/45px-Flag_of_the_Central_African_Republic.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/23px-Flag_of_Chad.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/23px-Flag_of_Chad.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/35px-Flag_of_Chad.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/45px-Flag_of_Chad.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/23px-Flag_of_Chile.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/23px-Flag_of_Chile.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/35px-Flag_of_Chile.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/45px-Flag_of_Chile.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/23px-Flag_of_Colombia.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/23px-Flag_of_Colombia.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/35px-Flag_of_Colombia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/45px-Flag_of_Colombia.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/23px-Flag_of_Costa_Rica.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/23px-Flag_of_Costa_Rica.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "14",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/35px-Flag_of_Costa_Rica.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/46px-Flag_of_Costa_Rica.svg.png 2x",
+        "data-file-width": "1000",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/20px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/20px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
+        "decoding": "async",
+        "width": "20",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/31px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/40px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png 2x",
+        "data-file-width": "800",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Dominica.svg/23px-Flag_of_Dominica.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Dominica.svg/23px-Flag_of_Dominica.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "12",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Dominica.svg/35px-Flag_of_Dominica.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Dominica.svg/46px-Flag_of_Dominica.svg.png 2x",
+        "data-file-width": "1200",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/23px-Flag_of_the_Dominican_Republic.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/23px-Flag_of_the_Dominican_Republic.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/35px-Flag_of_the_Dominican_Republic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/45px-Flag_of_the_Dominican_Republic.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/23px-Flag_of_Ecuador.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/23px-Flag_of_Ecuador.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/35px-Flag_of_Ecuador.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/45px-Flag_of_Ecuador.svg.png 2x",
+        "data-file-width": "1440",
+        "data-file-height": "960"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/23px-Flag_of_Egypt.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/23px-Flag_of_Egypt.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/35px-Flag_of_Egypt.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/45px-Flag_of_Egypt.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/23px-Flag_of_El_Salvador.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/23px-Flag_of_El_Salvador.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "13",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/35px-Flag_of_El_Salvador.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/46px-Flag_of_El_Salvador.svg.png 2x",
+        "data-file-width": "1005",
+        "data-file-height": "567"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/23px-Flag_of_Equatorial_Guinea.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/23px-Flag_of_Equatorial_Guinea.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/35px-Flag_of_Equatorial_Guinea.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/45px-Flag_of_Equatorial_Guinea.svg.png 2x",
+        "data-file-width": "1200",
+        "data-file-height": "800"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/23px-Flag_of_Ethiopia.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/23px-Flag_of_Ethiopia.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "12",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/35px-Flag_of_Ethiopia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/46px-Flag_of_Ethiopia.svg.png 2x",
+        "data-file-width": "1200",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flag_of_the_Faroe_Islands.svg/21px-Flag_of_the_Faroe_Islands.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flag_of_the_Faroe_Islands.svg/21px-Flag_of_the_Faroe_Islands.svg.png",
+        "decoding": "async",
+        "width": "21",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flag_of_the_Faroe_Islands.svg/32px-Flag_of_the_Faroe_Islands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flag_of_the_Faroe_Islands.svg/41px-Flag_of_the_Faroe_Islands.svg.png 2x",
+        "data-file-width": "1100",
+        "data-file-height": "800"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/23px-Flag_of_Fiji.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/23px-Flag_of_Fiji.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "12",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/35px-Flag_of_Fiji.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/46px-Flag_of_Fiji.svg.png 2x",
+        "data-file-width": "1200",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/20px-Flag_of_Gabon.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/20px-Flag_of_Gabon.svg.png",
+        "decoding": "async",
+        "width": "20",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/31px-Flag_of_Gabon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/40px-Flag_of_Gabon.svg.png 2x",
+        "data-file-width": "1000",
+        "data-file-height": "750"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/23px-Flag_of_The_Gambia.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/23px-Flag_of_The_Gambia.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/35px-Flag_of_The_Gambia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/45px-Flag_of_The_Gambia.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/23px-Flag_of_Georgia.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/23px-Flag_of_Georgia.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/35px-Flag_of_Georgia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/45px-Flag_of_Georgia.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/23px-Flag_of_Ghana.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/23px-Flag_of_Ghana.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/35px-Flag_of_Ghana.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/45px-Flag_of_Ghana.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/23px-Flag_of_Grenada.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/23px-Flag_of_Grenada.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "14",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/35px-Flag_of_Grenada.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/46px-Flag_of_Grenada.svg.png 2x",
+        "data-file-width": "1000",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/23px-Flag_of_Guatemala.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/23px-Flag_of_Guatemala.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "14",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/35px-Flag_of_Guatemala.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/46px-Flag_of_Guatemala.svg.png 2x",
+        "data-file-width": "960",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/23px-Flag_of_Guinea.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/23px-Flag_of_Guinea.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/35px-Flag_of_Guinea.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/45px-Flag_of_Guinea.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/23px-Flag_of_Guinea-Bissau.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/23px-Flag_of_Guinea-Bissau.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "12",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/35px-Flag_of_Guinea-Bissau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/46px-Flag_of_Guinea-Bissau.svg.png 2x",
+        "data-file-width": "1200",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/23px-Flag_of_Guyana.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/23px-Flag_of_Guyana.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "14",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/35px-Flag_of_Guyana.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/46px-Flag_of_Guyana.svg.png 2x",
+        "data-file-width": "1000",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/23px-Flag_of_Haiti.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/23px-Flag_of_Haiti.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "14",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/35px-Flag_of_Haiti.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/46px-Flag_of_Haiti.svg.png 2x",
+        "data-file-width": "1000",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/23px-Flag_of_Honduras.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/23px-Flag_of_Honduras.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "12",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/35px-Flag_of_Honduras.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/46px-Flag_of_Honduras.svg.png 2x",
+        "data-file-width": "1200",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/21px-Flag_of_Iceland.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/21px-Flag_of_Iceland.svg.png",
+        "decoding": "async",
+        "width": "21",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/32px-Flag_of_Iceland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/42px-Flag_of_Iceland.svg.png 2x",
+        "data-file-width": "1250",
+        "data-file-height": "900"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/35px-Flag_of_India.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/45px-Flag_of_India.svg.png 2x",
+        "data-file-width": "1350",
+        "data-file-height": "900"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/23px-Flag_of_Indonesia.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/23px-Flag_of_Indonesia.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/35px-Flag_of_Indonesia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/45px-Flag_of_Indonesia.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/23px-Flag_of_Iran.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/23px-Flag_of_Iran.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "13",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/35px-Flag_of_Iran.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/46px-Flag_of_Iran.svg.png 2x",
+        "data-file-width": "630",
+        "data-file-height": "360"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_the_Isle_of_Man.svg/23px-Flag_of_the_Isle_of_Man.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_the_Isle_of_Man.svg/23px-Flag_of_the_Isle_of_Man.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "12",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_the_Isle_of_Man.svg/35px-Flag_of_the_Isle_of_Man.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_the_Isle_of_Man.svg/46px-Flag_of_the_Isle_of_Man.svg.png 2x",
+        "data-file-width": "600",
+        "data-file-height": "300"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/21px-Flag_of_Israel.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/21px-Flag_of_Israel.svg.png",
+        "decoding": "async",
+        "width": "21",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/32px-Flag_of_Israel.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/41px-Flag_of_Israel.svg.png 2x",
+        "data-file-width": "1100",
+        "data-file-height": "800"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/23px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/23px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/35px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/45px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/23px-Flag_of_Jamaica.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/23px-Flag_of_Jamaica.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "12",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/35px-Flag_of_Jamaica.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/46px-Flag_of_Jamaica.svg.png 2x",
+        "data-file-width": "1200",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_Jersey.svg/23px-Flag_of_Jersey.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_Jersey.svg/23px-Flag_of_Jersey.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "14",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_Jersey.svg/35px-Flag_of_Jersey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_Jersey.svg/46px-Flag_of_Jersey.svg.png 2x",
+        "data-file-width": "1000",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/23px-Flag_of_Jordan.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/23px-Flag_of_Jordan.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "12",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/35px-Flag_of_Jordan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/46px-Flag_of_Jordan.svg.png 2x",
+        "data-file-width": "1200",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/23px-Flag_of_Kazakhstan.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/23px-Flag_of_Kazakhstan.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "12",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/35px-Flag_of_Kazakhstan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/46px-Flag_of_Kazakhstan.svg.png 2x",
+        "data-file-width": "1000",
+        "data-file-height": "500"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/23px-Flag_of_Kenya.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/23px-Flag_of_Kenya.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/35px-Flag_of_Kenya.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/45px-Flag_of_Kenya.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/23px-Flag_of_Kyrgyzstan.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/23px-Flag_of_Kyrgyzstan.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "14",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/35px-Flag_of_Kyrgyzstan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/46px-Flag_of_Kyrgyzstan.svg.png 2x",
+        "data-file-width": "1000",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/23px-Flag_of_Laos.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/23px-Flag_of_Laos.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/35px-Flag_of_Laos.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/45px-Flag_of_Laos.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/23px-Flag_of_Lebanon.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/23px-Flag_of_Lebanon.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/35px-Flag_of_Lebanon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/45px-Flag_of_Lebanon.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/23px-Flag_of_Lesotho.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/23px-Flag_of_Lesotho.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/35px-Flag_of_Lesotho.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/45px-Flag_of_Lesotho.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/23px-Flag_of_Liechtenstein.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/23px-Flag_of_Liechtenstein.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "14",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/35px-Flag_of_Liechtenstein.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/46px-Flag_of_Liechtenstein.svg.png 2x",
+        "data-file-width": "1000",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/23px-Flag_of_Madagascar.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/23px-Flag_of_Madagascar.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/35px-Flag_of_Madagascar.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/45px-Flag_of_Madagascar.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/23px-Flag_of_Malawi.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/23px-Flag_of_Malawi.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/35px-Flag_of_Malawi.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/45px-Flag_of_Malawi.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/23px-Flag_of_Malaysia.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/23px-Flag_of_Malaysia.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "12",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/35px-Flag_of_Malaysia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/46px-Flag_of_Malaysia.svg.png 2x",
+        "data-file-width": "1200",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/23px-Flag_of_Maldives.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/23px-Flag_of_Maldives.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/35px-Flag_of_Maldives.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/45px-Flag_of_Maldives.svg.png 2x",
+        "data-file-width": "720",
+        "data-file-height": "480"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/23px-Flag_of_Mali.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/23px-Flag_of_Mali.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/35px-Flag_of_Mali.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/45px-Flag_of_Mali.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Mauritania.svg/23px-Flag_of_Mauritania.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Mauritania.svg/23px-Flag_of_Mauritania.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Mauritania.svg/35px-Flag_of_Mauritania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Mauritania.svg/45px-Flag_of_Mauritania.svg.png 2x",
+        "data-file-width": "1200",
+        "data-file-height": "800"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/23px-Flag_of_Mauritius.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/23px-Flag_of_Mauritius.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/35px-Flag_of_Mauritius.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/45px-Flag_of_Mauritius.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "13",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/35px-Flag_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/46px-Flag_of_Mexico.svg.png 2x",
+        "data-file-width": "980",
+        "data-file-height": "560"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/23px-Flag_of_Moldova.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/23px-Flag_of_Moldova.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "12",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/35px-Flag_of_Moldova.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/46px-Flag_of_Moldova.svg.png 2x",
+        "data-file-width": "1800",
+        "data-file-height": "900"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/19px-Flag_of_Monaco.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/19px-Flag_of_Monaco.svg.png",
+        "decoding": "async",
+        "width": "19",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/29px-Flag_of_Monaco.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/38px-Flag_of_Monaco.svg.png 2x",
+        "data-file-width": "1000",
+        "data-file-height": "800"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/23px-Flag_of_Mongolia.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/23px-Flag_of_Mongolia.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "12",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/35px-Flag_of_Mongolia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/46px-Flag_of_Mongolia.svg.png 2x",
+        "data-file-width": "1200",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/23px-Flag_of_Montenegro.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/23px-Flag_of_Montenegro.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "12",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/35px-Flag_of_Montenegro.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/46px-Flag_of_Montenegro.svg.png 2x",
+        "data-file-width": "640",
+        "data-file-height": "320"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/23px-Flag_of_Morocco.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/23px-Flag_of_Morocco.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/35px-Flag_of_Morocco.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/45px-Flag_of_Morocco.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/23px-Flag_of_Mozambique.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/23px-Flag_of_Mozambique.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/35px-Flag_of_Mozambique.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/45px-Flag_of_Mozambique.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/23px-Flag_of_Namibia.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/23px-Flag_of_Namibia.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/35px-Flag_of_Namibia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/45px-Flag_of_Namibia.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/16px-Flag_of_Nepal.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/16px-Flag_of_Nepal.svg.png",
+        "decoding": "async",
+        "width": "16",
+        "height": "20",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/25px-Flag_of_Nepal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/33px-Flag_of_Nepal.svg.png 2x",
+        "data-file-width": "512",
+        "data-file-height": "624"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "12",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/35px-Flag_of_New_Zealand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/46px-Flag_of_New_Zealand.svg.png 2x",
+        "data-file-width": "1200",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/23px-Flag_of_Nicaragua.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/23px-Flag_of_Nicaragua.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "14",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/35px-Flag_of_Nicaragua.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/46px-Flag_of_Nicaragua.svg.png 2x",
+        "data-file-width": "1000",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/18px-Flag_of_Niger.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/18px-Flag_of_Niger.svg.png",
+        "decoding": "async",
+        "width": "18",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/27px-Flag_of_Niger.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/35px-Flag_of_Niger.svg.png 2x",
+        "data-file-width": "700",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/23px-Flag_of_Nigeria.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/23px-Flag_of_Nigeria.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "12",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/35px-Flag_of_Nigeria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/46px-Flag_of_Nigeria.svg.png 2x",
+        "data-file-width": "1200",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Niue.svg/23px-Flag_of_Niue.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Niue.svg/23px-Flag_of_Niue.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "12",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Niue.svg/35px-Flag_of_Niue.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Niue.svg/46px-Flag_of_Niue.svg.png 2x",
+        "data-file-width": "600",
+        "data-file-height": "300"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/23px-Flag_of_North_Macedonia.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/23px-Flag_of_North_Macedonia.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "12",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/35px-Flag_of_North_Macedonia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/46px-Flag_of_North_Macedonia.svg.png 2x",
+        "data-file-width": "1200",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png",
+        "decoding": "async",
+        "width": "21",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/32px-Flag_of_Norway.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/41px-Flag_of_Norway.svg.png 2x",
+        "data-file-width": "512",
+        "data-file-height": "372"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/23px-Flag_of_Pakistan.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/23px-Flag_of_Pakistan.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/35px-Flag_of_Pakistan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/45px-Flag_of_Pakistan.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/23px-Flag_of_Palestine.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/23px-Flag_of_Palestine.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "12",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/35px-Flag_of_Palestine.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/46px-Flag_of_Palestine.svg.png 2x",
+        "data-file-width": "1200",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/23px-Flag_of_Panama.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/23px-Flag_of_Panama.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/35px-Flag_of_Panama.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/45px-Flag_of_Panama.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/20px-Flag_of_Papua_New_Guinea.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/20px-Flag_of_Papua_New_Guinea.svg.png",
+        "decoding": "async",
+        "width": "20",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/31px-Flag_of_Papua_New_Guinea.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/40px-Flag_of_Papua_New_Guinea.svg.png 2x",
+        "data-file-width": "600",
+        "data-file-height": "450"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/23px-Flag_of_Paraguay.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/23px-Flag_of_Paraguay.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "13",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/35px-Flag_of_Paraguay.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/46px-Flag_of_Paraguay.svg.png 2x",
+        "data-file-width": "1200",
+        "data-file-height": "660"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/23px-Flag_of_Peru.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/23px-Flag_of_Peru.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/35px-Flag_of_Peru.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/45px-Flag_of_Peru.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/23px-Flag_of_the_Philippines.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/23px-Flag_of_the_Philippines.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "12",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/35px-Flag_of_the_Philippines.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/46px-Flag_of_the_Philippines.svg.png 2x",
+        "data-file-width": "1200",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/23px-Flag_of_the_Republic_of_the_Congo.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/23px-Flag_of_the_Republic_of_the_Congo.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/35px-Flag_of_the_Republic_of_the_Congo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/45px-Flag_of_the_Republic_of_the_Congo.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/45px-Flag_of_Russia.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/23px-Flag_of_Rwanda.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/23px-Flag_of_Rwanda.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/35px-Flag_of_Rwanda.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/45px-Flag_of_Rwanda.svg.png 2x",
+        "data-file-width": "1080",
+        "data-file-height": "720"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/23px-Flag_of_Saint_Kitts_and_Nevis.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/23px-Flag_of_Saint_Kitts_and_Nevis.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/35px-Flag_of_Saint_Kitts_and_Nevis.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/45px-Flag_of_Saint_Kitts_and_Nevis.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/23px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/23px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/35px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/45px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Samoa.svg/23px-Flag_of_Samoa.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Samoa.svg/23px-Flag_of_Samoa.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "12",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Samoa.svg/35px-Flag_of_Samoa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Samoa.svg/46px-Flag_of_Samoa.svg.png 2x",
+        "data-file-width": "2880",
+        "data-file-height": "1440"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/23px-Flag_of_Saudi_Arabia.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/23px-Flag_of_Saudi_Arabia.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/35px-Flag_of_Saudi_Arabia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/45px-Flag_of_Saudi_Arabia.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/23px-Flag_of_Senegal.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/23px-Flag_of_Senegal.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/35px-Flag_of_Senegal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/45px-Flag_of_Senegal.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/23px-Flag_of_Serbia.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/23px-Flag_of_Serbia.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/35px-Flag_of_Serbia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/45px-Flag_of_Serbia.svg.png 2x",
+        "data-file-width": "945",
+        "data-file-height": "630"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Seychelles.svg/23px-Flag_of_Seychelles.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Seychelles.svg/23px-Flag_of_Seychelles.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "12",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Seychelles.svg/35px-Flag_of_Seychelles.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Seychelles.svg/46px-Flag_of_Seychelles.svg.png 2x",
+        "data-file-width": "1200",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/23px-Flag_of_Sierra_Leone.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/23px-Flag_of_Sierra_Leone.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/35px-Flag_of_Sierra_Leone.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/45px-Flag_of_Sierra_Leone.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/23px-Flag_of_Singapore.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/23px-Flag_of_Singapore.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/35px-Flag_of_Singapore.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/45px-Flag_of_Singapore.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/23px-Flag_of_South_Africa.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/23px-Flag_of_South_Africa.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/35px-Flag_of_South_Africa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/45px-Flag_of_South_Africa.svg.png 2x",
+        "data-file-width": "400",
+        "data-file-height": "267"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/23px-Flag_of_South_Korea.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/23px-Flag_of_South_Korea.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/35px-Flag_of_South_Korea.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/45px-Flag_of_South_Korea.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/23px-Flag_of_Sri_Lanka.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/23px-Flag_of_Sri_Lanka.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "12",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/35px-Flag_of_Sri_Lanka.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/46px-Flag_of_Sri_Lanka.svg.png 2x",
+        "data-file-width": "1200",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/23px-Flag_of_Sudan.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/23px-Flag_of_Sudan.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "12",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/35px-Flag_of_Sudan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/46px-Flag_of_Sudan.svg.png 2x",
+        "data-file-width": "1200",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png",
+        "decoding": "async",
+        "width": "16",
+        "height": "16",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/24px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/32px-Flag_of_Switzerland.svg.png 2x",
+        "data-file-width": "512",
+        "data-file-height": "512"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/23px-Flag_of_the_Republic_of_China.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/23px-Flag_of_the_Republic_of_China.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/35px-Flag_of_the_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/45px-Flag_of_the_Republic_of_China.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/23px-Flag_of_Tajikistan.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/23px-Flag_of_Tajikistan.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "12",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/35px-Flag_of_Tajikistan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/46px-Flag_of_Tajikistan.svg.png 2x",
+        "data-file-width": "1200",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/23px-Flag_of_Tanzania.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/23px-Flag_of_Tanzania.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/35px-Flag_of_Tanzania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/45px-Flag_of_Tanzania.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/23px-Flag_of_Thailand.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/23px-Flag_of_Thailand.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/35px-Flag_of_Thailand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/45px-Flag_of_Thailand.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/23px-Flag_of_Togo.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/23px-Flag_of_Togo.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "14",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/35px-Flag_of_Togo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/46px-Flag_of_Togo.svg.png 2x",
+        "data-file-width": "809",
+        "data-file-height": "500"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/23px-Flag_of_Tonga.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/23px-Flag_of_Tonga.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "12",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/35px-Flag_of_Tonga.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/46px-Flag_of_Tonga.svg.png 2x",
+        "data-file-width": "960",
+        "data-file-height": "480"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/23px-Flag_of_Trinidad_and_Tobago.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/23px-Flag_of_Trinidad_and_Tobago.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "14",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/35px-Flag_of_Trinidad_and_Tobago.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/46px-Flag_of_Trinidad_and_Tobago.svg.png 2x",
+        "data-file-width": "800",
+        "data-file-height": "480"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/23px-Flag_of_Tunisia.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/23px-Flag_of_Tunisia.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/35px-Flag_of_Tunisia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/45px-Flag_of_Tunisia.svg.png 2x",
+        "data-file-width": "1200",
+        "data-file-height": "800"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/35px-Flag_of_Turkey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/45px-Flag_of_Turkey.svg.png 2x",
+        "data-file-width": "1200",
+        "data-file-height": "800"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/23px-Flag_of_Turkmenistan.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/23px-Flag_of_Turkmenistan.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/35px-Flag_of_Turkmenistan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/45px-Flag_of_Turkmenistan.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/23px-Flag_of_Uganda.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/23px-Flag_of_Uganda.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/35px-Flag_of_Uganda.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/45px-Flag_of_Uganda.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/23px-Flag_of_Ukraine.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/23px-Flag_of_Ukraine.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/35px-Flag_of_Ukraine.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/45px-Flag_of_Ukraine.svg.png 2x",
+        "data-file-width": "1200",
+        "data-file-height": "800"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/23px-Flag_of_the_United_Arab_Emirates.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/23px-Flag_of_the_United_Arab_Emirates.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "12",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/35px-Flag_of_the_United_Arab_Emirates.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/46px-Flag_of_the_United_Arab_Emirates.svg.png 2x",
+        "data-file-width": "1200",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "12",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x",
+        "data-file-width": "1200",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/23px-Flag_of_Uruguay.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/23px-Flag_of_Uruguay.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/35px-Flag_of_Uruguay.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/45px-Flag_of_Uruguay.svg.png 2x",
+        "data-file-width": "945",
+        "data-file-height": "630"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/23px-Flag_of_Uzbekistan.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/23px-Flag_of_Uzbekistan.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "12",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/35px-Flag_of_Uzbekistan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/46px-Flag_of_Uzbekistan.svg.png 2x",
+        "data-file-width": "1000",
+        "data-file-height": "500"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Vanuatu.svg/23px-Flag_of_Vanuatu.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Vanuatu.svg/23px-Flag_of_Vanuatu.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "14",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Vanuatu.svg/35px-Flag_of_Vanuatu.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Vanuatu.svg/46px-Flag_of_Vanuatu.svg.png 2x",
+        "data-file-width": "600",
+        "data-file-height": "360"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/23px-Flag_of_Vietnam.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/23px-Flag_of_Vietnam.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/35px-Flag_of_Vietnam.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/45px-Flag_of_Vietnam.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/23px-Flag_of_Venezuela.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/23px-Flag_of_Venezuela.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/35px-Flag_of_Venezuela.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/45px-Flag_of_Venezuela.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/23px-Flag_of_Zambia.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/23px-Flag_of_Zambia.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "15",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/35px-Flag_of_Zambia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/45px-Flag_of_Zambia.svg.png 2x",
+        "data-file-width": "900",
+        "data-file-height": "600"
+      }
+    },
+    {
+      "src": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/23px-Flag_of_Zimbabwe.svg.png",
+      "attr": {
+        "alt": "",
+        "src": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/23px-Flag_of_Zimbabwe.svg.png",
+        "decoding": "async",
+        "width": "23",
+        "height": "12",
+        "class": "thumbborder",
+        "srcset": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/35px-Flag_of_Zimbabwe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/46px-Flag_of_Zimbabwe.svg.png 2x",
+        "data-file-width": "1260",
+        "data-file-height": "630"
+      }
+    }
+  ],
+  "links": [
+    {
+      "text": "[87]",
+      "href": "#cite_note-87",
+      "attr": {
+        "href": "#cite_note-87"
+      }
+    },
+    {
+      "text": "[88]",
+      "href": "#cite_note-88",
+      "attr": {
+        "href": "#cite_note-88"
+      }
+    },
+    {
+      "text": "[89]",
+      "href": "#cite_note-89",
+      "attr": {
+        "href": "#cite_note-89"
+      }
+    },
+    {
+      "text": "Goods and Services Tax",
+      "href": "/wiki/Goods_and_Services_Tax_(Australia)",
+      "attr": {
+        "href": "/wiki/Goods_and_Services_Tax_(Australia)",
+        "class": "mw-redirect",
+        "title": "Goods and Services Tax (Australia)"
+      }
+    },
+    {
+      "text": "[90]",
+      "href": "#cite_note-90",
+      "attr": {
+        "href": "#cite_note-90"
+      }
+    },
+    {
+      "text": "[91]",
+      "href": "#cite_note-91",
+      "attr": {
+        "href": "#cite_note-91"
+      }
+    },
+    {
+      "text": "[a]",
+      "href": "#cite_note-fn2-92",
+      "attr": {
+        "href": "#cite_note-fn2-92"
+      }
+    },
+    {
+      "text": "Goods and Services Tax",
+      "href": "/wiki/Goods_and_Services_Tax_(Canada)",
+      "attr": {
+        "href": "/wiki/Goods_and_Services_Tax_(Canada)",
+        "class": "mw-redirect",
+        "title": "Goods and Services Tax (Canada)"
+      }
+    },
+    {
+      "text": "[b]",
+      "href": "#cite_note-fn1-93",
+      "attr": {
+        "href": "#cite_note-fn1-93"
+      }
+    },
+    {
+      "text": "[c]",
+      "href": "#cite_note-fn3-94",
+      "attr": {
+        "href": "#cite_note-fn3-94"
+      }
+    },
+    {
+      "text": "[92]",
+      "href": "#cite_note-95",
+      "attr": {
+        "href": "#cite_note-95"
+      }
+    },
+    {
+      "text": "[93]",
+      "href": "#cite_note-96",
+      "attr": {
+        "href": "#cite_note-96"
+      }
+    },
+    {
+      "text": "[94]",
+      "href": "#cite_note-97",
+      "attr": {
+        "href": "#cite_note-97"
+      }
+    },
+    {
+      "text": "[d]",
+      "href": "#cite_note-fn4-98",
+      "attr": {
+        "href": "#cite_note-fn4-98"
+      }
+    },
+    {
+      "text": "VSK",
+      "href": "https://en.wiktionary.org/wiki/VSK#Icelandic",
+      "attr": {
+        "href": "https://en.wiktionary.org/wiki/VSK#Icelandic",
+        "class": "extiw",
+        "title": "wikt:VSK"
+      }
+    },
+    {
+      "text": "VASK",
+      "href": "https://en.wiktionary.org/wiki/VASK#Icelandic",
+      "attr": {
+        "href": "https://en.wiktionary.org/wiki/VASK#Icelandic",
+        "class": "extiw",
+        "title": "wikt:VASK"
+      }
+    },
+    {
+      "text": "VirÃ°isaukaskattur",
+      "href": "https://en.wiktionary.org/wiki/vir%C3%B0isaukaskattur#Icelandic",
+      "attr": {
+        "href": "https://en.wiktionary.org/wiki/vir%C3%B0isaukaskattur#Icelandic",
+        "class": "extiw",
+        "title": "wikt:virÃ°isaukaskattur"
+      }
+    },
+    {
+      "text": "[e]",
+      "href": "#cite_note-fn5-99",
+      "attr": {
+        "href": "#cite_note-fn5-99"
+      }
+    },
+    {
+      "text": "[f]",
+      "href": "#cite_note-fn6-101",
+      "attr": {
+        "href": "#cite_note-fn6-101"
+      }
+    },
+    {
+      "text": "[g]",
+      "href": "#cite_note-fn7-102",
+      "attr": {
+        "href": "#cite_note-fn7-102"
+      }
+    },
+    {
+      "text": "Eilat",
+      "href": "/wiki/Eilat",
+      "attr": {
+        "href": "/wiki/Eilat",
+        "title": "Eilat"
+      }
+    },
+    {
+      "text": "[h]",
+      "href": "#cite_note-fn8-103",
+      "attr": {
+        "href": "#cite_note-fn8-103"
+      }
+    },
+    {
+      "text": "[96]",
+      "href": "#cite_note-104",
+      "attr": {
+        "href": "#cite_note-104"
+      }
+    },
+    {
+      "text": "[i]",
+      "href": "#cite_note-fn9-106",
+      "attr": {
+        "href": "#cite_note-fn9-106"
+      }
+    },
+    {
+      "text": "[98]",
+      "href": "#cite_note-107",
+      "attr": {
+        "href": "#cite_note-107"
+      }
+    },
+    {
+      "text": "Sales and Services Tax",
+      "href": "/w/index.php?title=Sales_and_Services_Tax_(Malaysia)&amp;action=edit&amp;redlink=1",
+      "attr": {
+        "href": "/w/index.php?title=Sales_and_Services_Tax_(Malaysia)&amp;action=edit&amp;redlink=1",
+        "class": "new",
+        "title": "Sales and Services Tax (Malaysia) (page does not exist)"
+      }
+    },
+    {
+      "text": "Goods and Services Tax (Malaysia)",
+      "href": "/wiki/Goods_and_Services_Tax_(Malaysia)",
+      "attr": {
+        "href": "/wiki/Goods_and_Services_Tax_(Malaysia)",
+        "title": "Goods and Services Tax (Malaysia)"
+      }
+    },
+    {
+      "text": "[99]",
+      "href": "#cite_note-108",
+      "attr": {
+        "href": "#cite_note-108"
+      }
+    },
+    {
+      "text": "[100]",
+      "href": "#cite_note-109",
+      "attr": {
+        "href": "#cite_note-109"
+      }
+    },
+    {
+      "text": "Goods and Services Tax",
+      "href": "/wiki/Goods_and_Services_Tax_(New_Zealand)",
+      "attr": {
+        "href": "/wiki/Goods_and_Services_Tax_(New_Zealand)",
+        "title": "Goods and Services Tax (New Zealand)"
+      }
+    },
+    {
+      "text": "[101]",
+      "href": "#cite_note-110",
+      "attr": {
+        "href": "#cite_note-110"
+      }
+    },
+    {
+      "text": "[j]",
+      "href": "#cite_note-fn10-112",
+      "attr": {
+        "href": "#cite_note-fn10-112"
+      }
+    },
+    {
+      "text": "[103]",
+      "href": "#cite_note-113",
+      "attr": {
+        "href": "#cite_note-113"
+      }
+    },
+    {
+      "text": "[104]",
+      "href": "#cite_note-114",
+      "attr": {
+        "href": "#cite_note-114"
+      }
+    },
+    {
+      "text": "[105]",
+      "href": "#cite_note-115",
+      "attr": {
+        "href": "#cite_note-115"
+      }
+    },
+    {
+      "text": "Goods and Services Tax",
+      "href": "/wiki/Goods_and_Services_Tax_(Singapore)",
+      "attr": {
+        "href": "/wiki/Goods_and_Services_Tax_(Singapore)",
+        "title": "Goods and Services Tax (Singapore)"
+      }
+    },
+    {
+      "text": "[106]",
+      "href": "#cite_note-116",
+      "attr": {
+        "href": "#cite_note-116"
+      }
+    },
+    {
+      "text": "Korean",
+      "href": "/wiki/Korean_language",
+      "attr": {
+        "href": "/wiki/Korean_language",
+        "title": "Korean language"
+      }
+    },
+    {
+      "text": "Hanja",
+      "href": "/wiki/Hanja",
+      "attr": {
+        "href": "/wiki/Hanja",
+        "title": "Hanja"
+      }
+    },
+    {
+      "text": "[107]",
+      "href": "#cite_note-CH.CH-117",
+      "attr": {
+        "href": "#cite_note-CH.CH-117"
+      }
+    },
+    {
+      "text": "[107]",
+      "href": "#cite_note-CH.CH-117",
+      "attr": {
+        "href": "#cite_note-CH.CH-117"
+      }
+    },
+    {
+      "text": "[108]",
+      "href": "#cite_note-118",
+      "attr": {
+        "href": "#cite_note-118"
+      }
+    },
+    {
+      "text": "Guernsey",
+      "href": "/wiki/Guernsey",
+      "attr": {
+        "href": "/wiki/Guernsey",
+        "title": "Guernsey"
+      }
+    },
+    {
+      "text": "Gibraltar",
+      "href": "/wiki/Gibraltar",
+      "attr": {
+        "href": "/wiki/Gibraltar",
+        "title": "Gibraltar"
+      }
+    },
+    {
+      "text": "EU VAT area",
+      "href": "/wiki/European_Union_VAT_area",
+      "attr": {
+        "href": "/wiki/European_Union_VAT_area",
+        "class": "mw-redirect",
+        "title": "European Union VAT area"
+      }
+    },
+    {
+      "text": "feminine hygiene",
+      "href": "/wiki/Feminine_hygiene",
+      "attr": {
+        "href": "/wiki/Feminine_hygiene",
+        "title": "Feminine hygiene"
+      }
+    },
+    {
+      "text": "child safety seats",
+      "href": "/wiki/Child_safety_seat",
+      "attr": {
+        "href": "/wiki/Child_safety_seat",
+        "title": "Child safety seat"
+      }
+    },
+    {
+      "text": "mobility aids",
+      "href": "/wiki/Mobility_aid",
+      "attr": {
+        "href": "/wiki/Mobility_aid",
+        "title": "Mobility aid"
+      }
+    },
+    {
+      "text": "prescription medications",
+      "href": "/wiki/Prescription_medication",
+      "attr": {
+        "href": "/wiki/Prescription_medication",
+        "class": "mw-redirect",
+        "title": "Prescription medication"
+      }
+    },
+    {
+      "text": "medical equipment",
+      "href": "/wiki/Medical_equipment",
+      "attr": {
+        "href": "/wiki/Medical_equipment",
+        "class": "mw-redirect",
+        "title": "Medical equipment"
+      }
+    },
+    {
+      "text": "medical supply",
+      "href": "/wiki/Medical_supply",
+      "attr": {
+        "href": "/wiki/Medical_supply",
+        "class": "mw-redirect",
+        "title": "Medical supply"
+      }
+    },
+    {
+      "text": "[109]",
+      "href": "#cite_note-119",
+      "attr": {
+        "href": "#cite_note-119"
+      }
+    },
+    {
+      "text": "hospitality",
+      "href": "/wiki/Hospitality",
+      "attr": {
+        "href": "/wiki/Hospitality",
+        "title": "Hospitality"
+      }
+    },
+    {
+      "text": "holiday accommodation",
+      "href": "/wiki/Lodging",
+      "attr": {
+        "href": "/wiki/Lodging",
+        "title": "Lodging"
+      }
+    },
+    {
+      "text": "attractions",
+      "href": "/wiki/Tourism",
+      "attr": {
+        "href": "/wiki/Tourism",
+        "title": "Tourism"
+      }
+    },
+    {
+      "text": "[110]",
+      "href": "#cite_note-120",
+      "attr": {
+        "href": "#cite_note-120"
+      }
+    },
+    {
+      "text": "Value Added Tax",
+      "href": "/wiki/Value_Added_Tax_(United_Kingdom)",
+      "attr": {
+        "href": "/wiki/Value_Added_Tax_(United_Kingdom)",
+        "class": "mw-redirect",
+        "title": "Value Added Tax (United Kingdom)"
+      }
+    }
+  ],
+  "forms": [],
+  "tables": [
+    {
+      "attr": {
+        "class": "wikitable sortable jquery-tablesorter"
+      },
+      "rows": [
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": {
+                "class": "headerSort",
+                "tabindex": "0",
+                "role": "columnheader button",
+                "title": "Sort ascending"
+              },
+              "nodeValue": "Country"
+            },
+            {
+              "attr": {
+                "class": "headerSort",
+                "tabindex": "0",
+                "role": "columnheader button",
+                "title": "Sort ascending"
+              },
+              "nodeValue": "Standard rate (current)"
+            },
+            {
+              "attr": {
+                "class": "headerSort",
+                "tabindex": "0",
+                "role": "columnheader button",
+                "title": "Sort ascending"
+              },
+              "nodeValue": "Reduced rate (current)"
+            },
+            {
+              "attr": {
+                "class": "unsortable"
+              },
+              "nodeValue": "Local name"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Albania[87]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "20%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "6% (accommodation services) or 0% (postal, medical, dental and welfare services)"
+            },
+            {
+              "attr": [],
+              "nodeValue": "TVSH = Tatimi mbi VlerÃ«n e Shtuar"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Algeria"
+            },
+            {
+              "attr": [],
+              "nodeValue": "19%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Andorra[88]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "4.5%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "1%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "IGI = Impost General Indirecte"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Angola[89]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "7%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "5% which applies to the import and supply of certain goods (products of the Basic Basket listed in Annex I of the VAT Code and agricultural inputs)"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Antigua and Barbuda"
+            },
+            {
+              "attr": [],
+              "nodeValue": "15%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Argentina"
+            },
+            {
+              "attr": [],
+              "nodeValue": "21%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "10.5% or 0%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "IVA = Impuesto al Valor Agregado"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Armenia"
+            },
+            {
+              "attr": [],
+              "nodeValue": "20%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "0%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "AAH = Avelacvats Arzheqi Hark Ô±Ô±Õ = Ô±Õ¾Õ¥Õ¬Õ¡ÖÕ¾Õ¡Õ® Õ¡ÖÕªÕ¥ÖÕ« Õ°Õ¡ÖÕ¯"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Australia"
+            },
+            {
+              "attr": [],
+              "nodeValue": "10%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "0% fresh food, medical services, medicines and medical devices, education services, childcare, water and sewerage, government taxes &amp; permits and many government charges, precious metals, second-hand goods and many other types of goods. Rebates for exported goods and GST taxed business inputs are also available"
+            },
+            {
+              "attr": [],
+              "nodeValue": "GST = Goods and Services Tax"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Azerbaijan"
+            },
+            {
+              "attr": [],
+              "nodeValue": "18%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "10.5% or 0%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "ÆDV = ÆlavÉ dÉyÉr vergisi"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Bahamas[90][91]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "12%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "12% or 0% (including but not limited to exports of goods or services, services to a foreign going vessel providing international commercial services, consumable goods for commercially scheduled foreign going vessels/aircraft, copyright, etc.)"
+            },
+            {
+              "attr": [],
+              "nodeValue": "VAT = Value Added Tax"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Bahrain"
+            },
+            {
+              "attr": [],
+              "nodeValue": "5%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "0% (pharmacies and medical services, road transport, education service, Oil and gas derivatives, Vegetables and fruits, National exports)"
+            },
+            {
+              "attr": [],
+              "nodeValue": "(VAT) Ø¶Ø±ÙØ¨Ø© Ø§ÙÙÙÙØ© Ø§ÙÙØ¶Ø§ÙØ©"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Bangladesh"
+            },
+            {
+              "attr": [],
+              "nodeValue": "15%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "4% for supplier, 4.5% for ITES, 5% for electricity, 5.5% for construction firm, etc."
+            },
+            {
+              "attr": [],
+              "nodeValue": "Musok = Mullo songzojon kor à¦®à§à¦¸à¦ = \"à¦®à§à¦²à§à¦¯ à¦¸à¦à¦¯à§à¦à¦¨ à¦à¦°\""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Barbados"
+            },
+            {
+              "attr": [],
+              "nodeValue": "17.5%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": "VAT = Value Added Tax"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Belarus"
+            },
+            {
+              "attr": [],
+              "nodeValue": "20%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "10% or 0.5%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "ÐÐÐ = ÐÐ°Ð´Ð°ÑÐ°Ðº Ð½Ð° Ð´Ð°Ð´Ð°Ð´Ð·ÐµÐ½ÑÑ Ð²Ð°ÑÑÐ°ÑÑÑÑ"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Belize"
+            },
+            {
+              "attr": [],
+              "nodeValue": "12.5%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Benin"
+            },
+            {
+              "attr": [],
+              "nodeValue": "18%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Bolivia"
+            },
+            {
+              "attr": [],
+              "nodeValue": "13%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": "IVA = Impuesto al Valor Agregado"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Bosnia and Herzegovina"
+            },
+            {
+              "attr": [],
+              "nodeValue": "17%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": "PDV = Porez na dodanu vrijednost"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Botswana"
+            },
+            {
+              "attr": [],
+              "nodeValue": "12%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Brazil"
+            },
+            {
+              "attr": [],
+              "nodeValue": "20% (IPI) + 19% (ICMS) average + 3% (ISS) average"
+            },
+            {
+              "attr": [],
+              "nodeValue": "0%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "*IPI â 20% = Imposto sobre produtos industrializados (Tax over industrialized products) â Federal Tax ICMS â 17 to 25% = Imposto sobre circulaÃ§Ã£o e serviÃ§os (tax over commercialization and services) â State Tax ISS â 2 to 5% = Imposto sobre serviÃ§o de qualquer natureza (tax over any service)&nbsp;â City tax"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Burkina Faso"
+            },
+            {
+              "attr": [],
+              "nodeValue": "18%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Burundi"
+            },
+            {
+              "attr": [],
+              "nodeValue": "18%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Cambodia"
+            },
+            {
+              "attr": [],
+              "nodeValue": "10%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Cameroon"
+            },
+            {
+              "attr": [],
+              "nodeValue": "19.25%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Canada"
+            },
+            {
+              "attr": [],
+              "nodeValue": "5% + 0â10% HST (GST + PVAT)"
+            },
+            {
+              "attr": [],
+              "nodeValue": "5%/0%[a]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "GST = Goods and Services Tax, TPS = Taxe sur les produits et services; HST[b] = Harmonized Sales Tax, TVH = Taxe de vente harmonisÃ©e"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Cape Verde"
+            },
+            {
+              "attr": [],
+              "nodeValue": "15%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Central African Republic"
+            },
+            {
+              "attr": [],
+              "nodeValue": "19%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Chad"
+            },
+            {
+              "attr": [],
+              "nodeValue": "18%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Chile"
+            },
+            {
+              "attr": [],
+              "nodeValue": "19%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": "IVA = Impuesto al Valor Agregado"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;China[c]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "13%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "9% for foods, printed matter, and households fuels; 6% for service; or 3% for non-value-added tax"
+            },
+            {
+              "attr": [],
+              "nodeValue": "å¢å¼ç¨ (zÄng zhÃ­ shuÃ¬)"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Colombia"
+            },
+            {
+              "attr": [],
+              "nodeValue": "19%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": "IVA = Impuesto al Valor Agregado"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Costa Rica"
+            },
+            {
+              "attr": [],
+              "nodeValue": "13%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Democratic Republic of the Congo"
+            },
+            {
+              "attr": [],
+              "nodeValue": "16%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Dominica"
+            },
+            {
+              "attr": [],
+              "nodeValue": "15%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Dominican Republic"
+            },
+            {
+              "attr": [],
+              "nodeValue": "18%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "12% or 0%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "ITBIS = Impuesto sobre Transferencia de Bienes Industrializados y Servicios"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Ecuador"
+            },
+            {
+              "attr": [],
+              "nodeValue": "12%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "0%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "IVA = Impuesto al Valor Agregado"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Egypt"
+            },
+            {
+              "attr": [],
+              "nodeValue": "14% (15% on communication services)"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": "VAT = Value Added Tax (Ø§ÙØ¶Ø±ÙØ¨Ø© Ø¹ÙÙ Ø§ÙÙÙÙØ© Ø§ÙÙØ¶Ø§ÙØ©)"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;El Salvador"
+            },
+            {
+              "attr": [],
+              "nodeValue": "13%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": "IVA = Impuesto al Valor Agregado o \"Impuesto a la Transferencia de Bienes Muebles y a la PrestaciÃ³n de Servicios\""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Equatorial Guinea"
+            },
+            {
+              "attr": [],
+              "nodeValue": "15%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Ethiopia"
+            },
+            {
+              "attr": [],
+              "nodeValue": "15%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": "VAT = Value Added Tax"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Faroe Islands"
+            },
+            {
+              "attr": [],
+              "nodeValue": "25%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": "MVG = MeirvirÃ°isgjald"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Fiji"
+            },
+            {
+              "attr": [],
+              "nodeValue": "15%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "0%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "VAT = Value Added Tax"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Gabon"
+            },
+            {
+              "attr": [],
+              "nodeValue": "18%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Gambia[92]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "15%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": "VAT = Value Added Tax"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Georgia"
+            },
+            {
+              "attr": [],
+              "nodeValue": "18%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "0%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "DGhG = Damatebuli Ghirebulebis gadasakhadi áá¦á = ááááá¢ááá£áá á¦áá&nbsp;ááá£ááááá¡ ááááá¡áá®ááá"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Ghana"
+            },
+            {
+              "attr": [],
+              "nodeValue": "15%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": "VAT = Value Added Tax plus National Health Insurance Levy (NHIL; 2.5%)"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Grenada"
+            },
+            {
+              "attr": [],
+              "nodeValue": "15%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Guatemala"
+            },
+            {
+              "attr": [],
+              "nodeValue": "12%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": "IVA = Impuesto al Valor Agregado"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Guinea"
+            },
+            {
+              "attr": [],
+              "nodeValue": "18%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Guinea-Bissau"
+            },
+            {
+              "attr": [],
+              "nodeValue": "15%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Guyana[93]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "16%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "0%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "VAT = Value Added Tax"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Haiti"
+            },
+            {
+              "attr": [],
+              "nodeValue": "10%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Honduras"
+            },
+            {
+              "attr": [],
+              "nodeValue": "15% (4% additional on tourism tax)[94]"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": "VAT = Impuesto Sobre Ventas"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Iceland"
+            },
+            {
+              "attr": [],
+              "nodeValue": "24%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "11%[d]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "VSK, VASK = VirÃ°isaukaskattur"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;India[e]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "5.5%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "5.5%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "VAT = Value Added Tax"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Indonesia"
+            },
+            {
+              "attr": [],
+              "nodeValue": "11%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "11%, 0% for primary groceries, medical services, financial services, education and also insurance"
+            },
+            {
+              "attr": [],
+              "nodeValue": "PPN = Pajak Pertambahan Nilai"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Iran"
+            },
+            {
+              "attr": [],
+              "nodeValue": "9%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": "VAT = Value Added Tax (ÙØ§ÙÛØ§Øª Ø¨Ø± Ø§Ø±Ø²Ø´ Ø§ÙØ²ÙØ¯Ù)"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Isle of Man"
+            },
+            {
+              "attr": [],
+              "nodeValue": "20%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Israel[f]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "17%[g] (0% in Eilat)"
+            },
+            {
+              "attr": [],
+              "nodeValue": "0% (fruits and vegetables, tourism services for foreign citizens, intellectual property, diamonds, flights and apartments renting)"
+            },
+            {
+              "attr": [],
+              "nodeValue": "Ma'am = ××¡ ×¢×¨× ×××¡×£, ××¢\"×"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Ivory Coast"
+            },
+            {
+              "attr": [],
+              "nodeValue": "18%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Jamaica"
+            },
+            {
+              "attr": [],
+              "nodeValue": "12.5%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Japan"
+            },
+            {
+              "attr": [],
+              "nodeValue": "10%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "8% (groceries)"
+            },
+            {
+              "attr": [],
+              "nodeValue": "shÅhizei (æ¶è²»ç¨) (\"consumption tax\")"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Jersey[h]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "5%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "0%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "GST = Goods and Services Tax"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Jordan"
+            },
+            {
+              "attr": [],
+              "nodeValue": "16%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": "GST = Goods and Sales Tax"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Kazakhstan"
+            },
+            {
+              "attr": [],
+              "nodeValue": "12%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": "ÒCÒ = ÒÐ¾ÑÑÐ»ÒÐ°Ð½ ÒÒ±Ð½ÒÐ° ÑÐ°Ð»ÑÐ½Ð°ÑÑÐ½ ÑÐ°Ð»ÑÒ (Kazakh)VAT = Value Added Tax"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Kenya"
+            },
+            {
+              "attr": [],
+              "nodeValue": "16%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Kyrgyzstan"
+            },
+            {
+              "attr": [],
+              "nodeValue": "20%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Laos"
+            },
+            {
+              "attr": [],
+              "nodeValue": "10%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Lebanon"
+            },
+            {
+              "attr": [],
+              "nodeValue": "11%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": "TVA = Taxe sur la valeur ajoutÃ©e"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Lesotho"
+            },
+            {
+              "attr": [],
+              "nodeValue": "14%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Liechtenstein[96]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "7.7%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "3.8% (lodging services) or 2.5%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "MWST = Mehrwertsteuer"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Madagascar"
+            },
+            {
+              "attr": [],
+              "nodeValue": "20%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Malawi"
+            },
+            {
+              "attr": [],
+              "nodeValue": "16.5%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Malaysia[i]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "6%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "0% for fresh foods, education, healthcare, land public transportation and medicines. Sales and Services Tax (SST) was reintroduced by the Malaysian Government on 1 September 2018 to replace the Goods and Services Tax (GST) which had only been introduced just over three years before that, on 1 April 2015.[98]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "SST = Sales and Services TaxCJP = Cukai Jualan dan Perkhidmatan\nGST = Goods and Services Tax (Malaysia)"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Maldives"
+            },
+            {
+              "attr": [],
+              "nodeValue": "6%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "0%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "GST = Goods and services tax (Government Tax)"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Mali"
+            },
+            {
+              "attr": [],
+              "nodeValue": "18%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Mauritania"
+            },
+            {
+              "attr": [],
+              "nodeValue": "14%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Mauritius"
+            },
+            {
+              "attr": [],
+              "nodeValue": "15%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": "VAT = Value Added Tax"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Mexico"
+            },
+            {
+              "attr": [],
+              "nodeValue": "16%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "0% on books, food and medicines."
+            },
+            {
+              "attr": [],
+              "nodeValue": "IVA = Impuesto al Valor Agregado"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Moldova"
+            },
+            {
+              "attr": [],
+              "nodeValue": "20%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "8%, 5% or 0%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "TVA = Taxa pe Valoarea AdÄugatÄ"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Monaco[99]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "19.6%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "5.6%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "TVA = Taxe sur la valeur ajoutÃ©e"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Mongolia"
+            },
+            {
+              "attr": [],
+              "nodeValue": "10%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "0%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "VAT = ÐÑÐ¼ÑÐ³Ð´ÑÑÐ½ Ó©ÑÑÐ³Ð¸Ð¹Ð½ Ð°Ð»Ð±Ð°Ð½ ÑÐ°ÑÐ²Ð°Ñ"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Montenegro"
+            },
+            {
+              "attr": [],
+              "nodeValue": "21%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "7%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "PDV = Porez na dodatu vrijednost"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Morocco"
+            },
+            {
+              "attr": [],
+              "nodeValue": "20%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": "TVA = Taxe sur Valeur AjoutÃ©e (Ø§ÙØ¶Ø±ÙØ¨Ø© Ø¹ÙÙ Ø§ÙÙÙÙØ© Ø§ÙÙØ¶Ø§ÙØ©)"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Mozambique"
+            },
+            {
+              "attr": [],
+              "nodeValue": "17%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Namibia"
+            },
+            {
+              "attr": [],
+              "nodeValue": "15%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "0%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "VAT = Value Added Tax"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;&nbsp;&nbsp;Nepal"
+            },
+            {
+              "attr": [],
+              "nodeValue": "13%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "0%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "VAT = Value Added Taxes"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;New Zealand"
+            },
+            {
+              "attr": [],
+              "nodeValue": "15%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "0% (donated goods and services sold by non-profits, financial services, rental payments for residential properties, supply of fine metals, and penalty interest).[100]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "GST = Goods and Services Tax"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Nicaragua"
+            },
+            {
+              "attr": [],
+              "nodeValue": "15%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Niger"
+            },
+            {
+              "attr": [],
+              "nodeValue": "19%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Nigeria"
+            },
+            {
+              "attr": [],
+              "nodeValue": "7.5%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Niue"
+            },
+            {
+              "attr": [],
+              "nodeValue": "5%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;North Macedonia"
+            },
+            {
+              "attr": [],
+              "nodeValue": "18%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "5% or 0%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "ÐÐÐ = ÐÐ°Ð½Ð¾Ðº Ð½Ð° Ð´Ð¾Ð´Ð°Ð´ÐµÐ½Ð° Ð²ÑÐµÐ´Ð½Ð¾ÑÑ, DDV = Danok na dodadena vrednost"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Norway"
+            },
+            {
+              "attr": [],
+              "nodeValue": "25%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "15% (food), 12% (public transport, hotel, cinema) and 0% for electric cars (until 2018)[101]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "MVA = Merverdiavgift (bokmÃ¥l) or meirverdiavgift (nynorsk) (informally moms)"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Pakistan"
+            },
+            {
+              "attr": [],
+              "nodeValue": "17%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "1% or 0%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "GST = General Sales Tax"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Palestine"
+            },
+            {
+              "attr": [],
+              "nodeValue": "16%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": "VAT = Value Added Tax"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Panama"
+            },
+            {
+              "attr": [],
+              "nodeValue": "7%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "0%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "ITBMS = Impuesto de Transferencia de Bienes Muebles y Servicios"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Papua New Guinea"
+            },
+            {
+              "attr": [],
+              "nodeValue": "10%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Paraguay"
+            },
+            {
+              "attr": [],
+              "nodeValue": "10%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "5%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "IVA= Impuesto al Valor Agregado"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Peru"
+            },
+            {
+              "attr": [],
+              "nodeValue": "18%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": "IGV â 16% = Impuesto General a la Ventas IPM â 2% Impuesto de Promocion Municipal"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Philippines"
+            },
+            {
+              "attr": [],
+              "nodeValue": "12%[j]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "6% on petroleum products, and electricity and water services  0% for senior citizens (all who are aged 60 and above) on medicines, professional fees for physicians, medical and dental services, transportation fares, admission fees charged by theaters and amusement centers, and funeral and burial services after the death of the senior citizen"
+            },
+            {
+              "attr": [],
+              "nodeValue": "RVAT = Reformed Value Added Tax, locally known as Karagdagang Buwis / Dungag nga Buhis"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Republic of Congo"
+            },
+            {
+              "attr": [],
+              "nodeValue": "16%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Russia"
+            },
+            {
+              "attr": [],
+              "nodeValue": "20%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "10% (essential food, goods for children and medical products)[103] or 0%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "ÐÐÐ¡ = ÐÐ°Ð»Ð¾Ð³ Ð½Ð° Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð½ÑÑ ÑÑÐ¾Ð¸Ð¼Ð¾ÑÑÑ, NDS = Nalog na dobavlennuyu stoimost'"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Rwanda"
+            },
+            {
+              "attr": [],
+              "nodeValue": "18%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "0%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "VAT = Value Added Tax"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Saint Kitts and Nevis"
+            },
+            {
+              "attr": [],
+              "nodeValue": "17%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": "VAT = Value Added Tax"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Saint Vincent and the Grenadines"
+            },
+            {
+              "attr": [],
+              "nodeValue": "15%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Samoa"
+            },
+            {
+              "attr": [],
+              "nodeValue": "15%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Saudi Arabia"
+            },
+            {
+              "attr": [],
+              "nodeValue": "15%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": "Ø¶Ø±ÙØ¨Ø© Ø§ÙÙÙÙØ© Ø§ÙÙØ¶Ø§ÙØ© (VAT)"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Senegal"
+            },
+            {
+              "attr": [],
+              "nodeValue": "18%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Serbia"
+            },
+            {
+              "attr": [],
+              "nodeValue": "20%[104]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "10%[105] or 0%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "ÐÐÐ = ÐÐ¾ÑÐµÐ· Ð½Ð° Ð´Ð¾Ð´Ð°ÑÑ Ð²ÑÐµÐ´Ð½Ð¾ÑÑ, PDV = Porez na dodatu vrednost"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Seychelles"
+            },
+            {
+              "attr": [],
+              "nodeValue": "15%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Sierra Leone"
+            },
+            {
+              "attr": [],
+              "nodeValue": "15%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Singapore"
+            },
+            {
+              "attr": [],
+              "nodeValue": "7%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "Raised from 5% to 7% in 2007. To be raised from 7% to 9% in 2024."
+            },
+            {
+              "attr": [],
+              "nodeValue": "GST = Goods and Services Tax"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;South Africa"
+            },
+            {
+              "attr": [],
+              "nodeValue": "15%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "0% on basic foodstuffs such as bread, additionally on goods donated not for gain; goods or services used for educational purposes, such as school computers; membership contributions to an employee organization (such as labour union dues); and rent paid on a house by a renter to a landlord.[106]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "VAT = Valued Added Tax; BTW = Belasting op toegevoegde waarde"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;South Korea"
+            },
+            {
+              "attr": [],
+              "nodeValue": "10%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "0% (essential foodstuffs)"
+            },
+            {
+              "attr": [],
+              "nodeValue": "VAT = bugagachise (Korean:&nbsp;ë¶ê°ê°ì¹ì¸; Hanja:&nbsp;éå&nbsp;å¹å¤ç¨)"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Sri Lanka"
+            },
+            {
+              "attr": [],
+              "nodeValue": "12%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "0%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "VAT = Valued Added Tax has been in effect in Sri Lanka since 2001. On the 2001 budget, the rates have been revised to 12% and 0% from the previous 20%, 12% and 0%"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Sudan"
+            },
+            {
+              "attr": [],
+              "nodeValue": "17%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;&nbsp;Switzerland"
+            },
+            {
+              "attr": [],
+              "nodeValue": "7.7%[107]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "3.7% (hotel sector) and 2.5% (essential foodstuff, books, newspapers, medical supplies)[107]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "MWST = Mehrwertsteuer, TVA = Taxe sur la valeur ajoutÃ©e, IVA = Imposta sul valore aggiunto, TPV = Taglia sin la Plivalur"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Taiwan"
+            },
+            {
+              "attr": [],
+              "nodeValue": "5%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": "çæ¥­ç¨ (business tax) / å&nbsp;å¼åçæ¥­ç¨ (value-added business tax)"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Tajikistan"
+            },
+            {
+              "attr": [],
+              "nodeValue": "20%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Tanzania"
+            },
+            {
+              "attr": [],
+              "nodeValue": "18%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Thailand"
+            },
+            {
+              "attr": [],
+              "nodeValue": "10%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "7%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "VAT = Value Added Tax, à¸&nbsp;à¸²à¸©à¸µà¸¡à¸¹à¸¥à¸à¹à¸²à¹à¸à¸´à¹à¸¡"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Togo"
+            },
+            {
+              "attr": [],
+              "nodeValue": "18%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Tonga"
+            },
+            {
+              "attr": [],
+              "nodeValue": "15%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Trinidad and Tobago"
+            },
+            {
+              "attr": [],
+              "nodeValue": "12.5%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "0%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Tunisia"
+            },
+            {
+              "attr": [],
+              "nodeValue": "18%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": "TVA = Taxe sur la Valeur AjoutÃ©e Ø¢Ø¯Ø§Ø¡ Ø¹ÙÙ Ø§ÙÙÙÙØ© Ø§ÙÙØ¶Ø§ÙØ©"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Turkey"
+            },
+            {
+              "attr": [],
+              "nodeValue": "18%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "8% or 1%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "KDV = Katma deÄer vergisi"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Turkmenistan"
+            },
+            {
+              "attr": [],
+              "nodeValue": "15%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Uganda"
+            },
+            {
+              "attr": [],
+              "nodeValue": "18%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Ukraine"
+            },
+            {
+              "attr": [],
+              "nodeValue": "20%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "7% or 0%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "ÐÐÐ = ÐÐ¾Ð´Ð°ÑÐ¾Ðº Ð½Ð° Ð´Ð¾Ð´Ð°Ð½Ñ Ð²Ð°ÑÑÑÑÑÑ, PDV = Podatok na dodanu vartist'."
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;United Arab Emirates"
+            },
+            {
+              "attr": [],
+              "nodeValue": "5%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": "Ø¶Ø±ÙØ¨Ø© Ø§ÙÙÙÙØ© Ø§ÙÙØ¶Ø§ÙØ©"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;United Kingdom"
+            },
+            {
+              "attr": [],
+              "nodeValue": "20%[108]0% in Guernsey and Gibraltar (not part of EU VAT area)"
+            },
+            {
+              "attr": [],
+              "nodeValue": "5% residential energy/insulation/renovations, feminine hygiene products, child safety seats and mobility aids and 0% for life necessities&nbsp;â basic food, water, prescription medications, medical equipment and medical supply, public transport, children's clothing, books and periodicals.  Also 0% for new building construction (but standard rate for building demolition, modifications, renovation etc.)[109] 5% for hospitality, holiday accommodation and attractions until 12 January 2021.[110]"
+            },
+            {
+              "attr": [],
+              "nodeValue": "VAT\nTAW = Value Added Tax\nTreth Ar Werth (Welsh)"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Uruguay"
+            },
+            {
+              "attr": [],
+              "nodeValue": "22%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "18% or 0%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "IVA = Impuesto al Valor Agregado"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Uzbekistan"
+            },
+            {
+              "attr": [],
+              "nodeValue": "20%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": "QQS = QoÊ»shilgan qiymat soligÊ»i"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Vanuatu"
+            },
+            {
+              "attr": [],
+              "nodeValue": "13%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Vietnam"
+            },
+            {
+              "attr": [],
+              "nodeValue": "10%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "5% or 0%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "GTGT = GiÃ¡ Trá» Gia TÄng"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Venezuela"
+            },
+            {
+              "attr": [],
+              "nodeValue": "12%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "11%"
+            },
+            {
+              "attr": [],
+              "nodeValue": "IVA = Impuesto al Valor Agregado"
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Zambia"
+            },
+            {
+              "attr": [],
+              "nodeValue": "16%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        },
+        {
+          "attr": [],
+          "cols": [
+            {
+              "attr": [],
+              "nodeValue": "&nbsp;Zimbabwe"
+            },
+            {
+              "attr": [],
+              "nodeValue": "15%"
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            },
+            {
+              "attr": [],
+              "nodeValue": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "content": "Country\nStandard rate (current)\nReduced rate (current)\nLocal name\n&nbsp;Albania[87]\n20%\n6% (accommodation services) or 0% (postal, medical, dental and welfare services)\nTVSH = Tatimi mbi VlerÃ«n e Shtuar\n&nbsp;Algeria\n19%\n&nbsp;Andorra[88]\n4.5%\n1%\nIGI = Impost General Indirecte\n&nbsp;Angola[89]\n7%\n5% which applies to the import and supply of certain goods (products of the Basic Basket listed in Annex I of the VAT Code and agricultural inputs)\n&nbsp;Antigua and Barbuda\n15%\n&nbsp;Argentina\n21%\n10.5% or 0%\nIVA = Impuesto al Valor Agregado\n&nbsp;Armenia\n20%\n0%\nAAH = Avelacvats Arzheqi Hark Ô±Ô±Õ = Ô±Õ¾Õ¥Õ¬Õ¡ÖÕ¾Õ¡Õ® Õ¡ÖÕªÕ¥ÖÕ« Õ°Õ¡ÖÕ¯\n&nbsp;Australia\n10%\n0% fresh food, medical services, medicines and medical devices, education services, childcare, water and sewerage, government taxes &amp; permits and many government charges, precious metals, second-hand goods and many other types of goods. Rebates for exported goods and GST taxed business inputs are also available\nGST = Goods and Services Tax\n&nbsp;Azerbaijan\n18%\n10.5% or 0%\nÆDV = ÆlavÉ dÉyÉr vergisi\n&nbsp;Bahamas[90][91]\n12%\n12% or 0% (including but not limited to exports of goods or services, services to a foreign going vessel providing international commercial services, consumable goods for commercially scheduled foreign going vessels/aircraft, copyright, etc.)\nVAT = Value Added Tax\n&nbsp;Bahrain\n5%\n0% (pharmacies and medical services, road transport, education service, Oil and gas derivatives, Vegetables and fruits, National exports)\n(VAT) Ø¶Ø±ÙØ¨Ø© Ø§ÙÙÙÙØ© Ø§ÙÙØ¶Ø§ÙØ©\n&nbsp;Bangladesh\n15%\n4% for supplier, 4.5% for ITES, 5% for electricity, 5.5% for construction firm, etc.\nMusok = Mullo songzojon kor à¦®à§à¦¸à¦ = \"à¦®à§à¦²à§à¦¯ à¦¸à¦à¦¯à§à¦à¦¨ à¦à¦°\"\n&nbsp;Barbados\n17.5%\nVAT = Value Added Tax\n&nbsp;Belarus\n20%\n10% or 0.5%\nÐÐÐ = ÐÐ°Ð´Ð°ÑÐ°Ðº Ð½Ð° Ð´Ð°Ð´Ð°Ð´Ð·ÐµÐ½ÑÑ Ð²Ð°ÑÑÐ°ÑÑÑÑ\n&nbsp;Belize\n12.5%\n&nbsp;Benin\n18%\n&nbsp;Bolivia\n13%\nIVA = Impuesto al Valor Agregado\n&nbsp;Bosnia and Herzegovina\n17%\nPDV = Porez na dodanu vrijednost\n&nbsp;Botswana\n12%\n&nbsp;Brazil\n20% (IPI) + 19% (ICMS) average + 3% (ISS) average\n0%\n*IPI â 20% = Imposto sobre produtos industrializados (Tax over industrialized products) â Federal Tax ICMS â 17 to 25% = Imposto sobre circulaÃ§Ã£o e serviÃ§os (tax over commercialization and services) â State Tax ISS â 2 to 5% = Imposto sobre serviÃ§o de qualquer natureza (tax over any service)&nbsp;â City tax\n&nbsp;Burkina Faso\n18%\n&nbsp;Burundi\n18%\n&nbsp;Cambodia\n10%\n&nbsp;Cameroon\n19.25%\n&nbsp;Canada\n5% + 0â10% HST (GST + PVAT)\n5%/0%[a]\nGST = Goods and Services Tax, TPS = Taxe sur les produits et services; HST[b] = Harmonized Sales Tax, TVH = Taxe de vente harmonisÃ©e\n&nbsp;Cape Verde\n15%\n&nbsp;Central African Republic\n19%\n&nbsp;Chad\n18%\n&nbsp;Chile\n19%\nIVA = Impuesto al Valor Agregado\n&nbsp;China[c]\n13%\n9% for foods, printed matter, and households fuels; 6% for service; or 3% for non-value-added tax\nå¢å¼ç¨ (zÄng zhÃ­ shuÃ¬)\n&nbsp;Colombia\n19%\nIVA = Impuesto al Valor Agregado\n&nbsp;Costa Rica\n13%\n&nbsp;Democratic Republic of the Congo\n16%\n&nbsp;Dominica\n15%\n&nbsp;Dominican Republic\n18%\n12% or 0%\nITBIS = Impuesto sobre Transferencia de Bienes Industrializados y Servicios\n&nbsp;Ecuador\n12%\n0%\nIVA = Impuesto al Valor Agregado\n&nbsp;Egypt\n14% (15% on communication services)\nVAT = Value Added Tax (Ø§ÙØ¶Ø±ÙØ¨Ø© Ø¹ÙÙ Ø§ÙÙÙÙØ© Ø§ÙÙØ¶Ø§ÙØ©)\n&nbsp;El Salvador\n13%\nIVA = Impuesto al Valor Agregado o \"Impuesto a la Transferencia de Bienes Muebles y a la PrestaciÃ³n de Servicios\"\n&nbsp;Equatorial Guinea\n15%\n&nbsp;Ethiopia\n15%\nVAT = Value Added Tax\n&nbsp;Faroe Islands\n25%\nMVG = MeirvirÃ°isgjald\n&nbsp;Fiji\n15%\n0%\nVAT = Value Added Tax\n&nbsp;Gabon\n18%\n&nbsp;Gambia[92]\n15%\nVAT = Value Added Tax\n&nbsp;Georgia\n18%\n0%\nDGhG = Damatebuli Ghirebulebis gadasakhadi áá¦á = ááááá¢ááá£áá á¦áá&nbsp;ááá£ááááá¡ ááááá¡áá®ááá\n&nbsp;Ghana\n15%\nVAT = Value Added Tax plus National Health Insurance Levy (NHIL; 2.5%)\n&nbsp;Grenada\n15%\n&nbsp;Guatemala\n12%\nIVA = Impuesto al Valor Agregado\n&nbsp;Guinea\n18%\n&nbsp;Guinea-Bissau\n15%\n&nbsp;Guyana[93]\n16%\n0%\nVAT = Value Added Tax\n&nbsp;Haiti\n10%\n&nbsp;Honduras\n15% (4% additional on tourism tax)[94]\nVAT = Impuesto Sobre Ventas\n&nbsp;Iceland\n24%\n11%[d]\nVSK, VASK = VirÃ°isaukaskattur\n&nbsp;India[e]\n5.5%\n5.5%\nVAT = Value Added Tax\n&nbsp;Indonesia\n11%\n11%, 0% for primary groceries, medical services, financial services, education and also insurance\nPPN = Pajak Pertambahan Nilai\n&nbsp;Iran\n9%\nVAT = Value Added Tax (ÙØ§ÙÛØ§Øª Ø¨Ø± Ø§Ø±Ø²Ø´ Ø§ÙØ²ÙØ¯Ù)\n&nbsp;Isle of Man\n20%\n&nbsp;Israel[f]\n17%[g] (0% in Eilat)\n0% (fruits and vegetables, tourism services for foreign citizens, intellectual property, diamonds, flights and apartments renting)\nMa'am = ××¡ ×¢×¨× ×××¡×£, ××¢\"×\n&nbsp;Ivory Coast\n18%\n&nbsp;Jamaica\n12.5%\n&nbsp;Japan\n10%\n8% (groceries)\nshÅhizei (æ¶è²»ç¨) (\"consumption tax\")\n&nbsp;Jersey[h]\n5%\n0%\nGST = Goods and Services Tax\n&nbsp;Jordan\n16%\nGST = Goods and Sales Tax\n&nbsp;Kazakhstan\n12%\nÒCÒ = ÒÐ¾ÑÑÐ»ÒÐ°Ð½ ÒÒ±Ð½ÒÐ° ÑÐ°Ð»ÑÐ½Ð°ÑÑÐ½ ÑÐ°Ð»ÑÒ (Kazakh)VAT = Value Added Tax\n&nbsp;Kenya\n16%\n&nbsp;Kyrgyzstan\n20%\n&nbsp;Laos\n10%\n&nbsp;Lebanon\n11%\nTVA = Taxe sur la valeur ajoutÃ©e\n&nbsp;Lesotho\n14%\n&nbsp;Liechtenstein[96]\n7.7%\n3.8% (lodging services) or 2.5%\nMWST = Mehrwertsteuer\n&nbsp;Madagascar\n20%\n&nbsp;Malawi\n16.5%\n&nbsp;Malaysia[i]\n6%\n0% for fresh foods, education, healthcare, land public transportation and medicines. Sales and Services Tax (SST) was reintroduced by the Malaysian Government on 1 September 2018 to replace the Goods and Services Tax (GST) which had only been introduced just over three years before that, on 1 April 2015.[98]\nSST = Sales and Services TaxCJP = Cukai Jualan dan Perkhidmatan\nGST = Goods and Services Tax (Malaysia)\n&nbsp;Maldives\n6%\n0%\nGST = Goods and services tax (Government Tax)\n&nbsp;Mali\n18%\n&nbsp;Mauritania\n14%\n&nbsp;Mauritius\n15%\nVAT = Value Added Tax\n&nbsp;Mexico\n16%\n0% on books, food and medicines.\nIVA = Impuesto al Valor Agregado\n&nbsp;Moldova\n20%\n8%, 5% or 0%\nTVA = Taxa pe Valoarea AdÄugatÄ\n&nbsp;Monaco[99]\n19.6%\n5.6%\nTVA = Taxe sur la valeur ajoutÃ©e\n&nbsp;Mongolia\n10%\n0%\nVAT = ÐÑÐ¼ÑÐ³Ð´ÑÑÐ½ Ó©ÑÑÐ³Ð¸Ð¹Ð½ Ð°Ð»Ð±Ð°Ð½ ÑÐ°ÑÐ²Ð°Ñ\n&nbsp;Montenegro\n21%\n7%\nPDV = Porez na dodatu vrijednost\n&nbsp;Morocco\n20%\nTVA = Taxe sur Valeur AjoutÃ©e (Ø§ÙØ¶Ø±ÙØ¨Ø© Ø¹ÙÙ Ø§ÙÙÙÙØ© Ø§ÙÙØ¶Ø§ÙØ©)\n&nbsp;Mozambique\n17%\n&nbsp;Namibia\n15%\n0%\nVAT = Value Added Tax\n&nbsp;&nbsp;&nbsp;Nepal\n13%\n0%\nVAT = Value Added Taxes\n&nbsp;New Zealand\n15%\n0% (donated goods and services sold by non-profits, financial services, rental payments for residential properties, supply of fine metals, and penalty interest).[100]\nGST = Goods and Services Tax\n&nbsp;Nicaragua\n15%\n&nbsp;Niger\n19%\n&nbsp;Nigeria\n7.5%\n&nbsp;Niue\n5%\n&nbsp;North Macedonia\n18%\n5% or 0%\nÐÐÐ = ÐÐ°Ð½Ð¾Ðº Ð½Ð° Ð´Ð¾Ð´Ð°Ð´ÐµÐ½Ð° Ð²ÑÐµÐ´Ð½Ð¾ÑÑ, DDV = Danok na dodadena vrednost\n&nbsp;Norway\n25%\n15% (food), 12% (public transport, hotel, cinema) and 0% for electric cars (until 2018)[101]\nMVA = Merverdiavgift (bokmÃ¥l) or meirverdiavgift (nynorsk) (informally moms)\n&nbsp;Pakistan\n17%\n1% or 0%\nGST = General Sales Tax\n&nbsp;Palestine\n16%\nVAT = Value Added Tax\n&nbsp;Panama\n7%\n0%\nITBMS = Impuesto de Transferencia de Bienes Muebles y Servicios\n&nbsp;Papua New Guinea\n10%\n&nbsp;Paraguay\n10%\n5%\nIVA= Impuesto al Valor Agregado\n&nbsp;Peru\n18%\nIGV â 16% = Impuesto General a la Ventas IPM â 2% Impuesto de Promocion Municipal\n&nbsp;Philippines\n12%[j]\n6% on petroleum products, and electricity and water services  0% for senior citizens (all who are aged 60 and above) on medicines, professional fees for physicians, medical and dental services, transportation fares, admission fees charged by theaters and amusement centers, and funeral and burial services after the death of the senior citizen\nRVAT = Reformed Value Added Tax, locally known as Karagdagang Buwis / Dungag nga Buhis\n&nbsp;Republic of Congo\n16%\n&nbsp;Russia\n20%\n10% (essential food, goods for children and medical products)[103] or 0%\nÐÐÐ¡ = ÐÐ°Ð»Ð¾Ð³ Ð½Ð° Ð´Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð½ÑÑ ÑÑÐ¾Ð¸Ð¼Ð¾ÑÑÑ, NDS = Nalog na dobavlennuyu stoimost'\n&nbsp;Rwanda\n18%\n0%\nVAT = Value Added Tax\n&nbsp;Saint Kitts and Nevis\n17%\nVAT = Value Added Tax\n&nbsp;Saint Vincent and the Grenadines\n15%\n&nbsp;Samoa\n15%\n&nbsp;Saudi Arabia\n15%\nØ¶Ø±ÙØ¨Ø© Ø§ÙÙÙÙØ© Ø§ÙÙØ¶Ø§ÙØ© (VAT)\n&nbsp;Senegal\n18%\n&nbsp;Serbia\n20%[104]\n10%[105] or 0%\nÐÐÐ = ÐÐ¾ÑÐµÐ· Ð½Ð° Ð´Ð¾Ð´Ð°ÑÑ Ð²ÑÐµÐ´Ð½Ð¾ÑÑ, PDV = Porez na dodatu vrednost\n&nbsp;Seychelles\n15%\n&nbsp;Sierra Leone\n15%\n&nbsp;Singapore\n7%\nRaised from 5% to 7% in 2007. To be raised from 7% to 9% in 2024.\nGST = Goods and Services Tax\n&nbsp;South Africa\n15%\n0% on basic foodstuffs such as bread, additionally on goods donated not for gain; goods or services used for educational purposes, such as school computers; membership contributions to an employee organization (such as labour union dues); and rent paid on a house by a renter to a landlord.[106]\nVAT = Valued Added Tax; BTW = Belasting op toegevoegde waarde\n&nbsp;South Korea\n10%\n0% (essential foodstuffs)\nVAT = bugagachise (Korean:&nbsp;ë¶ê°ê°ì¹ì¸; Hanja:&nbsp;éå&nbsp;å¹å¤ç¨)\n&nbsp;Sri Lanka\n12%\n0%\nVAT = Valued Added Tax has been in effect in Sri Lanka since 2001. On the 2001 budget, the rates have been revised to 12% and 0% from the previous 20%, 12% and 0%\n&nbsp;Sudan\n17%\n&nbsp;&nbsp;Switzerland\n7.7%[107]\n3.7% (hotel sector) and 2.5% (essential foodstuff, books, newspapers, medical supplies)[107]\nMWST = Mehrwertsteuer, TVA = Taxe sur la valeur ajoutÃ©e, IVA = Imposta sul valore aggiunto, TPV = Taglia sin la Plivalur\n&nbsp;Taiwan\n5%\nçæ¥­ç¨ (business tax) / å&nbsp;å¼åçæ¥­ç¨ (value-added business tax)\n&nbsp;Tajikistan\n20%\n&nbsp;Tanzania\n18%\n&nbsp;Thailand\n10%\n7%\nVAT = Value Added Tax, à¸&nbsp;à¸²à¸©à¸µà¸¡à¸¹à¸¥à¸à¹à¸²à¹à¸à¸´à¹à¸¡\n&nbsp;Togo\n18%\n&nbsp;Tonga\n15%\n&nbsp;Trinidad and Tobago\n12.5%\n0%\n&nbsp;Tunisia\n18%\nTVA = Taxe sur la Valeur AjoutÃ©e Ø¢Ø¯Ø§Ø¡ Ø¹ÙÙ Ø§ÙÙÙÙØ© Ø§ÙÙØ¶Ø§ÙØ©\n&nbsp;Turkey\n18%\n8% or 1%\nKDV = Katma deÄer vergisi\n&nbsp;Turkmenistan\n15%\n&nbsp;Uganda\n18%\n&nbsp;Ukraine\n20%\n7% or 0%\nÐÐÐ = ÐÐ¾Ð´Ð°ÑÐ¾Ðº Ð½Ð° Ð´Ð¾Ð´Ð°Ð½Ñ Ð²Ð°ÑÑÑÑÑÑ, PDV = Podatok na dodanu vartist'.\n&nbsp;United Arab Emirates\n5%\nØ¶Ø±ÙØ¨Ø© Ø§ÙÙÙÙØ© Ø§ÙÙØ¶Ø§ÙØ©\n&nbsp;United Kingdom\n20%[108]0% in Guernsey and Gibraltar (not part of EU VAT area)\n5% residential energy/insulation/renovations, feminine hygiene products, child safety seats and mobility aids and 0% for life necessities&nbsp;â basic food, water, prescription medications, medical equipment and medical supply, public transport, children's clothing, books and periodicals.  Also 0% for new building construction (but standard rate for building demolition, modifications, renovation etc.)[109] 5% for hospitality, holiday accommodation and attractions until 12 January 2021.[110]\nVAT\nTAW = Value Added Tax\nTreth Ar Werth (Welsh)\n&nbsp;Uruguay\n22%\n18% or 0%\nIVA = Impuesto al Valor Agregado\n&nbsp;Uzbekistan\n20%\nQQS = QoÊ»shilgan qiymat soligÊ»i\n&nbsp;Vanuatu\n13%\n&nbsp;Vietnam\n10%\n5% or 0%\nGTGT = GiÃ¡ Trá» Gia TÄng\n&nbsp;Venezuela\n12%\n11%\nIVA = Impuesto al Valor Agregado\n&nbsp;Zambia\n16%\n&nbsp;Zimbabwe\n15%"
+}
