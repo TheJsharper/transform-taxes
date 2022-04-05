@@ -1199,6 +1199,10 @@
             }, {
                 "country": "Canada",
                 "taxes": [
+                    "26.5-31% (higher rate)9-13% (lower rate)",
+                    "19% (15% federal + 4% in Nunavut) to 27.53% (12.53% federal + 15% in Quebec)",
+                    "44.5% (33% federal + 11.5% in Nunavut) to 54% (33% federal + 21% in Nova Scotia)",
+                    "5% (5% federal tax in Alberta) to 15% (5% federal tax + 10% provincial tax in New Brunswick)",
                     "27%"
                 ],
 				"differencialTaxes": [{
