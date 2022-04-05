@@ -1199,10 +1199,6 @@
             }, {
                 "country": "Canada",
                 "taxes": [
-                    "26.5-31% (higher rate)9-13% (lower rate)",
-                    "19% (15% federal + 4% in Nunavut) to 27.53% (12.53% federal + 15% in Quebec)",
-                    "44.5% (33% federal + 11.5% in Nunavut) to 54% (33% federal + 21% in Nova Scotia)",
-                    "5% (5% federal tax in Alberta) to 15% (5% federal tax + 10% provincial tax in New Brunswick)",
                     "27%"
                 ],
 				"differencialTaxes": [{
@@ -1252,35 +1248,75 @@
                     },{
                         porcentage: "10%",
                         type: "provincial tax in New Brunswickprovincial tax in New Brunswick"
-                    },
+                    }
                 ],
                 "name": "Taxation in Canada"
             }, {
                 "country": "China",
                 "taxes": [
-                    "25% (standard rate)n15% (concession rate for high-tech companies)",
                     "0%",
                     "45%",
-                    "13% (standard rate)9% (energy, books, transportation, etc.)6% (other services)0% (goods and services for export)",
                     "20%"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "25%",
+                        type: "standard rate"
+                    }, {
+                        porcentage: "15%",
+                        type: "concession rate for high-tech companies"
+                    },{
+                        porcentage: "13%",
+                        type: "standard rate"
+                    }, {
+                        porcentage: "9%",
+                        type: "energy, books, transportation, etc."
+                    }, {
+                        porcentage: "6%",
+                        type: "other services"
+                    }, {
+                        porcentage: "0%",
+                        type: "goods and services for export"
+                    }
                 ],
                 "name": "Taxation in China"
             }, {
                 "country": "Colombia",
                 "taxes": [
                     "35%",
-                    "0%",
-                    "35% (non-labor income)39% (labor income)",
-                    "19% (standard rate)5% or 0% (reduced rates)"
+                    "0%"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "35%",
+                        type: "non-labor income"
+                    }, {
+                        porcentage: "39%",
+                        type: "labor income"
+                    },{
+                        porcentage: "19%",
+                        type: "standard rate"
+                    }, {
+                        porcentage: "5%",
+                        type: "reduced rates"
+                    }, {
+                        porcentage: "0%",
+                        type: "reduced rates"
+                    }
                 ],
                 "name": "Taxation in Colombia"
             }, {
                 "country": "Cook Islands",
                 "taxes": [
-                    "30% (highest rate)20% (lowest rate)",
                     "18.5%",
                     "30%",
                     "15%"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "30%",
+                        type: "highest rate"
+                    }, {
+                        porcentage: "20%",
+                        type: "lowest rate"
+                    }
                 ],
                 "name": "Taxation in Cook Islands"
             }, {
@@ -1288,8 +1324,15 @@
                 "taxes": [
                     "35%",
                     "0%",
-                    "40%",
-                    "20% (highest rate)5% (lowest rate)"
+                    "40%"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "20%",
+                        type: "highest rate"
+                    }, {
+                        porcentage: "5%",
+                        type: "lowest rate"
+                    }
                 ],
                 "name": "Taxation in the Democratic Republic of the Congo"
             }, {
@@ -1297,18 +1340,43 @@
                 "taxes": [
                     "30%",
                     "0%",
-                    "25%",
-                    "13% (standard rate)4% (private healthcare and plane tickets)2% (medicines and private education)1% (essential foods and agriculture)"
+                    "25%"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "13%",
+                        type: "standard rate"
+                    }, {
+                        porcentage: "4%",
+                        type: "private healthcare and plane tickets"
+                    }, {
+                        porcentage: "2%",
+                        type: "medicines and private education"
+                    }, {
+                        porcentage: "1%",
+                        type: "essential foods and agriculture"
+                    }
                 ],
                 "name": "Taxation in Costa Rica"
             }, {
                 "country": "Croatia",
                 "taxes": [
-                    "18% (for profits over 3 million kn)12% (for profits not over 3 million kn)",
                     "12%",
                     "40%",
-                    "25% (standard rate)13% (certain essential groceries)",
                     "10%"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "18%",
+                        type: "for profits over 3 million kn"
+                    }, {
+                        porcentage: "12%",
+                        type: "for profits not over 3 million kn"
+                    }, {
+                        porcentage: "25%",
+                        type: "standard rate"
+                    }, {
+                        porcentage: "13%",
+                        type: "certain essential groceries"
+                    }
                 ],
                 "name": "Taxation in Croatia"
             }, {
@@ -1316,8 +1384,15 @@
                 "taxes": [
                     "30%",
                     "15%",
-                    "50%",
-                    "20% (highest rate)2.5% (lowest rate)"
+                    "50%"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "20%",
+                        type: "highest rate"
+                    }, {
+                        porcentage: "2.5%",
+                        type: "lowest rate"
+                    }					
                 ],
                 "name": "Taxation in Cuba"
             }, {
@@ -1325,8 +1400,18 @@
                 "taxes": [
                     "22%",
                     "9.75%",
-                    "46.5%",
-                    "6%, 7% or 9%"
+                    "46.5%"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "6%",
+                        type: "standard rate"
+                    }, {
+                        porcentage: "7%",
+                        type: "standard rate"
+                    },{
+                        porcentage: "9%",
+                        type: "standard rate"
+                    }					
                 ],
                 "name": "Taxation in CuraÃ§ao"
             }, {
@@ -1335,28 +1420,68 @@
                     "12.5%",
                     "0%",
                     "35%",
-                    "19% (standard rate)5% or 0% (reduced rates)",
                     "20%"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "19%",
+                        type: "standard rate"
+                    }, {
+                        porcentage: "0%",
+                        type: "reduced ratea"
+                    }					
                 ],
                 "name": "Taxation in Cyprus"
             }, {
                 "country": "Czech Republic",
                 "taxes": [
                     "19%",
-                    "20.1% (15% deductible tax + 45% medicare and social security if an employee, 22.5% if self-employed)",
-                    "45.7% (peaks for employee gross annual income of $90,000 or more)39% (for gross annual income of $450,000 or more)",
-                    "21% (standard rate)15% or 10% (reduced rates)",
+                    "20.1%",
                     "15%"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "15%",
+                        type: "deductible tax "
+                    }, {
+                        porcentage: "45%",
+                        type: "medicare and social security if an employee"
+                    }, {
+                        porcentage: "22.5%",
+                        type: "medicare and social security if self-employed"
+                    },{
+                        porcentage: "45.7%",
+                        type: "peaks for employee gross annual income of $90,000 or more"
+                    },{
+                        porcentage: "39%",
+                        type: "for gross annual income of $450,000 or more"
+                    },{
+                        porcentage: "21%",
+                        type: "standard rate"
+                    }	,{
+                        porcentage: "10%",
+                        type: "reduced rates"
+                    }					
                 ],
                 "name": "Taxation in the Czech Republic"
             }, {
                 "country": "Denmark",
                 "taxes": [
-                    "22-25% (depending on business)",
-                    "39.8596% (34.63% for unemployed; first DKK46,000 / US$7,245 / per year is deductible)",
                     "55.8584%",
                     "25%",
                     "42%"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "22%",
+                        type: "depending on business"
+                    }, {
+                        porcentage: "25%",
+                        type: "depending on business"
+                    }, {
+                        porcentage: "34.63%",
+                        type: "for unemployed"
+                    }	, {
+                        porcentage: "39.8596%",
+                        type: "first DKK46,000 / US$7,245 / per year is deductible"
+                    }					
                 ],
                 "name": "Taxation in Denmark"
             }, {
@@ -1365,94 +1490,227 @@
                     "25%",
                     "0%",
                     "35%",
-                    "12% (standard rate)15% (luxury goods)0% (exports)",
                     "35%"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "12%",
+                        type: "standard rate"
+                    }, {
+                        porcentage: "15%",
+                        type: "luxury goods"
+                    }, {
+                        porcentage: "0%",
+                        type: "exports"
+                    }				
                 ],
                 "name": "Taxation in Ecuador"
             }, {
                 "country": "Egypt",
                 "taxes": [
-                    "22.5% (on taxable corporate profits)(+ 5% on distribution of profit)",
                     "0%",
-                    "22.5%",
-                    "14% (standard rate)10% (professional services)0% (exports)"
+                    "22.5%"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "22.5%",
+                        type: "on taxable corporate profits"
+                    }, {
+                        porcentage: "5%",
+                        type: "on distribution of profit"
+                    }, {
+                        porcentage: "14%",
+                        type: "standard rate"
+                    }, {
+                        porcentage: "10%",
+                        type: "professional services"
+                    }	, {
+                        porcentage: "0%",
+                        type: "exports"
+                    }				
                 ],
                 "name": "Taxation in Egypt"
             }, {
                 "country": "Estonia",
                 "taxes": [
-                    "20% (14% on regular dividends)",
-                    "20% (+ 33% social tax)(0% on dividends)(7% on regular dividends)",
-                    "20% (+ 33% social tax)(0% on dividends)(7% on regular dividends)",
-                    "20% (standard rate)9% (reduced rate)",
                     "20%"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "20%",
+                        type: "14% on regular dividends"
+                    }, {
+                        porcentage: "20%",
+                        type: "+ 33% social tax)(0% on dividends)(7% on regular dividends)"
+                    }, {
+                        porcentage: "20%",
+                        type: "standard rate"
+                    }, {
+                        porcentage: "9%",
+                        type: "reduced rate"
+                    }				
                 ],
                 "name": "Taxation in Estonia"
             }, {
                 "country": "Finland",
                 "taxes": [
                     "20%",
-                    "0% + 8.40% social security tax",
-                    "66.75%   in Halsua for the members of the Orthodox Church of Finland (31.25% national tax rate + 23.5% municipal tax + 9.9% social security tax + 2.1% church tax)",
-                    "24% (standard rate)14% (food and fodder)10% (medicines and public transport)",
+                    "66.75%",
+                    "24%",
                     "34%"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "8.40%",
+                        type: "social security tax"
+                    }, {
+                        porcentage: "31.25%",
+                        type: "national tax rate"
+                    }, {
+                        porcentage: "9.9%",
+                        type: "municipal tax"
+                    }, {
+                        porcentage: "2.1%",
+                        type: "church tax"
+                    }, {
+                        porcentage: "24%",
+                        type: "standard rate"
+                    }, {
+                        porcentage: "14%",
+                        type: "food and fodder"
+                    }, {
+                        porcentage: "10%",
+                        type: "medicines and public transport"
+                    }				
                 ],
                 "name": "Taxation in Finland"
             }, {
                 "country": "France",
                 "taxes": [
-                    "26.5% (on profits over 15%",
                     "0%",
-                    "49% (45% + 4% tax on high incomes, or incomes",
-                    "20% (standard rate)10% (restaurants, transportation and tourism services)5.5% (utilities)2.1% (press)",
                     "30%"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "26.5%",
+                        type: "on profits over 15%"
+                    }, {
+                        porcentage: "49%",
+                        type: "tax on high incomes"
+                    }, {
+                        porcentage: "20%",
+                        type: "standard rate"
+                    }, {
+                        porcentage: "10%",
+                        type: "restaurants, transportation and tourism services"
+                    }, {
+                        porcentage: "5.5%",
+                        type: "utilities"
+                    }, {
+                        porcentage: "2.1%",
+                        type: "press"
+                    }				
                 ],
                 "name": "Taxation in France"
             }, {
                 "country": "Germany",
                 "taxes": [
                     "29.65%",
-                    "14% are free of income tax)",
-                    "47.475% (45% income tax + 5.5% solidarity surcharge based on the total tax bill)",
-                    "19% (standard rate)7% (reduced rate)",
+                    "47.475%",
                     "25%"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "14%",
+                        type: "are free of income tax"
+                    }, {
+                        porcentage: "45%",
+                        type: "income tax "
+                    }, {
+                        porcentage: "5.5%",
+                        type: "solidarity surcharge based on the total tax bill"
+                    }, {
+                        porcentage: "19%",
+                        type: "standard rate"
+                    }, {
+                        porcentage: "7%",
+                        type: "reduced rate"
+                    }				
                 ],
                 "name": "Taxation in Germany"
             }, {
                 "country": "Georgia",
                 "taxes": [
-                    "0% (15% on distribution of profit)",
-                    "20% (5% on dividend, interest and royalty)",
-                    "20% (5% on dividend, interest and royalty)",
                     "18%"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "0%",
+                        type: "15% on distribution of profit"
+                    }, {
+                        porcentage: "20%",
+                        type: "5% on dividend, interest and royalty"
+                    }			
                 ],
                 "name": "Taxation in Georgia"
             }, {
                 "country": "Greece",
                 "taxes": [
                     "22%",
-                    "9% (zero tax for annual income under )",
                     "44%",
-                    "24% (standard rate)13% (food, health and tourism services)6% (theater tickets, books and medicine)VAT is reduced by 30% for the islands of Leros, Lesvos, Kos, Samos, Chios (i.e., 17%, 9%, 4%).",
+                    "17%",
+					"9%",
+					"4%",
                     "15%"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "9%",
+                        type: "zero tax for annual income under"
+                    }, {
+                        porcentage: "20%",
+                        type: "5% on dividend, interest and royalty"
+                    }	, {
+                        porcentage: "24%",
+                        type: "standard rate"
+                    }	, {
+                        porcentage: "13%",
+                        type: "food, health and tourism services"
+                    }	, {
+                        porcentage: "6%",
+                        type: "theater tickets, books and medicine"
+                    }	, {
+                        porcentage: "30%",
+                        type: "for the islands of Leros, Lesvos, Kos, Samos, Chios "
+                    }			
                 ],
                 "name": "Taxation in Greece"
             }, {
                 "country": "Guyana",
                 "taxes": [
-                    "30%",
-                    "28% on Annual Salary Less Than $1,560,000 GYD.",
-                    "40% on Annual Salary Above $1,560,000 GYD.",
-                    "14% (standard rate)0% (reduced rate)"
+                    "30%"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "28%",
+                        type: "on Annual Salary Less Than $1,560,000 GYD."
+                    }, {
+                        porcentage: "40%",
+                        type: "on Annual Salary Above $1,560,000 GYD."
+                    }	, {
+                        porcentage: "14%",
+                        type: "standard rate"
+                    }	, {
+                        porcentage: "0%",
+                        type: "reduced rate"
+                    }			
                 ],
                 "name": "Taxation in Guyana"
             }, {
                 "country": "Hong Kong",
                 "taxes": [
-                    "16.5% (on profits over HK$2 million)8.25% (on profits not over HK$2 million)",
                     "0%",
                     "15%",
                     "0%"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "16.5%",
+                        type: "on profits over HK$2 million"
+                    }, {
+                        porcentage: "8.25%",
+                        type: "on profits not over HK$2 million"
+                    }			
                 ],
                 "name": "Taxation in Hong Kong"
             }, {
@@ -1461,28 +1719,89 @@
                     "9%",
                     "15%",
                     "15%",
-                    "27% (standard rate)18% (reduced rate)5% (milk, egg, pork, chicken meat, internet service, restaurant services, medicines and books)",
                     "15%"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "27%",
+                        type: "standard rate"
+                    }, {
+                        porcentage: "18%",
+                        type: "reduced rate"
+                    }	, {
+                        porcentage: "5%",
+                        type: "milk, egg, pork, chicken meat, internet service, restaurant services, medicines and books"
+                    }			
                 ],
                 "name": "Taxation in Hungary"
             }, {
                 "country": "Iceland",
                 "taxes": [
                     "20%",
-                    "0% (On income up to 152.807 ISK)",
                     "46%",
-                    "24% (standard rate)11% (reduced rate)",
                     "22%"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "0%",
+                        type: "On income up to 152.807 ISK"
+                    }, {
+                        porcentage: "24%",
+                        type: "standard rate"
+                    }	, {
+                        porcentage: "11%",
+                        type: "reduced rate"
+                    }			
                 ],
                 "name": "Taxation in Iceland"
             }, {
                 "country": "India",
                 "taxes": [
-                    "22% (highest)15% (lowest)n",
-                    "0% ¹ 0 - 250,000 5%  250,001 - 500,000 20%  500,001 - 1,000,000 Scheme I (with deductions) 0%  0 - 500,000 10%  500,001 - 750,000 15%  750,001 - 1,000,000 20%  1,000,001 - 1,250,000 25%  1,250,001 - 1,500,000 Scheme II (without deductions)",
-                    "30% 1,000,001 &amp; +  Scheme I (with deductions) 30%  1,500,001 &amp; + Scheme II (without deductions)n4% cess and highest surcharge of 37% is applied on income tax. This makes the effective tax rate 42.74%.",
-                    "28%, 18%, 12%, 5%, 0% (varies by commodity; see GST rates in India)",
+                    "28%",
+					"18%",
+					"12%",
+					"5%", 
+					"0%",
                     "15%"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "22%",
+                        type: "highest"
+                    }, {
+                        porcentage: "15%",
+                        type: "lowest"
+                    }	, {
+                        porcentage: "0%",
+                        type: "0 - 250,000"
+                    }	, {
+                        porcentage: "5%",
+                        type: "250,001 - 500,000"
+                    }, {
+                        porcentage: "20%",
+                        type: "500,001 - 1,000,000"
+                    }, {
+                        porcentage: "10%",
+                        type: "0 - 500,000"
+                    }, {
+                        porcentage: "15%",
+                        type: "500,001 - 750,000"
+                    }, {
+                        porcentage: "20%",
+                        type: "750,001 - 1,000,000"
+                    }, {
+                        porcentage: "25%",
+                        type: " 1,000,001 - 1,250,000"
+                    } ,{ 
+						porcentage: "30%",
+                        type: " 1,000,001 -  1,500,001"
+                    },{ 
+						porcentage: "4%",
+                        type: "cess and highest surcharge"
+                    }	,{ 
+						porcentage: "37%",
+                        type: "is applied on income tax"
+                    }	,{ 
+						porcentage: "42.74%",
+                        type: "This makes the effective tax rate"
+                    }			
                 ],
                 "name": "Taxation in India"
             }, {
@@ -1490,18 +1809,40 @@
                 "taxes": [
                     "25%",
                     "0%",
-                    "35%",
-                    "9% (highest rate)0% (reduced rate)"
+                    "35%"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "9%",
+                        type: "highest rate"
+                    }, {
+                        porcentage: "0%",
+                        type: "reduced rate"
+                    }			
                 ],
                 "name": "Taxation in Iran"
             }, {
                 "country": "Ireland",
                 "taxes": [
                     "12.5%",
-                    "20% (first 650 per year is deductible)",
-                    "52% (40% income tax + 12% social insurance contributions on incomes above 70,000)",
-                    "23% (goods)(services)0% (certain items of food)",
+                    "52%",
                     "33%"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "20%",
+                        type: "first 650 per year is deductible"
+                    }, {
+                        porcentage: "40%",
+                        type: "income tax"
+                    }	, {
+                        porcentage: "12%",
+                        type: "social insurance contributions on incomes above 70,000"
+                    }	, {
+                        porcentage: "23%",
+                        type: "goods,services"
+                    }	, {
+                        porcentage: "0%",
+                        type: "certain items of food"
+                    }			
                 ],
                 "name": "Taxation in Ireland"
             }, {
@@ -1510,45 +1851,118 @@
                     "0%",
                     "10%",
                     "20%",
-                    "20% (standard rate)5% (home renovations)"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "20%",
+                        type: "standard rate"
+                    }, {
+                        porcentage: "5%",
+                        type: "home renovations"
+                    }		
                 ],
                 "name": "Taxation in Isle of Man"
             }, {
                 "country": "Israel",
                 "taxes": [
                     "23%",
-                    "0% (for monthly income under )",
                     "50%",
-                    "17% (standard rate)0% (fruits, vegetables and public transport)",
                     "25%"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "0%",
+                        type: "for monthly income under 6,330"
+                    }, {
+                        porcentage: "17%",
+                        type: "standard rate"
+                    } ,{
+                        porcentage: "0%",
+                        type: "fruits, vegetables and public transport"
+                    }		
                 ],
                 "name": "Taxation in Israel"
             }, {
                 "country": "Italy",
                 "taxes": [
-                    "27.9% (24% + 3.9% (municipal))",
-                    "from 23% (first er year is deductible) to 43%",
-                    "47% (43% income tax + 4% special added tax)",
-                    "22% (standard rate)10% (reduced rate)4% (food and books)",
+                    "27.9%",
                     "27.5%"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "23%",
+                        type: "first er year is deductible"
+                    }, {
+                        porcentage: "43%",
+                        type: "highest rate"
+                    } ,{
+                        porcentage: "43%",
+                        type: "income tax"
+                    } ,{
+                        porcentage: "4%",
+                        type: "special added tax"
+                    } ,{
+                        porcentage: "22%",
+                        type: "standard rate"
+                    }	 ,{
+                        porcentage: "10%",
+                        type: "reduced rate"
+                    }	 ,{
+                        porcentage: "4%",
+                        type: "food and books"
+                    }		
                 ],
                 "name": "Taxation in Italy"
             }, {
                 "country": "Jamaica",
                 "taxes": [
-                    "33.3% (standard rate)25% (reduced rate for small companies)",
                     "0%",
-                    "25% (on income over J$1,500,000)",
-                    "20% (services)16.5% (goods)"
+                    "20%"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "33%",
+                        type: "standard rate"
+                    }, {
+                        porcentage: "25%",
+                        type: "reduced rate for small companies"
+                    } ,{
+                        porcentage: "25%",
+                        type: "on income over J$1,500,000"
+                    } ,{
+                        porcentage: "20%",
+                        type: "services"
+                    } ,{
+                        porcentage: "22%",
+                        type: "standard rate"
+                    }	 ,{
+                        porcentage: "16.5%",
+                        type: "goods"
+                    }		
                 ],
                 "name": "Taxation in Jamaica"
             }, {
                 "country": "Japan",
                 "taxes": [
                     "29.74%",
-                    "15.105% (5.105% national + 10% local)",
-                    "55.945% (45.945% national + 10% local)",
-                    "10% (standard rate)8% (groceries and takeout food)"
+                    "15.105%",
+                    "55.945%"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "5.105%",
+                        type: "national"
+                    }, {
+                        porcentage: "10%",
+                        type: "local
+                    } ,{
+                        porcentage: "45.945%",
+                        type: "national"
+                    } ,{
+                        porcentage: "10%",
+                        type: "local"
+                    } ,{
+                        porcentage: "10%",
+                        type: "standard rate"
+                    }	 ,{
+                        porcentage: "8%",
+                        type: "groceries and takeout food"
+                    }		
                 ],
                 "name": "Taxation in Japan"
             }, {
@@ -1556,26 +1970,61 @@
                 "taxes": [
                     "20%",
                     "10%",
-                    "10% (for residents)15% (for non-residents)",
                     "13%"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "10%",
+                        type: "for residents"
+                    }, {
+                        porcentage: "15%",
+                        type: "for non-residents"
+                    } 		
                 ],
                 "name": "Taxation in Kazakhstan"
             }, {
                 "country": "Kenya",
                 "taxes": [
                     "30%",
-                    "10%",
-                    "30% (for citizens)35% (for non-citizens)",
-                    "16% (standard rate)12% (electricity and fuel)0% (food)"
+                    "10%"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "30%",
+                        type: "for citizens"
+                    }, {
+                        porcentage: "35%",
+                        type: "for non-citizens"
+                    }, {
+                        porcentage: "16%",
+                        type: "standard rate"
+                    }, {
+                        porcentage: "12%",
+                        type: "electricity and fuel"
+                    }, {
+                        porcentage: "0%",
+                        type: "food"
+                    } 		
                 ],
                 "name": "Taxation in Kenya"
             }, {
                 "country": "Kosovo",
                 "taxes": [
-                    "10% (highest rate)0% (lowest rate)",
                     "0%",
                     "10%",
                     "18% (standard rate)8% (basic items)"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "10%",
+                        type: "highest rate"
+                    }, {
+                        porcentage: "0%",
+                        type: "lowest rate"
+                    }, {
+                        porcentage: "18%",
+                        type: "standard rate"
+                    }, {
+                        porcentage: "8%",
+                        type: "basic items"
+                    }		
                 ],
                 "name": "Taxation in Kosovo"
             }, {
@@ -1583,35 +2032,63 @@
                 "taxes": [
                     "25%",
                     "0%",
-                    "20%",
-                    "4% (highest rate)2% (lowest rate)"
+                    "20%"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "4%",
+                        type: "highest rate"
+                    }, {
+                        porcentage: "2%",
+                        type: "lowest rate"
+                    }		
                 ],
                 "name": "Taxation in North Korea"
             }, {
                 "country": "South Korea",
                 "taxes": [
                     "24.2%",
-                    "6% + 1.8%",
-                    "42% + 11.4%",
+                    "6%",
+                    "42%",
                     "10%"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "53.4%",
+                        type: "highest rate"
+                    }, {
+                        porcentage: "7.8%",
+                        type: "lowest rate"
+                    }		
                 ],
                 "name": "Taxation in South Korea"
             }, {
                 "country": "Kyrgyzstan",
                 "taxes": [
                     "10%",
-                    "10%",
-                    "10%",
-                    "12% (standard rate)5% (highest rate)1% (lowest rate)"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "12%",
+                        type: "standard rate"
+                    }, {
+                        porcentage: "5%",
+                        type: "highest rate"
+                    }, {
+                        porcentage: "1%",
+                        type: "lowest ratee"
+                    }		
                 ],
                 "name": "Taxation in Kyrgyzstan"
             }, {
                 "country": "Latvia",
                 "taxes": [
-                    "0% (20% on distribution of profit)",
+                    "0%",
                     "20%",
                     "31.4%",
                     "21%"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "20%",
+                        type: "on distribution of profit"
+                    }		
                 ],
                 "name": "Taxation in Latvia"
             }, {
@@ -1619,8 +2096,18 @@
                 "taxes": [
                     "12.5%",
                     "3%",
-                    "24%",
-                    "7.7% (standard rate)3.8% (lodging services)2.5% (reduced rate)"
+                    "24%"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "7.7%",
+                        type: "standard rate"
+                    },{
+                        porcentage: "3.8%",
+                        type: "lodging services"
+                    },{
+                        porcentage: "2.5%",
+                        type: "lodging services"
+                    }		
                 ],
                 "name": "Taxation in Liechtenstein"
             }, {
@@ -1629,53 +2116,157 @@
                     "15%",
                     "31.2%",
                     "42.77%",
-                    "21%9% (Publications, accommodation services etc.)5% (Medicine, newspapers and magazines etc.)0% (Certain goods and services)",
                     "15%"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "21%",
+                        type: "Publications"
+                    },{
+                        porcentage: "9%",
+                        type: "accommodation services etc."
+                    },{
+                        porcentage: "5%",
+                        type: "Medicine, newspapers and magazines etc."
+                    }	,{
+                        porcentage: "0%",
+                        type: "Certain goods and services"
+                    }		
                 ],
                 "name": "Taxation in Lithuania"
             }, {
                 "country": "Luxembourg",
                 "taxes": [
-                    "28.69% (17% income tax + 1.19% unemployment fund contribution + 6.0-10.5% municipal trade tax",
+                    "28.69%",
                     "8%",
-                    "45.78% (42% + 3.78% unemployment fund surcharge)",
-                    "17% (standard rate)3% (reduced rate)"
+                    "45.78%"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "17%",
+                        type: "income tax"
+                    },{
+                        porcentage: "1.19%",
+                        type: "unemployment fund contribution"
+                    },{
+                        porcentage: "6%",
+                        type: "municipal trade tax"
+                    }	,{
+                        porcentage: "9%",
+                        type: "municipal trade tax"
+                    }	,{
+                        porcentage: "42%",
+                        type: "unemployment"
+                    }		,{
+                        porcentage: "3.78%",
+                        type: "fund surcharge"
+                    }		,{
+                        porcentage: "17%",
+                        type: "standard rate"
+                    }		,{
+                        porcentage: "3%",
+                        type: "reduced rate"
+                    }		
                 ],
                 "name": "Taxation in Luxembourg"
             }, {
                 "country": "Madeira",
-                "taxes": [
-                    "5% (available to licensed companies in the International Business Centre of Madeira).n13% (available to SMEs and applicable up to a taxable profit of 20% (general rate)",
-                    "0,0% (for monthly salaries up to  + social security charges",
-                    "45.1% (for monthly salaries above + social security charges",
-                    "5% (reduced rate)n12% (intermediate rate)n22% (standard rate)"
+                "taxes": [ ],
+				"differencialTaxes": [{
+                        porcentage: "5%",
+                        type: "available to licensed companies in the International Business Centre of Madeira"
+                    },{
+                        porcentage: "13%",
+                        type: "available to SMEs and applicable up to a taxable profit"
+                    },{
+                        porcentage: "20%",
+                        type: "general rate"
+                    }	,{
+                        porcentage: "0.0%",
+                        type: "for monthly salaries up to  + social security charges"
+                    }	,{
+                        porcentage: "45.1%",
+                        type: "for monthly salaries above + social security charges"
+                    }		,{
+                        porcentage: "5%",
+                        type: "reduced rat"
+                    }		,{
+                        porcentage: "12%",
+                        type: "intermediate rate"
+                    }		,{
+                        porcentage: "22%",
+                        type: "standard rate"
+                    }		
                 ],
                 "name": "Taxation in Madeira"
             }, {
                 "country": "Malaysia",
                 "taxes": [
-                    "24% (highest rate)18% (lowest rate)",
                     "0%",
-                    "28% + 11% for EPF + 1.2% for SOCSO",
-                    "10% (standard rate for goods)7% (services)5% (reduced rate for goods)"
+                    "28%"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "24%",
+                        type: "highest rate"
+                    },{
+                        porcentage: "18%",
+                        type: "lowest rate"
+                    },{
+                        porcentage: "11%",
+                        type: "for EPF"
+                    }	,{
+                        porcentage: "1.2%",
+                        type: "for SOCSO"
+                    }	,{
+                        porcentage: "10%",
+                        type: "standard rate for goods"
+                    }		,{
+                        porcentage: "7%",
+                        type: "services"
+                    }		,{
+                        porcentage: "5%",
+                        type: "reduced rate for goods"
+                    }
+					
                 ],
                 "name": "Goods and Services Tax (Malaysia)"
             }, {
                 "country": "Maldives",
                 "taxes": [
-                    "15% (highest rate)8% (lowest rate)",
                     "0%",
-                    "15% (0% for expatriates)",
+                    "15%",
                     "6%"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "15%",
+                        type: "highest rate"
+                    },{
+                        porcentage: "8%",
+                        type: "lowest rate"
+                    },{
+                        porcentage: "0%",
+                        type: "for expatriates"
+                    }
+					
                 ],
                 "name": "Taxation in Maldives"
             }, {
                 "country": "Malta",
                 "taxes": [
-                    "35% (unless eligible for 30% rebate)",
+                    "35%",
                     "0%",
                     "35%",
-                    "18% (7% and 5% for certain goods and services)"
+                    "18%"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "30%",
+                        type: "unless eligible for 30% rebate"
+                    },{
+                        porcentage: "7%",
+                        type: "for certain goods and services"
+                    },{
+                        porcentage: "5%",
+                        type: "for certain goods and services"
+                    }
+					
                 ],
                 "name": "Taxation in Malta"
             }, {
@@ -1683,62 +2274,169 @@
                 "name": "Taxation in Marshall Islands",
                 "taxes": [
                     "0%",
-                    "12%",
-                    "4% (highest rate)2% (lowest rate)"
+                    "12%"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "4%",
+                        type: "highest rate"
+                    },{
+                        porcentage: "2%",
+                        type: "lowest rate"
+                    }
+					
                 ]
             }, {
                 "country": "Moldova",
                 "taxes": [
                     "12%",
                     "12%",
-                    "12% (+ 24% for social security)",
-                    "20% (standard rate)10% (HoReCa)"
+                    "12%"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "24%",
+                        type: "for social security"
+                    },{
+                        porcentage: "20%",
+                        type: "standard rate"
+                    },{
+                        porcentage: "10%",
+                        type: "HoReCa"
+                    }
+					
                 ],
                 "name": "Taxation in Moldova"
             }, {
                 "country": "Monaco",
                 "taxes": [
                     "28%",
-                    "0%",
-                    "0%",
-                    "19.6% (highest rate)5.5% (lowest rate)"
+                    "0%"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "19.6%",
+                        type: "highest rate"
+                    },{
+                        porcentage: "5.5%",
+                        type: "lowest rate"
+                    }
+					
                 ],
                 "name": "Taxation in Monaco"
             }, {
                 "country": "Montenegro",
                 "taxes": [
                     "9%",
-                    "9% (first",
-                    "12.65% (11% national tax + 15% municipality surtax on income tax)",
-                    "21%7% (essential goods - basic foodstufs, water, pharmaceuticals, books, tourism services, etc.)0% (postal services, education, social security services, healthcare, insurance, etc.)"
+                    "12.65%"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "11%",
+                        type: "national tax"
+                    },{
+                        porcentage: "15%",
+                        type: "municipality surtax on income tax"
+                    },{
+                        porcentage: "21%",
+                        type: "essential goods"
+                    },{
+                        porcentage: "7%",
+                        type: "basic foodstufs, water, pharmaceuticals, books, tourism services, etc."
+                    }
+					,{
+                        porcentage: "0%",
+                        type: "postal services, education, social security services, healthcare, insurance, etc"
+                    }
+					
                 ],
                 "name": "Taxation in Montenegro"
             }, {
                 "country": "Morocco",
                 "taxes": [
-                    "31% (highest rate)10% (lowest rate)",
                     "0%",
                     "38%",
-                    "20% (standard rate)14%, 10%, 7% (reduced rates)"
+                    "14%", 
+					"10%",
+					"7%"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "31%",
+                        type: "highest rate"
+                    },{
+                        porcentage: "10%",
+                        type: "lowest rate"
+                    },{
+                        porcentage: "20%",
+                        type: "standard rate"
+                    },{
+                        porcentage: "7%",
+                        type: "reduced rates"
+                    }
+					,{
+                        porcentage: "0%",
+                        type: "postal services, education, social security services, healthcare, insurance, etc"
+                    }
+					
                 ],
                 "name": "Taxation in Morocco"
             }, {
-                "country": "&nbsp;Nepal",
-                "taxes": [
-                    "30% (higher rate for financial companies) /25% (standard rate) /20% (reduced rate for manufacturing companies)(+ 5% on profit distribution + 10% mandatory bonus to employees)",
-                    "0% + 1% social security tax",
-                    "36% (Including 20% additional tax)",
-                    "13% (standard rate)288% (for imported vehicles)"
+                "country": "Nepal",
+                "taxes": [ ],
+				"differencialTaxes": [{
+                        porcentage: "30%",
+                        type: "higher rate for financial companies"
+                    },{
+                        porcentage: "25%",
+                        type: "standard rate"
+                    },{
+                        porcentage: "20%",
+                        type: "reduced rate for manufacturing companies"
+                    },{
+                        porcentage: "5%",
+                        type: "on profit distribution "
+                    }
+					,{
+                        porcentage: "10%",
+                        type: "mandatory bonus to employees"
+                    },{
+                        porcentage: "1%",
+                        type: " social security tax"
+                    }
+					,{
+                        porcentage: "20%",
+                        type: "additional tax"
+                    },{
+                        porcentage: "13%",
+                        type: "standard rate"
+                    },{
+                        porcentage: "288%",
+                        type: "for imported vehicles"
+                    }
+					
                 ],
+				
                 "name": "Taxation in Nepal"
             }, {
                 "country": "Netherlands",
                 "taxes": [
-                    "25% (on profits over 15% (not over",
-                    "37.07% (first  per year is deductible)",
-                    "49.50% + reduction of deductions (arbeidskorting and general korting)",
                     "21% (standard rate)9% (essential and selected goods)",
                     "25%"
+                ],
+				"differencialTaxes": [{
+                        porcentage: "15%",
+                        type: "on profits over"
+                    },{
+                        porcentage: "37.07%",
+                        type: "first  per year is deductible"
+                    },{
+                        porcentage: "49.50%",
+                        type: "+ reduction of deductions arbeidskorting and general korting"
+                    },{
+                        porcentage: "21%",
+                        type: "standard rate"
+                    }
+					,{
+                        porcentage: "9%",
+                        type: "essential and selected goods"
+                    }
+					
                 ],
                 "name": "Taxation in the Netherlands"
             }, {
