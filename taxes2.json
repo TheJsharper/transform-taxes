@@ -2439,21 +2439,35 @@
                 ],
                 "name": "Taxation in the Netherlands"
             }, {
-				test:"12233",
                 "country": "New Caledonia",
                 "taxes": [
                     "30%",
-                    "0%",
-                    "40%25% (on local income of non-residents)"
+                    "0%"
+                ],
+				"differencialTaxes": [{
+                        "porcentage": "40%",
+                        "type": "on local income"
+                    },{
+                        "porcentage": "25%",
+                        "type": "non-residents"
+                    }
+					
                 ],
                 "name": "Taxation in New Caledonia"
             }, {
                 "country": "North Macedonia",
                 "taxes": [
                     "10%",
-                    "10%",
-                    "18%",
-                    "18% (standard rate)5% (reduced rate)"
+                    "18%"
+                ],
+				"differencialTaxes": [{
+                        "porcentage": "18%",
+                        "type": "standard rate"
+                    },{
+                        "porcentage": "5%",
+                        "type": "reduced rate"
+                    }
+					
                 ],
                 "name": "Taxation in North Macedonia"
             }, {
@@ -2461,18 +2475,55 @@
                 "taxes": [
                     "23%",
                     "0%",
-                    "46.4% (22% + 8.2% social security contribution + bracket tax (from 1.8% to 16.2%) minus deductions)",
-                    "25% (standard rate)15% (food and drink in shops)10% (transportation, cinema and hotel services)",
                     "22%"
+                ],
+				"differencialTaxes": [{
+                        "porcentage": "16.2%",
+                        "type": "highest rate"
+                    },{
+                        "porcentage": "46.4%",
+                        "type": "security contribution + bracket tax"
+                    },{
+                        "porcentage": "25%",
+                        "type": "standard rate"
+                    },{
+                        "porcentage": "15%",
+                        "type": "food and drink in shops"
+                    },{
+                        "porcentage": "10%",
+                        "type": "ansportation, cinema and hotel services"
+                    }
+					
                 ],
                 "name": "Taxation in Norway"
             }, {
                 "country": "Pakistan",
                 "taxes": [
-                    "0% (for certain tech startup companies with a technology basis and other financial restrictions)n29%",
-                    "0%n(for income under PKR.600000/annum)",
-                    "47% variable ( fixed slab amount  + 35%)",
-                    "17% +3%(for non-registered) (standard GST rate)0% (basic food items)Special Tax cuts for Construction sector ."
+                    "0%"
+                ],
+				"differencialTaxes": [{
+                        "porcentage": "29%",
+                        "type": "for certain tech startup companies with a technology basis and other financial restrictions"
+                    },{
+                        "porcentage": "0%",
+                        "type": "for income under PKR.600000/annum"
+                    },{
+                        "porcentage": "47%",
+                        "type": "variable"
+                    },{
+                        "porcentage": "35%",
+                        "type": "fixed slab amount"
+                    },{
+                        "porcentage": "20%",
+                        "type": "for non-registered"
+                    },{
+                        "porcentage": "0%",
+                        "type": "basic food items and special Tax cuts for Construction sector"
+                    },{
+                        "porcentage": "17%",
+                        "type": "standard GST rate"
+                    }
+					
                 ],
                 "name": "Taxation in Pakistan"
             }, {
@@ -2480,17 +2531,41 @@
                 "taxes": [
                     "25%",
                     "0%",
-                    "27%",
-                    "7% (standard rate)15% (tobacco)10% (alcohol and hotels)5% (essential goods)"
+                    "27%"
+                ],
+				"differencialTaxes": [{
+                        "porcentage": "7%",
+                        "type": "standard rates"
+                    },{
+                        "porcentage": "15%",
+                        "type": "tobacco"
+                    },{
+                        "porcentage": "10%",
+                        "type": "alcohol and hotel"
+                    },{
+                        "porcentage": "5%",
+                        "type": "essential goods"
+                    }
+					
                 ],
                 "name": "Taxation in Panama"
             }, {
                 "country": "Peru",
                 "taxes": [
                     "30%",
-                    "0%",
-                    "30%",
-                    "16% (standard rate) +2% (municipal promotional tax) (impuesto selectivo al consumo: liquor, cigarettes, etc.)"
+                    "0%"
+                ],
+				"differencialTaxes": [{
+                        "porcentage": "16%",
+                        "type": "standard rates"
+                    },{
+                        "porcentage": "2%",
+                        "type": "municipal promotional tax"
+                    },{
+                        "porcentage": "18%",
+                        "type": "impuesto selectivo al consumo: liquor, cigarettes, etc."
+                    }
+					
                 ],
                 "name": "Taxation in Peru"
             }, {
@@ -2498,46 +2573,151 @@
                 "taxes": [
                     "30%",
                     "0%",
-                    "35%",
-                    "12% (standard rate)0% (reduced rate)"
+                    "35%"
+                ],
+				"differencialTaxes": [{
+                        "porcentage": "12%",
+                        "type": "standard rates"
+                    },{
+                        "porcentage": "0%",
+                        "type": "reduced rate"
+                    }
+					
                 ],
                 "name": "Taxation in the Philippines"
             }, {
                 "country": "Poland",
                 "taxes": [
-                    "19% (9% for small taxpayer, those with revenue in a given tax year not exceeding the equivalent of  million and that have  small taxpayer   status)",
-                    "9% (for income under 30.000 zÅx82otych per year)0% income tax 9% Health Insurance(non-deductible)",
-                    "41% or 45%,32% Income tax health insurance 4% solidarity tax above 1.000.000 zÅx82otych per yearnSelf-employedn23,9% or 27.9%(not deduction first 30.000 zÅx82otych)flat income tax 4,9% health insurance 4% solidarity tax above 1 milion zÅx82otych",
-                    "23% (standard rate)8% or 5% (reduced rates)",
+                    "9%",
                     "19%"
+                ],
+				"differencialTaxes": [{
+                        "porcentage": "9%",
+                        "type": "for small taxpayer, those with revenue in a given tax year not exceeding the equivalent of  million and that have  small taxpayer   status"
+                    },{
+                        "porcentage": "41%",
+                        "type": "Income tax health insurance"
+                    },{
+                        "porcentage": "45%",
+                        "type": "Income tax health insurance"
+                    }
+					,{
+                        "porcentage": "32%",
+                        "type": "Income tax health insurance"
+                    }
+					
+					,{
+                        "porcentage": "23.9%",
+                        "type": "solidarity tax above 1.000.000 zÅx82otych per yearnSelf-employed"
+                    },{
+                        "porcentage": "27.9%",
+                        "type": "not deduction first 30.000 zÅx82otych"
+                    }
+					,{
+                        "porcentage": "23%",
+                        "type": "standard rate"
+                    }
+					,{
+                        "porcentage": "8%",
+                        "type": "reduced rates"
+                    }
+					,{
+                        "porcentage": "5%",
+                        "type": "reduced rates"
+                    }
+					
                 ],
                 "name": "Taxation in Poland"
             }, {
                 "country": "Portugal",
                 "taxes": [
-                    "21% (in mainland)",
-                    "14.5%",
-                    "48% + 11% social security",
-                    "23% (standard rate)13% or 6% (standard rate)"
+                    "14.5%"
+                ],
+				"differencialTaxes": [{
+                        "porcentage": "21%",
+                        "type": "in mainland"
+                    },{
+                        "porcentage": "59%",
+                        "type": "social security"
+                    },{
+                        "porcentage": "23%",
+                        "type": "standard rate"
+                    }
+					,{
+                        "porcentage": "13%",
+                        "type": "standard rate"
+                    }
+					
+					,{
+                        "porcentage": "6%",
+                        "type": "standard rate"
+                    }
+					
                 ],
                 "name": "Taxation in Portugal"
             }, {
                 "country": "Puerto Rico",
                 "taxes": [
                     "20%",
-                    "0% (16% proposed)",
                     "33.34%",
                     "11.5%"
+                ],
+				"differencialTaxes": [{
+                        "porcentage": "0%",
+                        "type": "proposed"
+                    },{
+                        "porcentage": "16%",
+                        "type": "proposed"
+                    }
+					
                 ],
                 "name": "Taxation in Puerto Rico"
             }, {
                 "country": "Romania",
                 "taxes": [
-                    "16% (or 1% revenue for micro-entities with at least one employee, or 3% for micro-enterprises with no employees)",
-                    "35% n25% social security (CAS)n10% health insurance (CASS)n0% income tax for IT workers, people with disabilities",
-                    "41.5% n25% social security (CAS)n10% health insurance (CASS)n10% income tax after CAS and CASSnSelf employed (PFA):nn25% CAS if earning more than 12 minimum wages in a yearn10% CASS, taxable sum capped at 12 minimum wages per year, e.g. you pay a maximum of 2280 RON as CASS contribution in 2018 if you earn over RON 22,800 for the whole year)n10% income tax",
-                    "19% (standard rate)9% ((food, medicines, books, newspapers and hotel services)5% (reduced rate)",
+                    "16%",
+                    "35%",
+                    "41.5%",
                     "10%"
+                ],
+				"differencialTaxes": [{
+                        "porcentage": "1%",
+                        "type": "revenue for micro-entities with at least one employee"
+                    },{
+                        "porcentage": "3%",
+                        "type": "for micro-enterprises with no employees"
+                    },{
+                        "porcentage": "25%",
+                        "type": "social security"
+                    }
+					,{
+                        "porcentage": "10%",
+                        "type": "health insurance (CASS)"
+                    },{
+                        "porcentage": "0%",
+                        "type": "income tax for IT workers, people with disabilities"
+                    },{
+                        "porcentage": "25%",
+                        "type": "CAS if earning more than 12 minimum wages in a yearn"
+                    },{
+                        "porcentage": "10%",
+                        "type": "income tax after CAS and CASSnSelf employed"
+                    },{
+                        "porcentage": "25%",
+                        "type": "CAS if earning more than 12 minimum wages in a yearn10% CASS, taxable sum capped at 12 minimum wages per year, e.g. you pay a maximum of 2280 RON as CASS contribution in 2018 if you earn over RON 22,800 for the whole year"
+                    }
+					,{
+                        "porcentage": "19%",
+                        "type": "standard rate"
+                    },{
+                        "porcentage": "5%",
+                        "type": "reduced rate"
+                    }
+					,{
+                        "porcentage": "9%",
+                        "type": "food, medicines, books, newspapers and hotel services"
+                    }
+					
                 ],
                 "name": "Taxation in Romania"
             }, {
@@ -2545,8 +2725,28 @@
                 "taxes": [
                     "20%",
                     "13%",
-                    "15% (for those earning more than 5 mil. roubles a year)n35% for non-residents",
-                    "20% (standard rate)10% (books, certain items of food and children goods)0% (house or flat)"
+                    "15%"
+                ],
+				"differencialTaxes": [{
+                        "porcentage": "15%",
+                        "type": "for those earning more than 5 mil. roubles a year"
+                    },{
+                        "porcentage": "35%",
+                        "type": "for non-residents"
+                    }
+					,{
+                        "porcentage": "20%",
+                        "type": "standard rate"
+                    }
+					,{
+                        "porcentage": "10%",
+                        "type": "books, certain items of food and children goods"
+                    }
+					,{
+                        "porcentage": "0%",
+                        "type": "house or flat"
+                    }
+					
                 ],
                 "name": "Taxation in Russia"
             }, {
@@ -2554,8 +2754,16 @@
                 "taxes": [
                     "17%",
                     "12%",
-                    "50%",
-                    "0% (standard rate)17% (imported goods)"
+                    "50%"
+                ],
+				"differencialTaxes": [{
+                        "porcentage": "0%",
+                        "type": "standard rate"
+                    },{
+                        "porcentage": "17%",
+                        "type": "imported goods"
+                    }
+					
                 ],
                 "name": "Taxation in San Marino"
             }, {
@@ -2563,9 +2771,23 @@
                 "taxes": [
                     "15%",
                     "10%",
-                    "25% (additional contributions for state health, pension and unemployment funds)",
-                    "20% (standard rate)10% or 0% (reduced rates)",
                     "15%"
+                ],
+				"differencialTaxes": [{
+                        "porcentage": "25%",
+                        "type": "additional contributions for state health, pension and unemployment funds"
+                    },{
+                        "porcentage": "20%",
+                        "type": "standard rate"
+                    },{
+                        "porcentage": "10%",
+                        "type": "reduced rates"
+                    }
+					,{
+                        "porcentage": "0%",
+                        "type": "reduced rates"
+                    }
+					
                 ],
                 "name": "Taxation in Serbia"
             }, {
@@ -2573,18 +2795,44 @@
                 "taxes": [
                     "17%",
                     "0%",
-                    "22% (+ 20% tax on pension)",
+                    "24%",
                     "7%"
+                ],
+				"differencialTaxes": [{
+                        "porcentage": "22%",
+                        "type": "tax on pension"
+                    },{
+                        "porcentage": "20%",
+                        "type": "tax on pension"
+                    },{
+                        "porcentage": "10%",
+                        "type": "reduced rates"
+                    }
+					,{
+                        "porcentage": "0%",
+                        "type": "reduced rates"
+                    }
+					
                 ],
                 "name": "Taxation in Singapore"
             }, {
                 "country": "Slovakia",
                 "taxes": [
-                    "21% (on profits over 15%",
                     "21%",
                     "25%",
-                    "20% (standard rate)10% (books and medicines)",
                     "25%"
+                ],
+				"differencialTaxes": [{
+                        "porcentage": "21%",
+                        "type": "on profits over 15%"
+                    },{
+                        "porcentage": "20%",
+                        "type": "standard rate"
+                    },{
+                        "porcentage": "10%",
+                        "type": "books and medicines"
+                    }
+					
                 ],
                 "name": "Taxation in Slovakia"
             }, {
@@ -2593,36 +2841,103 @@
                     "19%",
                     "16%",
                     "50%",
-                    "22% (standard rate) or 9.5% (food, building and renovation, transport, tickets, media) or 5% (books, newspaper)",
                     "27.5%"
+                ],
+				"differencialTaxes": [{
+                        "porcentage": "22%",
+                        "type": "standard rate"
+                    },{
+                        "porcentage": "9.5%",
+                        "type": "food, building and renovation, transport, tickets, media"
+                    },{
+                        "porcentage": "5%",
+                        "type": "books, newspaper"
+                    }
+					
                 ],
                 "name": "Taxation in Slovenia"
             }, {
                 "country": "Spain",
                 "taxes": [
-                    "25% (in mainland)4% (in &nbsp;Canary Islands)",
                     "19%",
-                    "54% (in &nbsp;Valencian Community)   52% (in &nbsp;Navarre)    47% (estatal without regional)",
-                    "21% (standard rate)10% or 4% (reduced rates)",
                     "23%"
+                ],
+				"differencialTaxes": [{
+                        "porcentage": "25%",
+                        "type": "in mainland"
+                    },{
+                        "porcentage": "4%",
+                        "type": "in Canary Islands"
+                    },{
+                        "porcentage": "54%",
+                        "type": "in Valencian Community"
+                    },{
+                        "porcentage": "52%",
+                        "type": "in Navarre"
+                    },{
+                        "porcentage": "47%",
+                        "type": "estatal without regional"
+                    }
+					,{
+                        "porcentage": "21%",
+                        "type": "standard rate"
+                    }
+					,{
+                        "porcentage": "10%",
+                        "type": "reduced rates"
+                    },{
+                        "porcentage": "4%",
+                        "type": "reduced rates"
+                    }
+					
                 ],
                 "name": "Taxation in Spain"
             }, {
                 "country": "Sri Lanka",
                 "taxes": [
-                    "30% (highest rate)15% (lowest rate)",
                     "0%",
-                    "15% (if annual income is more than LKR 2.5 million)",
-                    "12% (standard rate)8% or 0% (reduced rates)"
+                ],
+				"differencialTaxes": [{
+                        "porcentage": "15%",
+                        "type": "if annual income is more than LKR 2.5 million"
+                    },{
+                        "porcentage": "12%",
+                        "type": "standard rate"
+                    },{
+                        "porcentage": "8%",
+                        "type": "reduced rates"
+                    },{
+                        "porcentage": "0%",
+                        "type": "reduced rates"
+                    },{
+                        "porcentage": "30%",
+                        "type": "highest rate"
+                    }
+					,{
+                        "porcentage": "15%",
+                        "type": "lowest rate"
+                    }
                 ],
                 "name": "Taxation in Sri Lanka"
             }, {
                 "country": "Sweden",
                 "taxes": [
                     "20.6%",
-                    "32% (first US$1,930 per year is deductible)",
-                    "52% (32% average municipality income tax + 20% state income tax)",
-                    "25% (standard rate)12% or 6% (reduced rate)"
+                    "52%"
+                ],
+				"differencialTaxes": [{
+                        "porcentage": "32%",
+                        "type": "first US$1,930 per year is deductible"
+                    },{
+                        "porcentage": "32%",
+                        "type": "average municipality income tax"
+                    },{
+                        "porcentage": "25%",
+                        "type": "standard rate"
+                    },{
+                        "porcentage": "6%",
+                        "type": "reduced rates"
+                    }
                 ],
                 "name": "Taxation in Sweden"
             }, {
@@ -2630,17 +2945,48 @@
                 "taxes": [
                     "17.92%",
                     "0%",
-                    "59.7%  (10.6% (mandatory social security contributions)  11.5% (federal)  28.025% (cantonal, Geneva)  9.69% (communal, Avully and Chancy, both canton of Geneva)  3.04% (church tax, roman catholic and protestant in Geneva)  the total marginal tax rate is slightly lower as some mandatory social security contributions are deductible from other taxes)",
-                    "7.7% (standard rate)3.8% or 2.5% (reduced rates)"
+                    "59.7%"
+                ],
+				"differencialTaxes": [{
+                        "porcentage": "10.6%",
+                        "type": "mandatory social security contributions"
+                    },{
+                        "porcentage": "11.5%",
+                        "type": "federal"
+                    },{
+                        "porcentage": "28.025%",
+                        "type": "cantonal, Geneva"
+                    },{
+                        "porcentage": "9.69%",
+                        "type": "communal, Avully and Chancy, both canton of Geneva"
+                    },{
+                        "porcentage": "3.04%",
+                        "type": "church tax, roman catholic and protestant in Geneva"
+                    },{
+                        "porcentage": "7.7%",
+                        "type": "standard rate"
+                    },{
+                        "porcentage": "3.8%",
+                        "type": "reduced rates"
+                    },{
+                        "porcentage": "25%",
+                        "type": "reduced rates"
+                    }
                 ],
                 "name": "Taxation in Switzerland"
             }, {
                 "country": "Tajikistan",
                 "taxes": [
-                    "13%25% (non-residents)",
                     "5%",
-                    "13%25% (non-residents)",
                     "18%"
+                ],
+				"differencialTaxes": [{
+                        "porcentage": "13%",
+                        "type": "non-residents"
+                    },{
+                        "porcentage": "25%",
+                        "type": "residents"
+                    }
                 ],
                 "name": "Taxation in Tajikistan"
             }, {
@@ -2648,8 +2994,18 @@
                 "taxes": [
                     "30%",
                     "0%",
-                    "35%",
-                    "18% (standard rate)12% or 6% (reduced rate)"
+                    "35%"
+                ],
+				"differencialTaxes": [{
+                        "porcentage": "18%",
+                        "type": "standard rate"
+                    },{
+                        "porcentage": "12%",
+                        "type": "reduced rate"
+                    },{
+                        "porcentage": "6%",
+                        "type": "reduced rate"
+                    }
                 ],
                 "name": "Taxation in Tunisia"
             }, {
@@ -2657,47 +3013,130 @@
                 "taxes": [
                     "25%",
                     "15%",
-                    "40%",
-                    "18% (standard rate)8% (clothing)1% (certain food items)"
+                    "40%"
+                ],
+				"differencialTaxes": [{
+                        "porcentage": "18%",
+                        "type": "standard rate"
+                    },{
+                        "porcentage": "8%",
+                        "type": "clothing"
+                    },{
+                        "porcentage": "1%",
+                        "type": "certain food items"
+                    }
                 ],
                 "name": "Taxation in Turkey"
             }, {
                 "country": "Ukraine",
                 "taxes": [
                     "18%",
-                    "0%",
-                    "18% (common rate)  20% (some activities)",
-                    "20% (standard rate)7% or 0% (reduced rates)"
+                    "0%"
+                ],
+				"differencialTaxes": [{
+                        "porcentage": "18%",
+                        "type": "common rate"
+                    },{
+                        "porcentage": "20%",
+                        "type": "some activities"
+                    },{
+                        "porcentage": "20%",
+                        "type": "standard rate"
+                    },{
+                        "porcentage": "7%",
+                        "type": "standard rate"
+                    },{
+                        "porcentage": "0%",
+                        "type": "standard rate"
+                    }
                 ],
                 "name": "Taxation in Ukraine"
             }, {
                 "country": "United Arab Emirates",
                 "taxes": [
                     "0% (until 31 May 2023)n0 (free zone companies, may need to still fill out tax return)n0% (from 1 June 2023, for mainland companies with net profit under AED 375,000, may need to still fill out tax return)n9% (from 1 June 2023 for mainland companies with a net profit over AED 375,000 with taxation paid to other countries credited towards UAE taxation and a tax return required)",
-                    "0%",
-                    "0%",
-                    "0%",
                     "0%"
+                ],
+				"differencialTaxes": [{
+                        "porcentage": "0%",
+                        "type": "free zone companies, may need to still fill out tax return"
+                    },{
+                        "porcentage": "0%",
+                        "type": "from 1 June 2023, for mainland companies with net profit under AED 375,000, may need to still fill out tax return"
+                    },{
+                        "porcentage": "9%",
+                        "type": "from 1 June 2023 for mainland companies with a net profit over AED 375,000 with taxation paid to other countries credited towards UAE taxation and a tax return required"
+                    }
                 ],
                 "name": "Taxation in United Arab Emirates"
             }, {
                 "country": "United Kingdom",
                 "taxes": [
                     "19%",
-                    "32%n(20% Income Tax + 12% Class I NI)n(0% Income Tax on first Â£12,570)",
-                    "42%n(40% Income Tax for Â£50,271 to Â£150,000 + 2% Class I NI for Â£797 to Â£4189 pmn+ 2% Class I NI for over Â£4189 pm)n47% (over Â£150,000)",
-                    "20% (standard rate)5% (home energy and renovations)0% (life necessities: groceries, water, prescription medications, medical equipment and supplies; public transport; children's clothing; books and periodicals)",
+                    "32%",
+                    "42%",
                     "20%"
+                ],
+				"differencialTaxes": [{
+                        "porcentage": "20%",
+                        "type": "Income Tax"
+                    },{
+                        "porcentage": "12%",
+                        "type": "Class I NI"
+                    },{
+                        "porcentage": "0%",
+                        "type": "Income Tax on first Â£12,570"
+                    },{
+                        "porcentage": "40%",
+                        "type": "Income Tax for Â£50,271 to Â£150,000"
+                    },{
+                        "porcentage": "2%",
+                        "type": "Class I NI for Â£797 to Â£4189 pmn"
+                    },{
+                        "porcentage": "47%",
+                        "type": "over Â£150,000"
+                    },{
+                        "porcentage": "20%",
+                        "type": "standard rate"
+                    },{
+                        "porcentage": "5%",
+                        "type": "home energy and renovations"
+                    },{
+                        "porcentage": "0%",
+                        "type": "life necessities: groceries, water, prescription medications, medical equipment and supplies; public transport; children's clothing; books and periodicals"
+                    }
                 ],
                 "name": "Taxation in the United KingdomnNational Insurance"
             }, {
                 "country": "United States",
                 "taxes": [
-                    "21% (federal)",
-                    "10% (federal) (state)  (local) (federal standard deduction of 12550 USD for single taxpayers)",
-                    "51.6%  in Portland, Oregon (37% federal tax + 9.9% state tax + 4.7% city tax)",
-                    "11.5% (highest prevailing marginal state and local sales tax rate)0% (lowest prevailing marginal rate)",
                     "20%"
+                ],
+				"differencialTaxes": [{
+                        "porcentage": "21%",
+                        "type": "federal"
+                    },{
+                        "porcentage": "10%",
+                        "type": "federal state local federal standard deduction of 12550 USD for single taxpayers"
+                    },{
+                        "porcentage": "51.6%",
+                        "type": "in Portland"
+                    },{
+                        "porcentage": "9.9%",
+                        "type": "In Oregon state tax"
+                    },{
+                        "porcentage": "4.7%",
+                        "type": "In Oregon city tax"
+                    },{
+                        "porcentage": "37%",
+                        "type": "In Oregon federal tax"
+                    },{
+                        "porcentage": "11.5%",
+                        "type": "highest prevailing marginal state and local sales tax rate"
+                    },{
+                        "porcentage": "0%",
+                        "type": "lowest prevailing marginal ratee"
+                    }
                 ],
                 "name": "Taxation in the United States"
             }, {
@@ -2705,26 +3144,55 @@
                 "taxes": [
                     "25%",
                     "0%",
-                    "30%",
-                    "22% (standard rate)11% (lowest rate)0% (extent)"
+                    "30%"
+                ],
+				"differencialTaxes": [{
+                        "porcentage": "22%",
+                        "type": "standard rate"
+                    },{
+                        "porcentage": "11%",
+                        "type": "lowest rate"
+                    },{
+                        "porcentage": "0%",
+                        "type": "extent"
+                    }
                 ],
                 "name": "Taxation in Uruguay"
             }, {
                 "country": "Uzbekistan",
                 "taxes": [
-                    "12% (standard rate)20% (banks and mobile communication operators)",
-                    "12%",
-                    "12%",
-                    "15% (highest rate)0% (lowest rate)"
+                    "12%"
+                ],
+				"differencialTaxes": [{
+                        "porcentage": "12%",
+                        "type": "standard rate"
+                    },{
+                        "porcentage": "20%",
+                        "type": "banks and mobile communication operators"
+                    },{
+                        "porcentage": "15%",
+                        "type": "highest rate"
+                    },{
+                        "porcentage": "0%",
+                        "type": "lowest rate"
+                    }
                 ],
                 "name": "Taxation in Uzbekistan"
             }, {
                 "country": "Venezuela",
                 "taxes": [
-                    "34%",
-                    "6% (0% under certain income, defined every year)",
-                    "34%",
-                    "16% (standard rate)8% (reduced rate)"
+                    "34%"
+                ],
+				"differencialTaxes": [{
+                        "porcentage": "6%",
+                        "type": "0% under certain income, defined every year"
+                    },{
+                        "porcentage": "16%",
+                        "type": "standard rate"
+                    },{
+                        "porcentage": "8%",
+                        "type": "reduced rate"
+                    }
                 ],
                 "name": "Taxation in Venezuela"
             }, {
@@ -2734,6 +3202,14 @@
                     "0%",
                     "45%",
                     "15% (standard rate)0% (on selected items)"
+                ],
+				"differencialTaxes": [{
+                        "porcentage": "15%",
+                        "type": "standard rate"
+                    },{
+                        "porcentage": "0%",
+                        "type": "on selected items"
+                    }
                 ],
                 "name": "Taxation in Zimbabwe"
             }
