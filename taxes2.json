@@ -1157,7 +1157,7 @@
                         "type": "state tax17 rate"
                     }, {
                         "porcentage": "18%",
-                        "type": "state tax18 rate""
+                        "type": "state tax18 rate"
                     }, {
                         "porcentage": "19%",
                         "type": "state tax19 rate"
@@ -1949,7 +1949,7 @@
                         "type": "national"
                     }, {
                         "porcentage": "10%",
-                        "type": "local
+                        "type": "local"
                     } ,{
                         "porcentage": "45.945%",
                         "type": "national"
@@ -3053,10 +3053,7 @@
                 "name": "Taxation in Ukraine"
             }, {
                 "country": "United Arab Emirates",
-                "taxes": [
-                    "0% (until 31 May 2023)n0 (free zone companies, may need to still fill out tax return)n0% (from 1 June 2023, for mainland companies with net profit under AED 375,000, may need to still fill out tax return)n9% (from 1 June 2023 for mainland companies with a net profit over AED 375,000 with taxation paid to other countries credited towards UAE taxation and a tax return required)",
-                    "0%"
-                ],
+                "taxes": [ "0%"   ],
 				"differencialTaxes": [{
                         "porcentage": "0%",
                         "type": "free zone companies, may need to still fill out tax return"
