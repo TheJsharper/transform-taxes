@@ -1,6 +1,7 @@
 {
 	"countries": {
-		"countryNormal": [{
+		"countryNormal": [
+			{
 			"country": "Afghanistan",
 			"taxes": [
 				"20%",
