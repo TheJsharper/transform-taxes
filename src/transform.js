@@ -80,11 +80,18 @@ export class TaxTransformer {
 				const differencialTaxes = country.differencialTaxes
 					.map(value => ({ ...value, porcentage: value.porcentage.replace(",", ".") }))
 					.map(tax => ({ ...tax, value: parseFloat(tax.porcentage) }));
-				const taxes = country.taxes
-					.map((taxes) => taxes.replace(",", "."))
-					/*.reduce(tax=>{
-
-					})*/
+				const result = country.taxes
+					.map((taxes) => taxes.replace(",", "."));
+				const uniqueList = result.reduce((prev, cur) => {
+					if (!prev.has(cur)) {
+						prev.set(cur, [cur]);
+						return prev;
+					} else {
+						prev.get(cur).push(cur);
+						return prev;
+					}
+				}, new Map()).keys();
+				const taxes =Array.from(uniqueList)
 					.map(tax => ({ value: parseFloat(tax), porcentage: tax }));
 				return { ...country, taxes, differencialTaxes }
 			});

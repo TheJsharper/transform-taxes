@@ -10,14 +10,6 @@
                 {
                     "value": 0,
                     "porcentage": "0%"
-                },
-                {
-                    "value": 20,
-                    "porcentage": "20%"
-                },
-                {
-                    "value": 0,
-                    "porcentage": "0%"
                 }
             ],
             "name": "Taxation in Afghanistan",
@@ -75,18 +67,6 @@
                 {
                     "value": 0,
                     "porcentage": "0%"
-                },
-                {
-                    "value": 0,
-                    "porcentage": "0%"
-                },
-                {
-                    "value": 0,
-                    "porcentage": "0%"
-                },
-                {
-                    "value": 0,
-                    "porcentage": "0%"
                 }
             ],
             "name": "Taxation in Anguilla",
@@ -98,10 +78,6 @@
                 {
                     "value": 25,
                     "porcentage": "25%"
-                },
-                {
-                    "value": 0,
-                    "porcentage": "0%"
                 },
                 {
                     "value": 0,
@@ -121,10 +97,6 @@
                 {
                     "value": 18,
                     "porcentage": "18%"
-                },
-                {
-                    "value": 22,
-                    "porcentage": "22%"
                 },
                 {
                     "value": 22,
@@ -238,10 +210,6 @@
                     "porcentage": "10%"
                 },
                 {
-                    "value": 35,
-                    "porcentage": "35%"
-                },
-                {
                     "value": 18,
                     "porcentage": "18%"
                 }
@@ -252,18 +220,6 @@
         {
             "country": "Bermuda",
             "taxes": [
-                {
-                    "value": 0,
-                    "porcentage": "0%"
-                },
-                {
-                    "value": 0,
-                    "porcentage": "0%"
-                },
-                {
-                    "value": 0,
-                    "porcentage": "0%"
-                },
                 {
                     "value": 0,
                     "porcentage": "0%"
@@ -322,14 +278,6 @@
                     "porcentage": "10%"
                 },
                 {
-                    "value": 10,
-                    "porcentage": "10%"
-                },
-                {
-                    "value": 10,
-                    "porcentage": "10%"
-                },
-                {
                     "value": 17,
                     "porcentage": "17%"
                 }
@@ -366,10 +314,6 @@
                 {
                     "value": 20,
                     "porcentage": "20%"
-                },
-                {
-                    "value": 0,
-                    "porcentage": "0%"
                 },
                 {
                     "value": 0,
@@ -414,10 +358,6 @@
                     "porcentage": "0%"
                 },
                 {
-                    "value": 35,
-                    "porcentage": "35%"
-                },
-                {
                     "value": 18,
                     "porcentage": "18%"
                 }
@@ -435,10 +375,6 @@
                 {
                     "value": 0,
                     "porcentage": "0%"
-                },
-                {
-                    "value": 20,
-                    "porcentage": "20%"
                 },
                 {
                     "value": 10,
@@ -497,18 +433,6 @@
         {
             "country": "Cayman Islands",
             "taxes": [
-                {
-                    "value": 0,
-                    "porcentage": "0%"
-                },
-                {
-                    "value": 0,
-                    "porcentage": "0%"
-                },
-                {
-                    "value": 0,
-                    "porcentage": "0%"
-                },
                 {
                     "value": 0,
                     "porcentage": "0%"
@@ -656,10 +580,6 @@
                     "porcentage": "0%"
                 },
                 {
-                    "value": 30,
-                    "porcentage": "30%"
-                },
-                {
                     "value": 13,
                     "porcentage": "13%"
                 }
@@ -691,10 +611,6 @@
                     "porcentage": "33%"
                 },
                 {
-                    "value": 33,
-                    "porcentage": "33%"
-                },
-                {
                     "value": 15,
                     "porcentage": "15%"
                 }
@@ -711,14 +627,6 @@
         {
             "country": "Falkland Islands",
             "taxes": [
-                {
-                    "value": 26,
-                    "porcentage": "26%"
-                },
-                {
-                    "value": 0,
-                    "porcentage": "0%"
-                },
                 {
                     "value": 26,
                     "porcentage": "26%"
@@ -749,10 +657,6 @@
                     "porcentage": "0%"
                 },
                 {
-                    "value": 20,
-                    "porcentage": "20%"
-                },
-                {
                     "value": 9,
                     "porcentage": "9%"
                 }
@@ -770,10 +674,6 @@
                 {
                     "value": 5,
                     "porcentage": "5%"
-                },
-                {
-                    "value": 35,
-                    "porcentage": "35%"
                 },
                 {
                     "value": 18,
@@ -885,16 +785,8 @@
                     "porcentage": "0%"
                 },
                 {
-                    "value": 0,
-                    "porcentage": "0%"
-                },
-                {
                     "value": 20,
                     "porcentage": "20%"
-                },
-                {
-                    "value": 0,
-                    "porcentage": "0%"
                 }
             ],
             "name": "Taxation in Guernsey",
@@ -910,10 +802,6 @@
                 {
                     "value": 0,
                     "porcentage": "0%"
-                },
-                {
-                    "value": 30,
-                    "porcentage": "30%"
                 },
                 {
                     "value": 10,
@@ -964,10 +852,6 @@
                     "porcentage": "3%"
                 },
                 {
-                    "value": 15,
-                    "porcentage": "15%"
-                },
-                {
                     "value": 300,
                     "porcentage": "300%"
                 }
@@ -984,10 +868,6 @@
         {
             "country": "Jersey",
             "taxes": [
-                {
-                    "value": 0,
-                    "porcentage": "0%"
-                },
                 {
                     "value": 0,
                     "porcentage": "0%"
@@ -1036,18 +916,6 @@
         {
             "country": "Kuwait",
             "taxes": [
-                {
-                    "value": 0,
-                    "porcentage": "0%"
-                },
-                {
-                    "value": 0,
-                    "porcentage": "0%"
-                },
-                {
-                    "value": 0,
-                    "porcentage": "0%"
-                },
                 {
                     "value": 0,
                     "porcentage": "0%"
@@ -1118,14 +986,6 @@
                 {
                     "value": 0,
                     "porcentage": "0%"
-                },
-                {
-                    "value": 12,
-                    "porcentage": "12%"
-                },
-                {
-                    "value": 0,
-                    "porcentage": "0%"
                 }
             ],
             "name": "Taxation in Macau",
@@ -1165,14 +1025,6 @@
                 {
                     "value": 10,
                     "porcentage": "10%"
-                },
-                {
-                    "value": 15,
-                    "porcentage": "15%"
-                },
-                {
-                    "value": 15,
-                    "porcentage": "15%"
                 }
             ],
             "name": "Taxation in Mauritius",
@@ -1204,18 +1056,6 @@
         {
             "country": "Mongolia",
             "taxes": [
-                {
-                    "value": 10,
-                    "porcentage": "10%"
-                },
-                {
-                    "value": 10,
-                    "porcentage": "10%"
-                },
-                {
-                    "value": 10,
-                    "porcentage": "10%"
-                },
                 {
                     "value": 10,
                     "porcentage": "10%"
@@ -1367,10 +1207,6 @@
                     "porcentage": "0%"
                 },
                 {
-                    "value": 0,
-                    "porcentage": "0%"
-                },
-                {
                     "value": 5,
                     "porcentage": "5%"
                 }
@@ -1396,10 +1232,6 @@
                     "porcentage": "5%"
                 },
                 {
-                    "value": 15,
-                    "porcentage": "15%"
-                },
-                {
                     "value": 14.5,
                     "porcentage": "14.5%"
                 }
@@ -1423,14 +1255,6 @@
                 {
                     "value": 8,
                     "porcentage": "8%"
-                },
-                {
-                    "value": 10,
-                    "porcentage": "10%"
-                },
-                {
-                    "value": 10,
-                    "porcentage": "10%"
                 }
             ],
             "name": "Taxation in Paraguay",
@@ -1440,10 +1264,6 @@
             "country": "Pitcairn Islands",
             "name": "Taxation in Pitcairn Islands",
             "taxes": [
-                {
-                    "value": 0,
-                    "porcentage": "0%"
-                },
                 {
                     "value": 0,
                     "porcentage": "0%"
@@ -1457,14 +1277,6 @@
                 {
                     "value": 10,
                     "porcentage": "10%"
-                },
-                {
-                    "value": 0,
-                    "porcentage": "0%"
-                },
-                {
-                    "value": 0,
-                    "porcentage": "0%"
                 },
                 {
                     "value": 0,
@@ -1486,10 +1298,6 @@
                     "porcentage": "0%"
                 },
                 {
-                    "value": 30,
-                    "porcentage": "30%"
-                },
-                {
                     "value": 18,
                     "porcentage": "18%"
                 }
@@ -1503,10 +1311,6 @@
                 {
                     "value": 33,
                     "porcentage": "33%"
-                },
-                {
-                    "value": 0,
-                    "porcentage": "0%"
                 },
                 {
                     "value": 0,
@@ -1552,18 +1356,6 @@
                 {
                     "value": 0,
                     "porcentage": "0%"
-                },
-                {
-                    "value": 0,
-                    "porcentage": "0%"
-                },
-                {
-                    "value": 0,
-                    "porcentage": "0%"
-                },
-                {
-                    "value": 0,
-                    "porcentage": "0%"
                 }
             ],
             "name": "Taxation in Sark",
@@ -1579,14 +1371,6 @@
                 {
                     "value": 0,
                     "porcentage": "0%"
-                },
-                {
-                    "value": 0,
-                    "porcentage": "0%"
-                },
-                {
-                    "value": 15,
-                    "porcentage": "15%"
                 }
             ],
             "name": "Taxation in Saudi Arabia",
@@ -1621,14 +1405,6 @@
                 {
                     "value": 33,
                     "porcentage": "33%"
-                },
-                {
-                    "value": 15,
-                    "porcentage": "15%"
-                },
-                {
-                    "value": 15,
-                    "porcentage": "15%"
                 },
                 {
                     "value": 15,
@@ -1749,10 +1525,6 @@
                 {
                     "value": 40,
                     "porcentage": "40%"
-                },
-                {
-                    "value": 5,
-                    "porcentage": "5%"
                 }
             ],
             "name": "Taxation in Taiwan",
@@ -1768,10 +1540,6 @@
                 {
                     "value": 15,
                     "porcentage": "15%"
-                },
-                {
-                    "value": 30,
-                    "porcentage": "30%"
                 },
                 {
                     "value": 18,
@@ -1832,10 +1600,6 @@
                 {
                     "value": 0,
                     "porcentage": "0%"
-                },
-                {
-                    "value": 30,
-                    "porcentage": "30%"
                 },
                 {
                     "value": 12.5,
@@ -1910,14 +1674,6 @@
         {
             "country": "British Virgin Islands",
             "taxes": [
-                {
-                    "value": 0,
-                    "porcentage": "0%"
-                },
-                {
-                    "value": 0,
-                    "porcentage": "0%"
-                },
                 {
                     "value": 0,
                     "porcentage": "0%"
@@ -2059,10 +1815,6 @@
                 {
                     "value": 0,
                     "porcentage": "0%"
-                },
-                {
-                    "value": 10,
-                    "porcentage": "10%"
                 }
             ],
             "differencialTaxes": [
@@ -2278,14 +2030,6 @@
                 {
                     "value": 0,
                     "porcentage": "0%"
-                },
-                {
-                    "value": 0,
-                    "porcentage": "0%"
-                },
-                {
-                    "value": 0,
-                    "porcentage": "0%"
                 }
             ],
             "differencialTaxes": [
@@ -2384,10 +2128,6 @@
                 {
                     "value": 25,
                     "porcentage": "25%"
-                },
-                {
-                    "value": 25,
-                    "porcentage": "25%"
                 }
             ],
             "differencialTaxes": [
@@ -2443,10 +2183,6 @@
                 {
                     "value": 27.5,
                     "porcentage": "27.5%"
-                },
-                {
-                    "value": 15,
-                    "porcentage": "15%"
                 }
             ],
             "differencialTaxes": [
@@ -3046,10 +2782,6 @@
                 {
                     "value": 35,
                     "porcentage": "35%"
-                },
-                {
-                    "value": 35,
-                    "porcentage": "35%"
                 }
             ],
             "differencialTaxes": [
@@ -3420,10 +3152,6 @@
                 {
                     "value": 15,
                     "porcentage": "15%"
-                },
-                {
-                    "value": 0,
-                    "porcentage": "0%"
                 }
             ],
             "differencialTaxes": [
@@ -3446,14 +3174,6 @@
                 {
                     "value": 9,
                     "porcentage": "9%"
-                },
-                {
-                    "value": 15,
-                    "porcentage": "15%"
-                },
-                {
-                    "value": 15,
-                    "porcentage": "15%"
                 },
                 {
                     "value": 15,
@@ -4178,10 +3898,6 @@
                 {
                     "value": 42.77,
                     "porcentage": "42.77%"
-                },
-                {
-                    "value": 15,
-                    "porcentage": "15%"
                 }
             ],
             "differencialTaxes": [
@@ -4413,10 +4129,6 @@
                     "porcentage": "0%"
                 },
                 {
-                    "value": 35,
-                    "porcentage": "35%"
-                },
-                {
                     "value": 18,
                     "porcentage": "18%"
                 }
@@ -4469,14 +4181,6 @@
         {
             "country": "Moldova",
             "taxes": [
-                {
-                    "value": 12,
-                    "porcentage": "12%"
-                },
-                {
-                    "value": 12,
-                    "porcentage": "12%"
-                },
                 {
                     "value": 12,
                     "porcentage": "12%"
@@ -5247,10 +4951,6 @@
                 {
                     "value": 10,
                     "porcentage": "10%"
-                },
-                {
-                    "value": 15,
-                    "porcentage": "15%"
                 }
             ],
             "differencialTaxes": [
@@ -5327,10 +5027,6 @@
                 {
                     "value": 21,
                     "porcentage": "21%"
-                },
-                {
-                    "value": 25,
-                    "porcentage": "25%"
                 },
                 {
                     "value": 25,
