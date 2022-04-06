@@ -1,5 +1,4 @@
-//const fs = require('fs');
-//const path = require('path');
+
 import { readFileSync, writeFileSync } from "fs";
 import { resolve, dirname } from "path";
 import { fileURLToPath } from 'url'
@@ -74,23 +73,16 @@ class TaxTransformer {
 	transformTaxJsonDifferencial() {
 		const rawdata = readFileSync(resolve(dirname(this.filename), '../db-json/world-country-taxes.json'));
 		const taxes = JSON.parse(rawdata);
-		const normalCountries = taxes.countries.countryNormal.map((country) => {
-			if (!country.differencialTaxes) {
-
-				return { ...country, differencialTaxes: [] }
-			}
-			else {
-				return { ...country }
-			}
-		});
+		const normalCountries = taxes.countries.countryNormal
+			.map((country) => ({ ...country, differencialTaxes: !country.differencialTaxes ? [] : country.differencialTaxes }));
 		const result = [...normalCountries, ...taxes.countries.countryLaw]
 			.map((country) => {
 				const differencialTaxes = country.differencialTaxes
 					.map(value => ({ ...value, porcentage: value.porcentage.replace(",", ".") }))
 					.map(tax => ({ ...tax, value: parseFloat(tax.porcentage) }));
 				const taxes = country.taxes
-				.map((taxes) =>  taxes.replace(",", "."))
-				.map(tax => ({value:parseFloat(tax), porcentage:tax}));
+					.map((taxes) => taxes.replace(",", "."))
+					.map(tax => ({ value: parseFloat(tax), porcentage: tax }));
 				return { ...country, taxes, differencialTaxes }
 			});
 
@@ -98,10 +90,5 @@ class TaxTransformer {
 
 	}
 }
-/*module.exports = {
-	//taxTransformer: new TaxTransformer()
-	//firstName: 'James',
-	//lastName: 'Bond'
-	taxTransformer: TaxTransformer
-};;*/
+
 export { TaxTransformer }
