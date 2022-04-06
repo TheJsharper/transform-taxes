@@ -1,0 +1,24 @@
+{
+  "name": "transform-taxes",
+  "version": "1.0.0",
+  "description": "simple transform script",
+  "main": "--input-type=module index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node  --experimental-modules --inspect index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheJsharper/transform-taxes.git"
+  },
+  "keywords": [
+    "json",
+    "transformation"
+  ],
+  "author": "Pedro Salomon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheJsharper/transform-taxes/issues"
+  },
+  "homepage": "https://github.com/TheJsharper/transform-taxes#readme"
+}
