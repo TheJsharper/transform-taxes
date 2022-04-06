@@ -1,19 +1,19 @@
 //const fs = require('fs');
 //const path = require('path');
-import {readFileSync, writeFileSync}  from"fs"; 
-import {resolve, dirname}  from "path"; 
-import {fileURLToPath} from 'url'
+import { readFileSync, writeFileSync } from "fs";
+import { resolve, dirname } from "path";
+import { fileURLToPath } from 'url'
 
- class TaxTransformer {
+class TaxTransformer {
 
-	constructor(){
+	constructor() {
 		this.filename = fileURLToPath(import.meta.url)
 	}
 
 	transformTaxJson() {
 
-		let rawdata = readFileSync(resolve(dirname(this.filename), '../db-json/tax-from-wiki.json'));
-		let taxes = JSON.parse(rawdata);
+		const rawdata = readFileSync(resolve(dirname(this.filename), '../db-json/tax-from-wiki.json'));
+		const taxes = JSON.parse(rawdata);
 
 		const t = taxes.rows.map((values) => {
 			const result = values.cols.reduce((prev, cur) => {
@@ -69,13 +69,39 @@ import {fileURLToPath} from 'url'
 		}, { countryNormal: [], countryLaw: [] })
 
 		console.log("Normal country ==>", t.countryNormal.length, "Law Country", t.countryLaw.length);
-		writeFileSync(resolve(dirname(this.filename),"../db-json/taxes2.json"), JSON.stringify({ countries: t }));
+		writeFileSync(resolve(dirname(this.filename), "../db-json/taxes2.json"), JSON.stringify({ countries: t }));
+	}
+	transformTaxJsonDifferencial() {
+		const rawdata = readFileSync(resolve(dirname(this.filename), '../db-json/world-country-taxes.json'));
+		const taxes = JSON.parse(rawdata);
+		const normalCountries = taxes.countries.countryNormal.map((country) => {
+			if (!country.differencialTaxes) {
+
+				return { ...country, differencialTaxes: [] }
+			}
+			else {
+				return { ...country }
+			}
+		});
+		const result = [...normalCountries, ...taxes.countries.countryLaw]
+			.map((country) => {
+				const differencialTaxes = country.differencialTaxes
+					.map(value => ({ ...value, porcentage: value.porcentage.replace(",", ".") }))
+					.map(tax => ({ ...tax, value: parseFloat(tax.porcentage) }));
+				const taxes = country.taxes
+				.map((taxes) =>  taxes.replace(",", "."))
+				.map(tax => ({value:parseFloat(tax), porcentage:tax}));
+				return { ...country, taxes, differencialTaxes }
+			});
+
+		writeFileSync(resolve(dirname(this.filename), "../db-json/taxes-output.json"), JSON.stringify({ countries: result }, null, 4));
+
 	}
 }
 /*module.exports = {
 	//taxTransformer: new TaxTransformer()
 	//firstName: 'James',
-    //lastName: 'Bond'
+	//lastName: 'Bond'
 	taxTransformer: TaxTransformer
 };;*/
-export {TaxTransformer}
+export { TaxTransformer }

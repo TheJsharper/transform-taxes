@@ -4,6 +4,7 @@ import {TaxTransformer} from './src/transform.js';
   // console.log("===>", "Hello World", transform);
    //const transform = new transform.TaxTransformer();
    const transform = new TaxTransformer();
-   transform.transformTaxJson();
+  // transform.transformTaxJson();
+  transform.transformTaxJsonDifferencial();
   //console.log("===>", transform.firstName, transform.lastName);
   })();

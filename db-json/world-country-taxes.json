@@ -61,7 +61,7 @@
 				"25%",
 				"7%",
 				"58.95%",
-				"1.5% (turnover tax)"
+				"1.5%"
 			],
 			"name": "Taxation in Aruba"
 		}, {
@@ -221,8 +221,8 @@
 			"country": "Chile",
 			"taxes": [
 				"27%",
-				"0% (for monthly taxable incomes not over US$950)",
-				"35% (for monthly taxable incomes over US$8400)",
+				"0%",
+				"35%",
 				"19%"
 			],
 			"name": "Taxation in Chile"
@@ -405,7 +405,7 @@
 				"15%",
 				"3%",
 				"15%",
-				"0-300%"
+				"300%"
 			],
 			"name": "Taxation in Iraq"
 		}, {
@@ -509,7 +509,7 @@
 			"taxes": [
 				"30%",
 				"1.92%",
-				"35% + reduction of deductions (topes)",
+				"35%",
 				"16%"
 			],
 			"name": "Taxation in Mexico"
@@ -679,7 +679,7 @@
 			"taxes": [
 				"0%",
 				"0%",
-				"0% (Note: There are taxes on property and personal capital, maximum at Â£6,500.)",
+				"0%",
 				"0%"
 			],
 			"name": "Taxation in Sark"
@@ -730,7 +730,7 @@
 			"country": "South Africa",
 			"taxes": [
 				"28%",
-				"0% (below threshold)",
+				"0%",
 				"45%",
 				"15%"
 			],
@@ -747,7 +747,7 @@
 			"country": "Suriname",
 			"taxes": [
 				"36%",
-				"8% (first SRD2,646 per year is deductible)",
+				"8%",
 				"38%"
 			],
 			"name": "Taxation in Suriname"
@@ -1969,7 +1969,7 @@
 			"taxes": [
 				"0%",
 				"10%",
-				"18% (standard rate)8% (basic items)"
+				"18%"
 			],
 			"differencialTaxes": [{
 				"porcentage": "10%",
@@ -3114,7 +3114,7 @@
 				"25%",
 				"0%",
 				"45%",
-				"15% (standard rate)0% (on selected items)"
+				"15%"
 			],
 			"differencialTaxes": [{
 				"porcentage": "15%",
