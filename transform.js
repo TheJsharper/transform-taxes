@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-let rawdata = fs.readFileSync(path.resolve(__dirname, 'tax.json'));
+let rawdata = fs.readFileSync(path.resolve(__dirname, 'tax-raw.json'));
 let taxes = JSON.parse(rawdata);
 
 const t =taxes.rows.map((values)=>{
