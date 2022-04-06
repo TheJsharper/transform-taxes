@@ -3,7 +3,7 @@ import { readFileSync, writeFileSync } from "fs";
 import { resolve, dirname } from "path";
 import { fileURLToPath } from 'url'
 
-class TaxTransformer {
+export class TaxTransformer {
 
 	constructor() {
 		this.filename = fileURLToPath(import.meta.url)
@@ -82,6 +82,9 @@ class TaxTransformer {
 					.map(tax => ({ ...tax, value: parseFloat(tax.porcentage) }));
 				const taxes = country.taxes
 					.map((taxes) => taxes.replace(",", "."))
+					/*.reduce(tax=>{
+
+					})*/
 					.map(tax => ({ value: parseFloat(tax), porcentage: tax }));
 				return { ...country, taxes, differencialTaxes }
 			});
@@ -91,4 +94,3 @@ class TaxTransformer {
 	}
 }
 
-export { TaxTransformer }
