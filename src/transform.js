@@ -100,7 +100,49 @@ export class TaxTransformer {
 			});
 
 		writeFileSync(resolve(dirname(this.filename), "../db-json/taxes-output.json"), JSON.stringify({ countries: result }, null, 4));
+		this.#printAllCountries();
+	}
+	#mergeAllContriesWithTaxes(countryName) {
+		const rawDataTaxes = readFileSync(resolve(dirname(this.filename), '../db-json/taxes-output.json'));
+		const taxes = JSON.parse(rawDataTaxes);
+		const rawDataConutries = readFileSync(resolve(dirname(this.filename), /*'../db-json/all-countries.json'*/ countryName));
+		const countries = JSON.parse(rawDataConutries)
+		.map(country => {
+			const tax = taxes.countries.find(c => {
+				const countryName = c.country.toUpperCase();
+				const name = c.name.toUpperCase();
+				const commonName = country.name.common.toUpperCase();
+				const officialName = country.name.official.toUpperCase();
+				const isContainsName = countryName.includes(commonName) || name.includes(officialName) ||
+					countryName.includes(officialName) || name.includes(commonName);
+				return isContainsName;
+			});
+			if (tax) {
+				return { ...country, tax };
+			}
+			return { ...country };
+		});
+		return countries;
 
+	}
+	#printAllCountries() {
+		const folder = '../db-json';
+		[
+			`all-countries.json`,
+			`america-countries.json`,
+			`asia-countries.json`,
+			`africa-countries.json`,
+			`europe-countries.json`,
+			`oceania-countries.json`,
+		].map(path => ({
+			country: this.#mergeAllContriesWithTaxes(`${folder}/${path}`), path
+		})
+		).map(countryData => ({
+			country: countryData, path: `${folder}/output/taxed-${countryData.path}`
+		})).map(result => {
+			writeFileSync(resolve(dirname(this.filename), result.path/* "../db-json/taxes-output.json"*/), JSON.stringify(result.country, null, 4));
+			return { ...result, succes: true };
+		}).forEach(result => console.log("===>", result.path, "===>", result.succes));
 	}
 }
 
