@@ -898,14 +898,15 @@
 			}, {
 				"porcentage": "19%",
 				"type": "lowest rate"
-			}],
-			"differencialTaxes": [{
+			},
+            {
 				"porcentage": "9%",
 				"type": "standard rate"
 			}, {
 				"porcentage": "9%",
 				"type": "basic items"
-			}],
+			}
+            ],
 			"name": "Taxation in Algeria"
 		}, {
 			"country": "Andorra",
