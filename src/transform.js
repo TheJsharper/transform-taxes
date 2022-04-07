@@ -105,7 +105,7 @@ export class TaxTransformer {
 	#mergeAllContriesWithTaxes(countryName) {
 		const rawDataTaxes = readFileSync(resolve(dirname(this.filename), '../db-json/taxes-output.json'));
 		const taxes = JSON.parse(rawDataTaxes);
-		const rawDataConutries = readFileSync(resolve(dirname(this.filename), /*'../db-json/all-countries.json'*/ countryName));
+		const rawDataConutries = readFileSync(resolve(dirname(this.filename), countryName));
 		const countries = JSON.parse(rawDataConutries)
 		.map(country => {
 			const tax = taxes.countries.find(c => {
@@ -138,11 +138,11 @@ export class TaxTransformer {
 			country: this.#mergeAllContriesWithTaxes(`${folder}/${path}`), path
 		})
 		).map(countryData => ({
-			country: countryData, path: `${folder}/output/taxed-${countryData.path}`
+			countries: countryData.country, path: `${folder}/output/taxed-${countryData.path}`
 		})).map(result => {
-			writeFileSync(resolve(dirname(this.filename), result.path/* "../db-json/taxes-output.json"*/), JSON.stringify(result.country, null, 4));
-			return { ...result, succes: true };
-		}).forEach(result => console.log("===>", result.path, "===>", result.succes));
+			writeFileSync(resolve(dirname(this.filename), result.path), JSON.stringify(result.countries, null, 4));
+			return { ...result, success: true };
+		}).forEach(result => console.log("===>", result.path, "===>", result.success));
 	}
 }
 
